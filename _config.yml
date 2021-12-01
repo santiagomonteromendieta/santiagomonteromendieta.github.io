@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Santiago Montero-Mendieta"
+title                    : #"Santiago Montero-Mendieta"
 title_separator          : "-"
 name                     : &name "Santiago Montero-Mendieta"
 description              : &description "Personal website of Dr. Santiago Montero-Mendieta"
