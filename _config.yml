@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Santiago Montero Mendieta"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdoctoral researcher, Institute of Zoology, Chinese Academy of Sciences"
+  location         : "Beijing, China"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=montero-mendieta"
   googlescholar    : "https://scholar.google.com/citations?user=kecK5aoAAAAJ&hl=en"
@@ -93,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/people/santiago-montero-mendieta"
+  flickr           : "santiago-montero-mendieta"
   facebook         :
   foursquare       :
   github           : "biomendi"
