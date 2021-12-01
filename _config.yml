@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-logo                     : "/assets/logo-santi_3.png"
 title                    : "Santiago Montero-Mendieta"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -310,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+logo: "/assets/logo-santi_3.png"
