@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-logo                     : "/assets/images/logo.png"
 locale                   : "en-US"
 title                    : #"Santiago Montero-Mendieta"
 title_separator          : "-"
