@@ -15,31 +15,29 @@ Current position
 
 Academic career
 ======
-2021-: Postdoc in the lab of Baocheng Guo (Institute of Zoology, Chinese Academy of Sciences. Beijing, China)
-2015-2019: PhD in the lab of Carles Vilà (Doñana Biological Station, Spanish National Research Council, Seville, Spain)
-2013-2014: Master degree in Biodiversity with a major in evolutionary biology (University of Barcelona, Spain)
-2009-2013: Bachelor degree in Biology (University of Girona, Spain) 
+* 2021- Postdoc in the lab of Baocheng Guo (Institute of Zoology, Chinese Academy of Sciences. Beijing, China)
+* 2015-2019: PhD in the lab of Carles Vilà (Doñana Biological Station, Spanish National Research Council, Seville, Spain)
+* 2013-2014: Master degree in Biodiversity with a major in evolutionary biology (University of Barcelona, Spain)
+* 2009-2013: Bachelor degree in Biology (University of Girona, Spain) 
 
-Work experience
+Awards & grants
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020: CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) (2 years)
+* 2018: Travel grant to Matthew Webster's lab, Uppsala University, Sweden. Funded by the Spanish Government (4 months)​
+* 2017: 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen, The Netherlands: €150 
+* 2017: Travel grant to Matthew Webster's lab, Uppsala University, Sweden. Funded by the Spanish Government (4 months)
+* 2016: Travel grant to Matthew Webster's lab, Uppsala University, Sweden. Funded by the Spanish Government (4 months)
+* 2015: FPI (predoctoral) contract. Funded by Ministerio de Economía y Competitividad, Spain (4 years)
+* 2013: Erasmus scholarship at Linköping University, Sweden. Funded by the Spanish Government (6 months)
   
-Skills
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+I have used both molecular lab-work and bioinformatics tools to carry out my studies. My experience includes a wide variety of skills, such as: 
+* DNA extraction and PCR amplification
+* Processing genomic data, assembly and annotation (trimmomatic, samtools, bwa, bowtie, trinity, GATK, BLAST, ...)
+* Programming (UNIX, Perl, Python, R, AWK, ...)
+* Phylogenetic reconstructions (RAxML, BEAST, ...)
+* Population genomics (FST scans, population diversity, detecting selection, ...).
 
 Publications
 ======
