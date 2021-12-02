@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-CURRENT POSITION
+Current position
 ======
 * 2021- Postdoc, Institute of Zoology (IOZ), Chinese Academy of Sciences (CAS). Beijing, China. Advisor: Baocheng Guo (Fish Evolution and Genomics Group)
 
-CURRENT POSITION
+Academic career
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+2021-: Postdoc in the lab of Baocheng Guo (Institute of Zoology, Chinese Academy of Sciences. Beijing, China)
+2015-2019: PhD in the lab of Carles Vilà (Doñana Biological Station, Spanish National Research Council, Seville, Spain)
+2013-2014: Master degree in Biodiversity with a major in evolutionary biology (University of Barcelona, Spain)
+2009-2013: Bachelor degree in Biology (University of Girona, Spain) 
 
 Work experience
 ======
