@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+CURRENT POSITION
+======
+* 2021- Postdoc, Institute of Zoology (IOZ), Chinese Academy of Sciences (CAS). Beijing, China. Advisor: Baocheng Guo (Fish Evolution and Genomics Group)
+
+CURRENT POSITION
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
