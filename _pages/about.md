@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a markdown file for a talk](/images/santi_talking.jpeg)
-
 I am a postdoctoral researcher at the Institute of Zoology, Chinese Academy of Sciences, Beijing, China. Advisor: [Baocheng Guo](https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en).
+
+![Editing a markdown file for a talk](/images/santi_talking.jpeg)
 
 **Research aim:** I seek to advance our understanding on the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics.  
 
