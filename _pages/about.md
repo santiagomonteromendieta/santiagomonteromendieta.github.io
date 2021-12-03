@@ -8,19 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Institute of Zoology, Chinese Academy of Sciences, Beijing, China. Advisor: [Baocheng Guo](https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en).
+**Current position:** I am a postdoctoral researcher at the Institute of Zoology, Chinese Academy of Sciences, Beijing, China. Advisor: [Baocheng Guo](https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en).
 
-Research aim
-======
-I seek to advance our understanding on the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics.  
+**Research aim:** I seek to advance our understanding on the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics.  
 
-Research overview
-======
-during the past few years, my work has mainly involved bioinformatics analyses of genomic datasets to answer evolutionary questions. My research has led to a number of discoveries, including insights into the adaptation to high‐altitude habitats in honey bees, the diversification of Neotropical frogs in the Andes﻿​, and the high levels of cryptic diversity in the reptiles of the Socotra Archipelago.
+**Research overview:** during the past few years, my work has mainly involved bioinformatics analyses of genomic datasets to answer evolutionary questions. My research has led to a number of discoveries, including insights into the adaptation to high‐altitude habitats in honey bees, the diversification of Neotropical frogs in the Andes﻿​, and the high levels of cryptic diversity in the reptiles of the Socotra Archipelago.
 
-Future plans
-======
-I am happy to explore interesting evolutionary topics and to establish new collaborations with scientists around the world. If you need assistance with anything related to my PUBLICATIONS, I can help you. 
+**Future plans:** I am happy to explore interesting evolutionary topics and to establish new collaborations with scientists around the world. If you need assistance with anything related to my PUBLICATIONS, I can help you. 
 
 A bit more about me
 ------
