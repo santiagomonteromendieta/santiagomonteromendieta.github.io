@@ -48,13 +48,4 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
           class="altmetric-embed">
         </div>
     </div>
-    <div id="inner">
-      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1016/j.evolhumbehav.2014.06.008" 
-          data-orientation="horizontal" 
-          class="plumx-summary" 
-          data-site="plum" 
-          data-hide-when-empty="true">
-        </a>
-    </div>
   </section>
