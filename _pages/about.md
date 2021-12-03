@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<br/>
-
 **Current position:** I am a postdoctoral researcher at the Institute of Zoology, Chinese Academy of Sciences, Beijing, China. Advisor: [Baocheng Guo](https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en).
 
 **Research aim:** I seek to advance our understanding on the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics.  
