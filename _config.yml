@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Montero-Mendieta Santiago"
   avatar           : "profile.png"
-  bio              : "Evolutionary biologist, Ph.D. <br> <br> *Comparative Genomics, Molecular Evolution, Phylogenetics, Systematics, Zoology*"
+  bio              : "Evolutionary biologist, Ph.D. <br> <br> <pre>*Comparative Genomics, Molecular Evolution, Phylogenetics, Systematics, Zoology*<pre>"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=montero-mendieta"
