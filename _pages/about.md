@@ -14,9 +14,9 @@ I am a postdoctoral researcher at the [Institute of Zoology](http://english.ioz.
 
 **Research aim:** I seek to advance our understanding on the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics.  
 
-**Research overview:** during the past few years, my work has mainly involved bioinformatics analyses of genomic datasets to answer evolutionary questions. My research has led to a number of discoveries, including insights into the adaptation to high‐altitude habitats in honey bees, the diversification of Neotropical frogs in the Andes, and the high levels of cryptic diversity in the reptiles of the Socotra Archipelago.
+**Research overview:** during the past few years, my work has mainly involved bioinformatics analyses of genomic datasets to answer evolutionary questions. My research has led to a number of discoveries, including insights into the [adaptation to high‐altitude habitats in honey bees](https://onlinelibrary.wiley.com/doi/10.1111/mec.14986), the [diversification of Neotropical frogs in the Andes](https://doi.org/10.1016/j.ympev.2021.107167), and the [high levels of cryptic diversity in the reptiles of the Socotra Archipelago](https://doi.org/10.1371/journal.pone.0149985).
 
-**Future plans:** I am happy to explore interesting evolutionary topics and to establish new collaborations with scientists around the world. If you need assistance with anything related to my PUBLICATIONS, I can help you. 
+**Future plans:** I am happy to explore interesting evolutionary topics and to establish new collaborations with scientists around the world. If you need assistance with anything related to my [PUBLICATIONS](https://santiagomonteromendieta.github.io/publications/), I can help you. 
 
 <details>
   <summary><b>A bit more about me</b></summary>
