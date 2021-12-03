@@ -2,15 +2,15 @@
 main:
   - title: "ABOUT"
     url: /
-
-  - title: "CV"
-    url: /cv/
     
   - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "PHOTOGRAPHY"
-    url: /portfolio/
+  - title: "CV"
+    url: /cv/
+
+  # - title: "PHOTOGRAPHY"
+  #  url: /portfolio/
         
   # - title: "Talks"
   #  url: /talks/    
