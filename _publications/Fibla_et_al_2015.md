@@ -10,5 +10,3 @@ citation: 'Fibla, M., Ubach, A., Oromí, N., <b><u>Montero-Mendieta, S.</u></b>,
 ---
 
 [Download paper here](https://santiagomonteromendieta.github.io/files/Fibla_et_al_2015.pdf)
-
-Recommended citation: Fibla, M., Ubach, A., Oromí, N., <b><u>Montero-Mendieta, S.</u></b>, Camarasa, S., Pascual-Pons, M., Martínez-Silvestre, A., Montori, A. (2015). Población introducida de tritón alpino (Mesotriton alpestris) en el Prepirineo catalán. <i>Boletín de la Asociación Herpetológica Española</i>. 26(1)
