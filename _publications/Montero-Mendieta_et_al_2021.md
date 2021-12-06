@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Montero-Mendieta_et_al_2021
 date: 2021-03-30
 venue: 'Molecular Phylogenetics and Evolution'
-excerpt: ![](/images/graphical_abstract_Montero-Mendieta_et_al_2021.png)
+excerpt: Mountain ranges offer opportunities for understanding how species evolved and diversified across different environmental conditions. Neotropical frogs of the genus Oreobates are adapted to highland and lowland habitats along the Andes, but many aspects of their evolution remain unknown. We studied their evolutionary history using ~18,000 exons enriched by targeted sequence-capture ...
 paperurl: 'https://doi.org/10.1016/j.ympev.2021.107167'
 citation: '<b><u>Montero-Mendieta, S.</u></b>, De la Riva, I.,  Irisarri, I., Leonard, J.A., Webster, M.T., Vilà, C. (2021). Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients. <i>Molecular Phylogenetics and Evolution</i>, 161, 107167'
 ---
