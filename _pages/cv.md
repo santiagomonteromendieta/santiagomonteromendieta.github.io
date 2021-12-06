@@ -29,12 +29,6 @@ Awards & grants
 * 2016: Travel grant to Matthew Webster's lab, Uppsala University, Sweden. Funded by the Spanish Government (4 months)
 * 2015: FPI (predoctoral) contract. Funded by Ministerio de Economía y Competitividad, Spain (4 years)
 * 2013: Erasmus scholarship at Linköping University, Sweden. Funded by the Spanish Government (6 months)
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Courses & workshops
 ======
@@ -59,7 +53,7 @@ Reviewer expercience
 I have reviewed scientific articles for the following several journals:
 * BMC Genomics
 * Conservation Genetics
-* G3: Genes | Genomes | Genetics
+* G3: Genes|Genomes|Genetics
 * PLOS ONE
 
 Publications
@@ -67,3 +61,9 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
