@@ -41,7 +41,7 @@ I have used both molecular lab-work and bioinformatics tools to carry out my stu
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
