@@ -50,7 +50,7 @@ I have used both molecular lab-work and bioinformatics tools to carry out my stu
 
 Reviewer expercience
 ======
-I have reviewed scientific articles for the following several journals:
+I have reviewed scientific articles for the following journals:
 * BMC Genomics
 * Conservation Genetics
 * G3: Genes,Genomes,Genetics
