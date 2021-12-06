@@ -53,7 +53,7 @@ Reviewer expercience
 I have reviewed scientific articles for the following several journals:
 * BMC Genomics
 * Conservation Genetics
-* G3: Genes|Genomes|Genetics
+* G3: Genes,Genomes,Genetics
 * PLOS ONE
 
 Publications
