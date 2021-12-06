@@ -30,6 +30,21 @@ Awards & grants
 * 2015: FPI (predoctoral) contract. Funded by Ministerio de Economía y Competitividad, Spain (4 years)
 * 2013: Erasmus scholarship at Linköping University, Sweden. Funded by the Spanish Government (6 months)
   
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Courses & workshops
+======
+* 2018: Workshop on Population and Speciation Genomics (Cesky Krumlov, Czech Republic; 2 weeks)
+* 2017: Workshop Bioinformatics for Adaptation (Valencia, Spain; 2 days)
+* 2017: Workshop on Phylogenomics  (Cesky Krumlov, Czech Republic; 2 weeks)
+* 2016: Perl programming with application to bioinformatics (BMC, Uppsala University, Sweden; 1 week)
+* 2015: NGS for evolutionary biologists: from basic scripting to variant calling (ELIXIR-ITA, Sapienza Università di Roma, Italy; 1 week)
+* 2014: Foundations of R programming and graphics, with application to the research in biodiversity (University of Barcelona, Spain; 1 week)
+
 Research experience
 ======
 I have used both molecular lab-work and bioinformatics tools to carry out my studies. My experience includes a wide variety of skills, such as: 
@@ -37,17 +52,18 @@ I have used both molecular lab-work and bioinformatics tools to carry out my stu
 * Processing genomic data, assembly and annotation (trimmomatic, samtools, bwa, bowtie, trinity, GATK, BLAST, ...)
 * Programming (UNIX, Perl, Python, R, AWK, ...)
 * Phylogenetic reconstructions (RAxML, BEAST, ...)
-* Population genomics (FST scans, population diversity, detecting selection, ...).
+* Population genomics (FST scans, population diversity, detecting selection, ...)
+
+Reviewer expercience
+======
+I have reviewed scientific articles for the following several journals:
+* BMC Genomics
+* Conservation Genetics
+* G3: Genes | Genomes | Genetics
+* PLOS ONE
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul>  
