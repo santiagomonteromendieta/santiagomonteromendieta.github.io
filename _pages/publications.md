@@ -8,43 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-
-<h1>Publication thumbnails</h1> 
-
-<div class="container">  
-
-<div class="row">
-  <div class="thumb-box">
-  <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2021.pdf"><img src="/images/graphical_abstract_Montero-Mendieta_et_al_2021.png" _width="640" _height="480" alt="">
-  </a>
-</div>
-
-  <div class="thumb-box">
-  <a href="">
-      <img src="https://picsum.photos/640/480" alt="">
-     <span class="overlay-box">
-    <span class="meta">Feb 20, 2019</span>
-    <span class="main-title">Simply the best text for dummy world is lorem lipsum.</span>
-    <span class="description">Lorem lipsum dollar set is the best dummy...</span>
-      </span>
-  </a>
-</div>
-
-  <div class="thumb-box">
-  <a href="">
-      <img src="https://picsum.photos/640/480/?random" alt="">
-    <span class="overlay-box">
-    <span class="meta">Feb 20, 2019</span>
-    <span class="main-title">How can we edit lorem lipsum text for dummy data.</span>
-    <span class="description">Lorem lipsum dollar set is the best dummy text for the web world which has the best interaction...</span>
-      </span>
-  </a>
-</div>
-</div>
-</div>
-
-<br>
-
 <h1>Peer-reviewed publications</h1> 
 <ol reversed start="8">
   
