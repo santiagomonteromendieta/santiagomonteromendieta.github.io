@@ -9,21 +9,18 @@ author_profile: true
 
 
 
+<h1>Publication thumbnails</h1> 
 
-
-
-
-<div class="container">
-  
+<div class="container">  
 
 <div class="row">
   <div class="thumb-box">
   <a href="">
-    <img src="https://picsum.photos/640/480/?random" alt="">
+    <img src="https://github.com/santiagomonteromendieta/santiagomonteromendieta.github.io/blob/master/images/graphical_abstract_Montero-Mendieta_et_al_2021.png" alt="">
      <span class="overlay-box">
-    <span class="meta">Feb 20, 2019</span>
-    <span class="main-title">Lorem lipsum dollar set for dummy text.</span>
-    <span class="description">Lorem lipsum dollar set is the best dummy text for the web world which has the best interaction Lorem lipsum dollar set is the best dummy text for the web world which has the best interaction...</span>
+    <span class="meta">2021</span>
+    <span class="main-title">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</span>
+    <span class="description">Mountain ranges offer opportunities for understanding how species evolved and diversified across different environmental conditions. Neotropical frogs of the genus Oreobates are adapted...</span>
       </span>
   </a>
 </div>
@@ -52,12 +49,7 @@ author_profile: true
 </div>
 </div>
 
-
-
-
-
-
-
+<br>
 
 <h1>Peer-reviewed publications</h1> 
 <ol reversed start="8">
