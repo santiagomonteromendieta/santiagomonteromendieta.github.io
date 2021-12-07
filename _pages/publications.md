@@ -16,11 +16,11 @@ author_profile: true
 <div class="row">
   <div class="thumb-box">
   <a href="">
-    <img src="https://github.com/santiagomonteromendieta/santiagomonteromendieta.github.io/blob/master/images/graphical_abstract_Montero-Mendieta_et_al_2021.png" alt="">
+    <img src="https://github.com/santiagomonteromendieta/santiagomonteromendieta.github.io/blob/master/images/graphical_abstract_Montero-Mendieta_et_al_2021.png" _width="640" _height="480" alt="">
      <span class="overlay-box">
     <span class="meta">2021</span>
     <span class="main-title">Phylogenomics and evolutionary history of Oreobates</span>
-    <span class="description">Mountain ranges offer opportunities for understanding how species evolved and diversified across different environmental conditions. Neotropical frogs of the genus Oreobates are adapted...</span>
+    <span class="description">Mountain ranges offer opportunities for understanding ...</span>
       </span>
   </a>
 </div>
