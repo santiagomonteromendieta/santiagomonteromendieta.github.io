@@ -16,13 +16,13 @@ author_profile: true
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
-  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/evo.13666"></div></div><b>Montero-Mendieta, S.</b>* & Dheer, A.* (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/evo.13666">Digest: Resolving phylogenomic conflicts in characiform fishes</a>.<i> Evolution</i>, 73-2: 416–418. https://doi.org/10.1111/evo.13666
+  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/evo.13666"></div></div><b>Montero-Mendieta, S.</b>† & Dheer, A.† (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/evo.13666">Digest: Resolving phylogenomic conflicts in characiform fishes</a>.<i> Evolution</i>, 73-2: 416–418. https://doi.org/10.1111/evo.13666
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_&_Dheer_2019.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
-  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/mec.14986"></div></div><b>Montero-Mendieta, S.</b>*, Tan, K.*, Christmas, M.J., Olsson, A., Vilà, C., Wallberg, A., Webster, M.T. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>.<i> Molecular Ecology</i>, 28: 746–760. https://doi.org/10.1111/mec.14986
+  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/mec.14986"></div></div><b>Montero-Mendieta, S.</b>†, Tan, K.†, Christmas, M.J., Olsson, A., Vilà, C., Wallberg, A., Webster, M.T. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>.<i> Molecular Ecology</i>, 28: 746–760. https://doi.org/10.1111/mec.14986
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2019.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
@@ -46,7 +46,7 @@ author_profile: true
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
-   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1371/journal.pone.0149985"></div></div>Vasconcelos, R.*, <b>Montero-Mendieta, S.</b>*, Simó-Riudalbas, M., Sindaco, R., Santos, X., Fasola, M., Llorente, G.A., Razzetti, E., Carranza, S. (2016). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149985">Unexpectedly high levels of cryptic diversity uncovered by a complete DNA barcoding of reptiles of the Socotra Archipelago</a>.<i> PLOS ONE</i>, 11(3): e0149985. https://doi.org/10.1371/journal.pone.0149985
+   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1371/journal.pone.0149985"></div></div>Vasconcelos, R.†, <b>Montero-Mendieta, S.</b>†, Simó-Riudalbas, M., Sindaco, R., Santos, X., Fasola, M., Llorente, G.A., Razzetti, E., Carranza, S. (2016). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149985">Unexpectedly high levels of cryptic diversity uncovered by a complete DNA barcoding of reptiles of the Socotra Archipelago</a>.<i> PLOS ONE</i>, 11(3): e0149985. https://doi.org/10.1371/journal.pone.0149985
 <a href="https://santiagomonteromendieta.github.io/files/Vasconcelos_et_al_2016.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
@@ -58,7 +58,7 @@ author_profile: true
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
 
-\* Both authors (arguably) contributed equally to these works.
+† These authors (arguably) contributed equally.
 </ol>
 <br>
   
