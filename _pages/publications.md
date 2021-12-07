@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=kecK5aoAAAAJ&hl=en">my Google Scholar profile</a>.</u>
-
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=kecK5aoAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
