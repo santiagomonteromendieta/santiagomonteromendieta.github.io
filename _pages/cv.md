@@ -30,6 +30,20 @@ Awards & grants
 * 2015: FPI (predoctoral) contract. Funded by Ministerio de Economía y Competitividad, Spain (4 years)
 * 2013: Erasmus scholarship at Linköping University, Sweden. Funded by the Spanish Government (6 months)
 
+Conferences & talks
+======
+* 2020: Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Sevilla, Spain: 5-7/02/2020)
+* 2018: Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France: 18-23/08/2018): [Multiple loci drive high-altitude adaptation in the Eastern honey bee (Apis cerana)](https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html)
+* 2018: Talk at SevinOmics Spring Meeting (Seville, Spain: 09/04/2018): [Genome adaptations to high altitude in the Eastern honeybee](https://www.slideshare.net/SantiagoMonteroMendi/genome-adaptations-to-high-altitude-in-the-eastern-honeybee)
+* 2017: Talk at IMBIM Genomics Friday (Uppsala, Sweden: 22/09/2017): Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee
+* 2017: Poster presentation at XVI European Society for Evolutionary Biology (ESEB) Congress (Groningen, The Netherlands: 20-25/08/2017): [Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee](https://github.com/santiagomonteromendieta/santiagomonteromendieta.github.io/blob/master/images/poster_groningen_2017.png)
+* 2017: Talk in Doñana Biological Station (Seville, Spain: 02/02/2017): [A genomic view on the diversification of Neotropical frogs](https://www.slideshare.net/SantiagoMonteroMendi/a-genomic-view-on-the-diversification-of-neotropical-frogs)
+* 2016: Attendance to XVI Jornades Herpetològiques Catalanes (Parets del Vallès, Spain: 23/10/2016)
+* 2016: Attendance to The Ecology of Genome Evolution Symposium (Uppsala, Sweden: 09/09/2016)
+* 2016: Talk in SevinOmics Spring Meeting (Seville, Spain: 16/03/2016): [Genome size estimation in amphibians through real-time PCR](https://www.slideshare.net/SantiagoMonteroMendi/genome-size-estimation-by-qpcr-2016-sevinomics)
+* 2014: Talk in XV Jornades Herpetològiques Catalanes (Sant Feliu de Codines, Spain: 11/10/2014): [DNA barcoding of the reptiles of the Socotra archipelago](https://www.slideshare.net/SantiagoMonteroMendi/dna-barcoding-of-the-reptiles-of-the-socotra-archipelago)
+* 2014: Attendance to XIV Jornada de Biologia Evolutiva (Barcelona, Spain: 01/07/2014)
+
 Courses & workshops
 ======
 * 2018: Workshop on Population and Speciation Genomics (Cesky Krumlov, Czech Republic; 2 weeks)
@@ -55,15 +69,3 @@ I have reviewed scientific articles for the following journals:
 * Conservation Genetics
 * G3: Genes,Genomes,Genetics
 * PLOS ONE
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
-
-Talks (in construction)
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
