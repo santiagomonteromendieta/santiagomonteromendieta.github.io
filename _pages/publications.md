@@ -15,5 +15,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <li><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.ympev.2021.107167"></div>
 <b><u>Montero-Mendieta, S.</u></b>, De la Riva, I.,  Irisarri, I., Leonard, J.A., Webster, M.T., Vilà, C. (2021). <a href="https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsy099/5168059">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients.</a><i> Molecular Phylogenetics and Evolution</i>, 161, 107167. <a href="https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsy099/5168059">doi:10.1093/scan/nsy099</a>
 </li>
+
+<li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/cercor/bhy281"></div></div>
+Karjalainen T., Seppälä K., <b>Glerean E.</b>, Karlsson H.K., Lahnakoski J.M., Nuutila P., Jääskeläinen I.P., Hari R., Sams M., Nummenmaa L. (in press)</b>
+<br><a href="https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhy281/5196355">Opioidergic Regulation of Emotional Arousal: A Combined PET–fMRI Study</a>
+<br>Cerebral Cortex <a href="https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhy281/5196355">doi:10.1093/cercor/bhy281</a>
+<br><i>[Helped with choices regarding data analysis and methods, wrote the manuscript]</i>
+</li>
   
   
