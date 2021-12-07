@@ -55,12 +55,11 @@ author_profile: true
    <li>Fibla, M., Ubach, A., Oromí, N., <b>Montero-Mendieta, S.</b>, Camarasa, S., Pascual-Pons, M., Martínez-Silvestre, A., Montori, A. (2015). <a href="http://www.herpetologica.org/BAHE/BAHE26(1)_[240]_05_Dist03.pdf">Población introducida de tritón alpino (Mesotriton alpestris) en el Prepirineo catalán</a>.<i> Boletín de la Asociación Herpetológica Española</i>. 26(1).
 <a href="https://santiagomonteromendieta.github.io/files/Fibla_et_al_2015.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
-</ol>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
 
 \* Both authors (arguably) contributed equally to these works.
-  
+</ol>
 <br>
   
 <h1>Doctoral dissertation</h1>
