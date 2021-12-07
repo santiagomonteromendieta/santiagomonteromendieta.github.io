@@ -18,9 +18,7 @@ author_profile: true
   <a href="">
     <img src="/images/graphical_abstract_Montero-Mendieta_et_al_2021.png" _width="640" _height="480" alt="">
      <span class="overlay-box">
-    <span class="meta">2021</span>
-    <span class="main-title">Phylogenomics and evolutionary history of Oreobates</span>
-    <span class="description">Mountain ranges offer opportunities for understanding ...</span>
+    <span class="main-title">Montero-Mendieta et al. (2021)</span>
       </span>
   </a>
 </div>
