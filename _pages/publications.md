@@ -10,25 +10,25 @@ author_profile: true
 <h1>Peer-reviewed publications</h1> 
 <ol reversed start="8">
   
-<li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.ympev.2021.107167"></div></div><b>Montero-Mendieta, S.</b>, De la Riva, I.,  Irisarri, I., Leonard, J.A., Webster, M.T., Vilà, C. (2021). <a href="https://www.sciencedirect.com/science/article/pii/S1055790321001007" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>.<i> Molecular Phylogenetics and Evolution</i>, 161, 107167. https://doi.org/10.1016/j.ympev.2021.107167
+<li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1016/j.ympev.2021.107167"></div></div><b>Montero-Mendieta, S.</b>, De la Riva, I.,  Irisarri, I., Leonard, J.A., Webster, M.T., Vilà, C. (2021). <a href="https://www.sciencedirect.com/science/article/pii/S1055790321001007" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>.<i> Molecular Phylogenetics and Evolution</i>, 161, 107167. https://doi.org/10.1016/j.ympev.2021.107167
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2021.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a><details><summary><b>Data access</b></summary>Research data (probe sequences, alignments, trees, and scripts) are available on Github: https://github.com/biomendi/OREOBATES-PHYLOGENOMICS. Raw reads in FASTQ format have been deposited at the NCBI Sequence Read Archive (SRA) under BioProject PRJNA631142</details>
 </li>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
-  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/evo.13666"></div></div><b>Montero-Mendieta, S.</b>† & Dheer, A.† (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/evo.13666" target="_blank">Digest: Resolving phylogenomic conflicts in characiform fishes</a>.<i> Evolution</i>, 73-2: 416–418. https://doi.org/10.1111/evo.13666
+  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1111/evo.13666"></div></div><b>Montero-Mendieta, S.</b>† & Dheer, A.† (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/evo.13666" target="_blank">Digest: Resolving phylogenomic conflicts in characiform fishes</a>.<i> Evolution</i>, 73-2: 416–418. https://doi.org/10.1111/evo.13666
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_&_Dheer_2019.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
-  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/mec.14986"></div></div><b>Montero-Mendieta, S.</b>†, Tan, K.†, Christmas, M.J., Olsson, A., Vilà, C., Wallberg, A., Webster, M.T. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>.<i> Molecular Ecology</i>, 28: 746–760. https://doi.org/10.1111/mec.14986
+  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1111/mec.14986"></div></div><b>Montero-Mendieta, S.</b>†, Tan, K.†, Christmas, M.J., Olsson, A., Vilà, C., Wallberg, A., Webster, M.T. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>.<i> Molecular Ecology</i>, 28: 746–760. https://doi.org/10.1111/mec.14986
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2019.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
 
-   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.7717/peerj.3702"></div></div><b>Montero-Mendieta, S.</b>, Grabherr, M., Lantz, H., De la Riva, I., Leonard, J.A., Webster, M.T., Vilà, C. (2017). <a href="https://peerj.com/articles/3702" target="_blank">A practical guide to build de-novo assemblies for single tissues of non-model organisms: the example of a Neotropical frog</a>.<i> PeerJ</i>, 5, e3702. https://doi.org/10.7717/peerj.3702
+   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.7717/peerj.3702"></div></div><b>Montero-Mendieta, S.</b>, Grabherr, M., Lantz, H., De la Riva, I., Leonard, J.A., Webster, M.T., Vilà, C. (2017). <a href="https://peerj.com/articles/3702" target="_blank">A practical guide to build de-novo assemblies for single tissues of non-model organisms: the example of a Neotropical frog</a>.<i> PeerJ</i>, 5, e3702. https://doi.org/10.7717/peerj.3702
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2017b.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
@@ -40,13 +40,13 @@ author_profile: true
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
 
-   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.11646/zootaxa.4221.5.1"></div></div>Rodríguez, A., Dugo-Cota, A., <b>Montero-Mendieta, S.</b>, Alonso, R., Vences, M., Vilà, C. (2017). <a href="https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4221.5.1" target="_blank">Cryptic within cryptic: genetics, morphometrics, and bioacoustics delimitate a new species of Eleutherodactylus (Anura: Eleutherodactylidae) from Eastern Cuba</a>.<i> Zootaxa</i>, 4221(5): 501–522. https://doi.org/10.11646/zootaxa.4221.5.1
+   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.11646/zootaxa.4221.5.1"></div></div>Rodríguez, A., Dugo-Cota, A., <b>Montero-Mendieta, S.</b>, Alonso, R., Vences, M., Vilà, C. (2017). <a href="https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4221.5.1" target="_blank">Cryptic within cryptic: genetics, morphometrics, and bioacoustics delimitate a new species of Eleutherodactylus (Anura: Eleutherodactylidae) from Eastern Cuba</a>.<i> Zootaxa</i>, 4221(5): 501–522. https://doi.org/10.11646/zootaxa.4221.5.1
 <a href="https://santiagomonteromendieta.github.io/files/Rodriguez_et_al_2017.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
-   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1371/journal.pone.0149985"></div></div>Vasconcelos, R.†, <b>Montero-Mendieta, S.</b>†, Simó-Riudalbas, M., Sindaco, R., Santos, X., Fasola, M., Llorente, G.A., Razzetti, E., Carranza, S. (2016). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149985" target="_blank">Unexpectedly high levels of cryptic diversity uncovered by a complete DNA barcoding of reptiles of the Socotra Archipelago</a>.<i> PLOS ONE</i>, 11(3): e0149985. https://doi.org/10.1371/journal.pone.0149985
+   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1371/journal.pone.0149985"></div></div>Vasconcelos, R.†, <b>Montero-Mendieta, S.</b>†, Simó-Riudalbas, M., Sindaco, R., Santos, X., Fasola, M., Llorente, G.A., Razzetti, E., Carranza, S. (2016). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149985" target="_blank">Unexpectedly high levels of cryptic diversity uncovered by a complete DNA barcoding of reptiles of the Socotra Archipelago</a>.<i> PLOS ONE</i>, 11(3): e0149985. https://doi.org/10.1371/journal.pone.0149985
 <a href="https://santiagomonteromendieta.github.io/files/Vasconcelos_et_al_2016.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
