@@ -77,7 +77,7 @@ author_profile: true
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
 
-   <li>iBOL (The Barcode Bulletin) Newsletter Vol. 7, No. 2 (Jun 3, 2016): <a href="https://ibol.org/wp-content/uploads/2016/06/iBOL-Barcode-Bulletin-June-2016.pdf">Unexpected cryptic diversity in Socotra's reptiles</a>. <a href="https://santiagomonteromendieta.github.io/files/2016-ibol-socotra.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
+   <li>iBOL - The Barcode Bulletin Newsletter Vol. 7, No. 2 (Jun 3, 2016): <a href="https://ibol.org/wp-content/uploads/2016/06/iBOL-Barcode-Bulletin-June-2016.pdf">Unexpected cryptic diversity in Socotra's reptiles</a>. <a href="https://santiagomonteromendieta.github.io/files/2016-ibol-socotra.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
