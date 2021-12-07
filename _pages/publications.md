@@ -16,11 +16,8 @@ author_profile: true
 <div class="row">
   <div class="thumb-box">
   <a href="">
-    <img src="/images/graphical_abstract_Montero-Mendieta_et_al_2021.png" _width="640" _height="480" alt="">
-     <span class="overlay-box">
-    <span class="main-title">Montero-Mendieta et al. (2021)</span>
-      </span>
-  </a>
+    <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2021.pdf"><img src="/images/graphical_abstract_Montero-Mendieta_et_al_2021.png" _width="640" _height="480" alt="">
+  </a></a>
 </div>
 
   <div class="thumb-box">
