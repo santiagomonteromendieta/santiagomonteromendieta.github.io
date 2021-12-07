@@ -82,5 +82,5 @@ author_profile: true
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
 
-   <li>CSIC Press (Dec 28, 2018): <a href="https://rdcsic.dicat.csic.es/index.php/en/recursos-naturales-2/121-projects/372-more-than-50-of-socotra-s-reptiles-still-undiscovered">More than 50% of Socotra’s reptiles, still undiscovered</a>. <a href="https://santiagomonteromendieta.github.io/files/2016-csic-socotra.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
+   <li>R+D CSIC Press (Apr 14, 2016): <a href="https://rdcsic.dicat.csic.es/index.php/en/recursos-naturales-2/121-projects/372-more-than-50-of-socotra-s-reptiles-still-undiscovered">More than 50% of Socotra’s reptiles, still undiscovered</a>. <a href="https://santiagomonteromendieta.github.io/files/2016-csic-socotra.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
