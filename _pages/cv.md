@@ -23,7 +23,7 @@ Academic career
 Awards & grants
 ======
 * 2020: CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) (2 years)
-* 2018: Travel grant to Matthew Webster's lab, Uppsala University, Sweden. Funded by the Spanish Government (4 months)​
+* 2018: Travel grant to Matthew Webster's lab, Uppsala University, Sweden. Funded by the Spanish Government (4 months)
 * 2017: 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen, The Netherlands: €150 
 * 2017: Travel grant to Matthew Webster's lab, Uppsala University, Sweden. Funded by the Spanish Government (4 months)
 * 2016: Travel grant to Matthew Webster's lab, Uppsala University, Sweden. Funded by the Spanish Government (4 months)
@@ -32,7 +32,7 @@ Awards & grants
 
 Conferences & talks
 ======
-* 2020: Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Sevilla, Spain: 5-7/02/2020)
+* 2020: Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Seville, Spain: 5-7/02/2020)
 * 2018: Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France: 18-23/08/2018): [Multiple loci drive high-altitude adaptation in the Eastern honey bee (Apis cerana)](https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html)
 * 2018: Talk at SevinOmics Spring Meeting (Seville, Spain: 09/04/2018): [Genome adaptations to high altitude in the Eastern honeybee](https://www.slideshare.net/SantiagoMonteroMendi/genome-adaptations-to-high-altitude-in-the-eastern-honeybee)
 * 2017: Talk at IMBIM Genomics Friday (Uppsala, Sweden: 22/09/2017): Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee
