@@ -14,14 +14,20 @@ author_profile: true
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2021.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
+<div style="height:1px;font-size:1px;">&nbsp;</div>
+  
   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/evo.13666"></div></div><b>Montero-Mendieta, S.</b> & Dheer, A. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/evo.13666">Digest: Resolving phylogenomic conflicts in characiform fishes</a>.<i> Evolution</i>, 73-2: 416–418. https://doi.org/10.1111/evo.13666
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_&_Dheer_2019.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
+ <br style="line-height:0px;" />
+  
   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/mec.14986"></div></div><b>Montero-Mendieta, S.</b>, Tan, K., Christmas, M.J., Olsson, A., Vilà, C., Wallberg, A., Webster, M.T. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>.<i> Molecular Ecology</i>, 28: 746–760. https://doi.org/10.1111/mec.14986
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2019.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
-  
+
+<br>
+
    <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.7717/peerj.3702"></div></div><b>Montero-Mendieta, S.</b>, Grabherr, M., Lantz, H., De la Riva, I., Leonard, J.A., Webster, M.T., Vilà, C. (2017). <a href="https://peerj.com/articles/3702">A practical guide to build de-novo assemblies for single tissues of non-model organisms: the example of a Neotropical frog</a>.<i> PeerJ</i>, 5, e3702. https://doi.org/10.7717/peerj.3702
 <a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2017b.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
