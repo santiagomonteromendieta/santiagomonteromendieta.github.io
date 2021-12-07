@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer-reviewed publications
-=====
-
 {% include base_path %}
+
+<h1>Peer-reviewed publications</h1> 
+
+<br>
 
 <ol reversed start="8">
   
