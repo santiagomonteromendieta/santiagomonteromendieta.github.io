@@ -24,3 +24,17 @@ author_profile: true
 <b>Montero-Mendieta, S.</b>, Tan, K., Christmas, M.J., Olsson, A., Vilà, C., Wallberg, A., Webster, M.T. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>.<i> Molecular Ecology</i>, 28: 746–760. https://doi.org/10.1111/mec.14986
 <br><a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2019.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
+  
+   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.7717/peerj.3702"></div></div>
+<b>Montero-Mendieta, S.</b>, Grabherr, M., Lantz, H., De la Riva, I., Leonard, J.A., Webster, M.T., Vilà, C. (2017). <a href="https://peerj.com/articles/3702/">A practical guide to build de-novo assemblies for single tissues of non-model organisms: the example of a Neotropical frog</a>.<i> PeerJ</i>, 5, e3702. https://doi.org/10.7717/peerj.3702
+<br><a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2017b.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
+</li>
+  
+   <li><b>Montero-Mendieta, S.</b>, Ferrer, J., Hammou, M.A., Dahmani, W., Sanuy, D., Camarasa, S. (2017). <a href="https://www.zobodat.at/pdf/HER_29_3_4_0155-0161.pdf">Another record or a new taxon? A candidate species of Chalcides Laurenti, 1768, in North Africa (Squamata: Sauria: Scincidae)</a>.<i> Herpetozoa</i>, 29(3/4): 155-161.
+<br><a href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2017a.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
+</li>
+
+   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.11646/zootaxa.4221.5.1"></div></div>
+Rodríguez, A., Dugo-Cota, A., <b>Montero-Mendieta, S.</b>, Alonso, R., Vences, M., Vilà, C. (2017). <a href="https://peerj.com/articles/3702/">Cryptic within cryptic: genetics, morphometrics, and bioacoustics delimitate a new species of Eleutherodactylus (Anura: Eleutherodactylidae) from Eastern Cuba</a>.<i> Zootaxa</i>, 4221(5): 501–522. https://doi.org/10.11646/zootaxa.4221.5.1
+<br><a href="https://santiagomonteromendieta.github.io/files/Rodriguez_et_al_2017.pdf"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
+</li>
