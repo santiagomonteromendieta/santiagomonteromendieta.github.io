@@ -5,14 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+Peer-reviewed publications
 =====
-
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=kecK5aoAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
-<h2>Peer-reviewed publications</h2>
 <ol reversed start="8">
   
 <li><div class="myAltMcontainer"><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.ympev.2021.107167"></div></div>
