@@ -74,7 +74,7 @@ author_profile: true
 
    🇪🇸 CSIC Press (Dec 28, 2018): <a href="https://www.europapress.es/ciencia/laboratorio/noticia-abejas-cambian-comportamiento-adaptarse-zonas-altas-20181226140729.html" target="_blank">Descubren que las abejas se adaptan a zonas altas mediante cambios en su comportamiento</a>. <a href="https://santiagomonteromendieta.github.io/files/2018-csic-bees.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 
-<div style="height:20px;font-size:20px;">&nbsp;</div>
+<div style="height:5px;font-size:5px;">&nbsp;</div>
 
    🇬🇧 iBOL - The Barcode Bulletin Newsletter Vol. 7, No. 2 (Jun 3, 2016): <a href="https://ibol.org/wp-content/uploads/2016/06/iBOL-Barcode-Bulletin-June-2016.pdf" target="_blank">Unexpected cryptic diversity in Socotra's reptiles</a>. <a href="https://santiagomonteromendieta.github.io/files/2016-ibol-socotra.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 
