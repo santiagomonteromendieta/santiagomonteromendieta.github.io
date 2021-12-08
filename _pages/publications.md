@@ -71,7 +71,7 @@ div.desc {
     <a target="_blank" href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2021.pdf" target="_blank">
       <img src="/images/graphical_abstract_Montero-Mendieta_et_al_2021.png" alt="" width="600" height="400">
     </a>
-    <div class="desc">Phylogenomics and evolutionary history of Oreobates Neotropical frogs along elevational gradients</div>
+    <div class="desc">8</div>
   </div>
 </div>
 
@@ -80,7 +80,7 @@ div.desc {
     <a target="_blank" href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_&_Dheer_2019.pdf">
       <img src="/images/graphical_abstract_Montero-Mendieta_&_Dheer_2019.png" alt="" width="600" height="400">
     </a>
-    <div class="desc">Digest: Resolving phylogenomic conflicts in characiform fishes</div>
+    <div class="desc">7</div>
   </div>
 </div>
 
@@ -89,7 +89,7 @@ div.desc {
     <a target="_blank" href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2019.pdf">
       <img src="/images/graphical_abstract_Montero-Mendieta_et_al_2019.png" alt="" width="600" height="400">
     </a>
-    <div class="desc">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</div>
+    <div class="desc">6</div>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ div.desc {
     <a target="_blank" href="https://santiagomonteromendieta.github.io/files/Montero-Mendieta_et_al_2017b.pdf">
       <img src="/images/graphical_abstract_Montero-Mendieta_et_al_2017b.png" alt="" width="600" height="400">
     </a>
-    <div class="desc">A practical guide to build de-novo assemblies for single tissues of non-model organisms: the example of a Neotropical frog</div>
+    <div class="desc">5</div>
   </div>
 </div>
 </body>
