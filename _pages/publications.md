@@ -70,7 +70,7 @@ author_profile: true
 
 <br>
   
-<h1>Scientific news & bulletins</h1>
+<h1>Scientific news & bulletins <small>(most relevant ones only)</small></h1>
 
    🇪🇸 CSIC Press (Dec 28, 2018): <a href="https://www.europapress.es/ciencia/laboratorio/noticia-abejas-cambian-comportamiento-adaptarse-zonas-altas-20181226140729.html" target="_blank">Descubren que las abejas se adaptan a zonas altas mediante cambios en su comportamiento</a>. <a href="https://santiagomonteromendieta.github.io/files/2018-csic-bees.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 
