@@ -7,6 +7,7 @@
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
        <div class="box"><a href="https://santiagomonteromendieta.github.io/files/articles/{{ filename }}.pdf" target="_blank" title="{{ filename }}">
          <img src="{{ site.thumbsurl }}{{file.name }} " alt="{{ filename }}"  class="img-gallery" />
+         <span>{{ filename }}</span>
        </a></div>
       {% endif %}
     {% endif %}
