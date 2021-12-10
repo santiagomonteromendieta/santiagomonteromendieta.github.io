@@ -5,6 +5,10 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  	--light-text-color: rgb(72, 72, 74);
+  	--link-color: rgb(0, 112, 201);
+  	--main-background-color: rgb(255, 255, 255);
+  	--main-text-color: rgb(51, 51, 51);
 }
 
 body {
