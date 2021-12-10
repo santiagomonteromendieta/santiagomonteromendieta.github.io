@@ -4,12 +4,12 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-
-Test 9
-
 {% include base_path %}
 
+<h1>Graphical abstracts</h1> 
 {% include my-gallery.html folder="/images/thumbs" %}
+
+<br>
 
 <h1>Peer-reviewed publications</h1> 
 <ol reversed start="8">
