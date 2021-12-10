@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+{% include my-gallery.html folder="myfolder" %}
 
 <h1>Peer-reviewed publications</h1> 
 <ol reversed start="8">
