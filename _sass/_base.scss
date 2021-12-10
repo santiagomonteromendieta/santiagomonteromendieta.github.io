@@ -320,7 +320,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
    /*! div style */
   .image-gallery {
-    width: 100%;
+    width: 95%;
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
     justify-content: center;
