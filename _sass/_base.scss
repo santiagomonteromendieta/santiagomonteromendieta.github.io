@@ -325,6 +325,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
     justify-content: center;
     padding: 4px;
+    border: 1px solid #ccc;
   }
 
   .box {
