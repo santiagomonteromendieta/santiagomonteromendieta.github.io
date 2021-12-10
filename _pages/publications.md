@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Test 2
+Test 3
 
 {% include base_path %}
 
-{% include my-gallery.html folder="myfolder" %}
+{% include my-gallery.html folder="/images/thumbs" %}
 
 <h1>Peer-reviewed publications</h1> 
 <ol reversed start="8">
