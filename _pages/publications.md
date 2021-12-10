@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Test
+
 {% include base_path %}
 
 {% include my-gallery.html folder="myfolder" %}
