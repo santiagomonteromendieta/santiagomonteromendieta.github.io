@@ -312,5 +312,5 @@ compress_html:
     envs: development
 
 # Add gallery
-imagesurl: "santiagomonteromendieta/images/thumbs/"
-thumbsurl: "santiagomonteromendieta/images/thumbs/"
+imagesurl: "/images/thumbs/"
+thumbsurl: "/images/thumbs/"
