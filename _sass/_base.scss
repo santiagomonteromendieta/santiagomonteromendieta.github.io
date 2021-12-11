@@ -5,14 +5,9 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  	--light-text-color: rgb(72, 72, 74);
-  	--link-color: rgb(0, 112, 201);
-  	--main-background-color: rgb(255, 255, 255);
-  	--main-text-color: rgb(51, 51, 51);
 }
 
 body {
-  	background-color: var(--main-background-color);
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
@@ -359,12 +354,3 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 /*
    Add dark theme
    ========================================================================== */
-
-@media (prefers-color-scheme: dark) {
-	html {
-		--light-text-color: rgb(255, 255, 255);
-  		--link-color: rgb( 100, 210, 255);
-  		--main-background-color: rgb(28, 28, 30);
-  		--main-text-color: rgb(255, 255, 255);
-	}
-}
