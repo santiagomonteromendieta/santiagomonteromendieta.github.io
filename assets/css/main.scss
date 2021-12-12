@@ -25,7 +25,7 @@
 @import "notices";
 @import "masthead";
 @import "navigation";
-@import "footer";
+@import "footer" {display: none;};
 @import "syntax";
 
 @import "forms";
