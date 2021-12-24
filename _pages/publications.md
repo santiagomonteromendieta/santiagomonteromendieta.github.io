@@ -19,7 +19,7 @@ author_profile: true
   <details><summary><b>Data access</b></summary>Research data (probe sequences, alignments, trees, and scripts) are available on Github: https://github.com/biomendi/OREOBATES-PHYLOGENOMICS. Raw reads in FASTQ format have been deposited at the NCBI Sequence Read Archive (SRA) under BioProject PRJNA631142</details>
 </li>
   
-<div style="border-radius: 10px; background: beige; padding: 10px;">Rounded</div>
+<div style="border-radius: 10px; background:#e0f3ff; padding: 10px;"><b>Data access:</b> Research data (probe sequences, alignments, trees, and scripts) are available on Github: https://github.com/biomendi/OREOBATES-PHYLOGENOMICS. Raw reads in FASTQ format have been deposited at the NCBI Sequence Read Archive (SRA) under BioProject PRJNA631142</div>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
