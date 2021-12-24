@@ -15,7 +15,8 @@ author_profile: true
 <ol reversed start="8">
   
 <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1016/j.ympev.2021.107167"></div></div><b>Montero-Mendieta, S.</b>, De la Riva, I.,  Irisarri, I., Leonard, J.A., Webster, M.T., Vilà, C. (2021). <a href="https://www.sciencedirect.com/science/article/pii/S1055790321001007" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>.<i> Molecular Phylogenetics and Evolution</i>, 161, 107167. https://doi.org/10.1016/j.ympev.2021.107167
-<a href="https://santiagomonteromendieta.github.io/files/articles/8-Montero-Mendieta_et_al_2021.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a><details><summary><b>Data access</b></summary>Research data (probe sequences, alignments, trees, and scripts) are available on Github: https://github.com/biomendi/OREOBATES-PHYLOGENOMICS. Raw reads in FASTQ format have been deposited at the NCBI Sequence Read Archive (SRA) under BioProject PRJNA631142</details>
+<a href="https://santiagomonteromendieta.github.io/files/articles/8-Montero-Mendieta_et_al_2021.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
+  <details><summary><b>Data access</b></summary>Research data (probe sequences, alignments, trees, and scripts) are available on Github: https://github.com/biomendi/OREOBATES-PHYLOGENOMICS. Raw reads in FASTQ format have been deposited at the NCBI Sequence Read Archive (SRA) under BioProject PRJNA631142</details>
 </li>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
@@ -68,8 +69,12 @@ author_profile: true
   
 <h1>Doctoral dissertation</h1>
 
+<img src="/images/phdthesis_coverpage.png" alt="phdthesis_coverpage" width="200" height="auto" align="left">
+
    <b>Montero-Mendieta, S.</b> (2019). <a href="https://idus.us.es/handle/11441/92589" target="_blank">A genomic view on the adaptation and diversification of natural populations</a>. (Tesis Doctoral Inédita). Universidad de Sevilla, Sevilla.
 <a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
+
+<i>Earlier studies in evolutionary genetics focused on a few model organisms such as fruit flies or mice that are limited when it comes to answering evolutionary and ecological questions. In contrast, genetic studies of natural populations have now become common and can provide a more realistic understanding of how natural selection, genetic drift, mutation, and gene flow shape the patterns of phenotypic and genetic diversity, as well as adaptation and diversification across a range of environmental conditions. This dissertation illustrates how current genomic tools can be effectively used to (1) study the evolutionary history of species along altitudinal gradients, and (2) understand the genetic basis of adaptive phenotypes in populations inhabiting high-altitude habitats.</i>
 
 <br>
   
