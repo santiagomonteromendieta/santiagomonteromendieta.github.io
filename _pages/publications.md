@@ -69,7 +69,7 @@ author_profile: true
   
 <h1>Doctoral dissertation</h1>
 
-<img src="/images/phdthesis_coverpage.png" alt="phdthesis_coverpage" width="200" height="auto" align="left" style="vertical-align:bottom;margin-right:20px">
+<img src="/images/phdthesis_coverpage.png" alt="phdthesis_coverpage" width="200" height="auto" align="left" style="vertical-align:bottom;margin-right:20px;margin-top:10px">
 
    <b>Montero-Mendieta, S.</b> (2019). <a href="https://idus.us.es/handle/11441/92589" target="_blank">A genomic view on the adaptation and diversification of natural populations</a>. (Tesis Doctoral Inédita). Universidad de Sevilla, Sevilla.
 <a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
