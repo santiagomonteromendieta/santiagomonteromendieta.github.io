@@ -71,10 +71,10 @@ author_profile: true
 
 <img src="/images/phdthesis_coverpage.png" alt="phdthesis_coverpage" width="195" height="auto" align="left" style="vertical-align:bottom;margin-right:20px;margin-top:12px;border: 1px solid #555;">
 
+<i>Earlier studies in evolutionary genetics focused on a few model organisms such as fruit flies or mice that are limited when it comes to answering evolutionary and ecological questions. In contrast, genetic studies of natural populations have now become common and can provide a more realistic understanding of how natural selection, genetic drift, mutation, and gene flow shape the patterns of phenotypic and genetic diversity, as well as adaptation and diversification across a range of environmental conditions. This dissertation illustrates how current genomic tools can be effectively used to (1) study the evolutionary history of species along altitudinal gradients, and (2) understand the genetic basis of adaptive phenotypes in populations inhabiting high-altitude habitats.</i>
+
    <b>Montero-Mendieta, S.</b> (2019). <a href="https://idus.us.es/handle/11441/92589" target="_blank">A genomic view on the adaptation and diversification of natural populations</a>. (Tesis Doctoral Inédita). Universidad de Sevilla, Sevilla.
 <a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
-
-<i>Earlier studies in evolutionary genetics focused on a few model organisms such as fruit flies or mice that are limited when it comes to answering evolutionary and ecological questions. In contrast, genetic studies of natural populations have now become common and can provide a more realistic understanding of how natural selection, genetic drift, mutation, and gene flow shape the patterns of phenotypic and genetic diversity, as well as adaptation and diversification across a range of environmental conditions. This dissertation illustrates how current genomic tools can be effectively used to (1) study the evolutionary history of species along altitudinal gradients, and (2) understand the genetic basis of adaptive phenotypes in populations inhabiting high-altitude habitats.</i>
 
 <br>
   
