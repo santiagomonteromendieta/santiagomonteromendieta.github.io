@@ -18,7 +18,7 @@ author_profile: true
 <a href="https://santiagomonteromendieta.github.io/files/articles/8-Montero-Mendieta_et_al_2021.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
   
-<div style="border-radius: 10px; background:#8899A6; padding: 10px;"><b>Data access:</b> Research data (probe sequences, alignments, trees, and scripts) are available on Github: https://github.com/biomendi/OREOBATES-PHYLOGENOMICS. Raw reads in FASTQ format have been deposited at the NCBI Sequence Read Archive (SRA) under BioProject PRJNA631142</div>
+<div style="border-radius: 10px; background:#BFBFBF; padding: 10px;"><b>Data access:</b> Research data (probe sequences, alignments, trees, and scripts) are available on Github: https://github.com/biomendi/OREOBATES-PHYLOGENOMICS. Raw reads in FASTQ format have been deposited at the NCBI Sequence Read Archive (SRA) under BioProject PRJNA631142</div>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
