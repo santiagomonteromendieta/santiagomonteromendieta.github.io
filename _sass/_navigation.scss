@@ -430,3 +430,10 @@
     }
   }
 }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .greedy-nav {
+      background-color: #000;
+      color: white;
+  }
