@@ -235,3 +235,11 @@
     }
   }
 }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .author__urls {
+      background-color: #000;
+      color: white;
+  }
+}
