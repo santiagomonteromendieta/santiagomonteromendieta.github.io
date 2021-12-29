@@ -28,7 +28,7 @@ Awards & grants
 * 2017: 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen, The Netherlands 
 * 2017: Travel grant to Matthew Webster's lab, Uppsala University, Sweden -- <i>Funded by the Spanish Government</i> (4 months)
 * 2016: Travel grant to Matthew Webster's lab, Uppsala University, Sweden -- <i>Funded by the Spanish Government</i> (4 months)
-* 2015: Training of research personnel (official contract to conduct PhD studies) -- <i>Funded by the Spanish Government</i> (4 years)
+* 2015: Training of research personnel (work contract to conduct PhD studies) -- <i>Funded by the Spanish Government</i> (4 years)
 * 2013: Erasmus scholarship at Linköping University, Sweden -- <i>Funded by the Spanish Government</i> (6 months)
 
 Conferences & talks
