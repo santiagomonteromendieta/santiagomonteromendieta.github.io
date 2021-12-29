@@ -22,14 +22,14 @@ Academic career
 
 Awards & grants
 ======
-* 2021: Research Fund for International Young Scientists (RFIS-I) -- <i>Funded by the National Natural Science Foundation of China (NSFC)</i> (2 years)
-* 2020: CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) -- <i>Funded by the Chinese Academy of Sciences (CAS)</i> (2 years)
-* 2018: Travel grant to Matthew Webster's lab, Uppsala University, Sweden -- <i>Funded by the Spanish Government</i> (4 months)
+* 2021: Research Fund for International Young Scientists (RFIS-I) -- <i>Funded by the National Natural Science Foundation of China (NSFC) (2 years)</i> 
+* 2020: CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) -- <i>Funded by the Chinese Academy of Sciences (CAS) (2 years)</i> 
+* 2018: Travel grant to Matthew Webster's lab, Uppsala University, Sweden -- <i>Funded by the Spanish Government (4 months)</i> 
 * 2017: 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen, The Netherlands 
-* 2017: Travel grant to Matthew Webster's lab, Uppsala University, Sweden -- <i>Funded by the Spanish Government</i> (4 months)
-* 2016: Travel grant to Matthew Webster's lab, Uppsala University, Sweden -- <i>Funded by the Spanish Government</i> (4 months)
-* 2015: Training of research personnel (work contract to conduct PhD studies) -- <i>Funded by the Spanish Government</i> (4 years)
-* 2013: Erasmus scholarship at Linköping University, Sweden -- <i>Funded by the Spanish Government</i> (6 months)
+* 2017: Travel grant to Matthew Webster's lab, Uppsala University, Sweden -- <i>Funded by the Spanish Government (4 months)</i> 
+* 2016: Travel grant to Matthew Webster's lab, Uppsala University, Sweden -- <i>Funded by the Spanish Government (4 months)</i> 
+* 2015: Formación de Personal Investigador - Research personnel training (work contract to conduct PhD studies) -- <i>Funded by the Spanish Government (4 years)</i> 
+* 2013: Erasmus scholarship at Linköping University, Sweden -- <i>Funded by the Spanish Government (6 months)</i> 
 
 Conferences & talks
 ======
