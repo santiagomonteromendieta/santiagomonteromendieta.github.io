@@ -68,4 +68,5 @@ I have reviewed scientific articles for the following journals:
 * BMC Genomics
 * Conservation Genetics
 * G3: Genes,Genomes,Genetics
+* Molecular Ecology Resources
 * PLOS ONE
