@@ -25,6 +25,6 @@ I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" targe
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
 
-**Funding:** My research is currently funded by the Chinese Academy of Sciences (CAS) and the National Natural Science Foundation of China (CAS).
+**Funding:** My research is currently funded by the Chinese Academy of Sciences (CAS) & the National Natural Science Foundation of China (NSFC).
 
 <img src="https://santiagomonteromendieta.github.io/images/logos_cas_nsfc.png" alt="logos_cas_nsfc" width="400"/>
