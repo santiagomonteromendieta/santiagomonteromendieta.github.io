@@ -63,7 +63,7 @@ I have used both molecular lab-work and bioinformatics tools to carry out my stu
 * Phylogenetic reconstructions (RAxML, BEAST, ...)
 * Population genomics (FST scans, population diversity, detecting selection, ...)
 
-Reviewer expercience
+Reviewer experience
 ======
 I have reviewed scientific articles for the following journals:
 * BMC Genomics
