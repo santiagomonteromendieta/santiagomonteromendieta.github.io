@@ -66,9 +66,9 @@ I have used both molecular lab-work and bioinformatics tools to carry out my stu
 Reviewer experience
 ======
 I have reviewed scientific articles for the following journals:
-* BMC Genomics
 * <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a>
-* Conservation Genetics
-* G3: Genes,Genomes,Genetics
-* Molecular Ecology Resources
-* PLOS ONE
+* <a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a>
+* <a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a>
+* <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a>
+* <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a>
+* <a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a>
