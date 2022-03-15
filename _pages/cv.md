@@ -67,6 +67,7 @@ Reviewer experience
 ======
 I have reviewed scientific articles for the following journals:
 * BMC Genomics
+* <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a>
 * Conservation Genetics
 * G3: Genes,Genomes,Genetics
 * Molecular Ecology Resources
