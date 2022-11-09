@@ -65,7 +65,7 @@ I have used both molecular lab-work and bioinformatics tools to carry out my stu
 
 Reviewer experience
 ======
-I have reviewed scientific articles for the following journals (numbers in parentheses indicate the number of reviews I have completed for each journal as of November 2022):
+I have reviewed scientific articles for the following journals (values in parentheses indicate the number of reviews I have completed for each journal as of November 2022):
 * <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3)
 * <a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a> (1)
 * <a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a> (1)
