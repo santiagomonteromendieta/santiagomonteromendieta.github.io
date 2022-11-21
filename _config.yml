@@ -93,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "santiago-montero-mendieta"
+  flickr           : #"santiago-montero-mendieta"
   facebook         :
   foursquare       :
   github           : "biomendi"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  publons          : "https://publons.com/researcher/2456169/santiago-montero-mendieta/"
+  publons          : #"https://publons.com/researcher/2456169/santiago-montero-mendieta/"
 
 
 # Reading Files
