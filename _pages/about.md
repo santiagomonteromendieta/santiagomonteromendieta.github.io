@@ -18,7 +18,7 @@ Hi, I am Santiago (but you can call me Santi for short). I am a postdoctoral res
 
 **Research overview:** during the past few years, my work has mainly involved bioinformatics analyses of genomic datasets to answer evolutionary questions. My research has led to a number of discoveries, including insights into the <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">adaptation to high‐altitude habitats in honey bees</a>, the <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">diversification of Neotropical frogs in the Andes</a>, and the <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">high levels of cryptic diversity in the reptiles of the Socotra Archipelago</a>.
 
-**Future plans:** I am happy to explore interesting evolutionary topics and to establish new collaborations with scientists around the world. If you need assistance with anything related to my [PUBLICATIONS](https://santiagomonteromendieta.github.io/publications/), I can help you. 
+**Future plans:** I am happy to explore interesting evolutionary topics and to establish new collaborations with scientists around the world. My email is not shared in this page to avoid spam but you can contact me via social networks. 
 
 <details>
   <summary><b>Bio (click to show)</b></summary>
