@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Santiago (but you can call me Santi for short). I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ) from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences</a> (CAS).
+Hi, I am Santiago but you can call me Santi for short. I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ) from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences</a> (CAS).
 
 ![Santi talking](/images/santi_talking.jpeg)
 
