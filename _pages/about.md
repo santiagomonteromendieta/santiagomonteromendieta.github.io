@@ -12,7 +12,7 @@ Hi, I am Santiago but you can call me Santi for short. I am a postdoctoral resea
 
 ![Santi talking](/images/santi_talking.jpeg)
 
-**Research aim:** I seek to advance our understanding on the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics and my current advisor is <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a> from the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (FEGG).
+**Research aim:** I seek to advance our understanding on the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics and my advisor is <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a> from the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (FEGG).
 
 ![FEGG members in 2023](/images/FEGG_2023.png)
 
