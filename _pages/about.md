@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal website of Dr. Santiago Montero-Mendieta"
+title: "Dr. Montero-Mendieta's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ) from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences</a> (CAS). Current advisor: <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a>.
+My name is Santiago, but call me Santi for short. I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ) from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences</a> (CAS). Current advisor: <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a>.
 
 ![Santi talking](/images/santi_talking.jpeg)
 
