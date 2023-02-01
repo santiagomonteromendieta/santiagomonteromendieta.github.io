@@ -46,6 +46,9 @@
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
+      {% if author.researcherid %}
+        <li><a href="https://www.webofscience.com/wos/author/record/{{ author.researcherid }}" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i> ResearcherID</a></li>
+      {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}" target="_blank"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
