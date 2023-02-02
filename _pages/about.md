@@ -12,11 +12,11 @@ Hi, my name is Santi. I am a postdoctoral researcher at the <a href="http://engl
 
 ![Santi talking](/images/santi_talking.jpeg)
 
-**Research aim:** to understand the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics and my advisor is <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a> from the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (FEGG).
+**My research:** my focus is to understand the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics and my advisor is <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a> from the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (FEGG).
 
 ![FEGG members in 2023](/images/FEGG_2023.png)
 
-**Research overview:** during the past few years, my work has mainly involved bioinformatics analyses of genomic datasets to answer evolutionary questions. My research has led to a number of discoveries, including insights into the <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">adaptation to high‐altitude habitats in honey bees</a>, the <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">diversification of Neotropical frogs in the Andes</a>, and the <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">high levels of cryptic diversity in the reptiles of the Socotra Archipelago</a>.
+**My results:** during the past few years, my work has mainly involved bioinformatics analyses of genomic datasets to answer evolutionary questions. My research has led to a number of discoveries, including insights into the <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">adaptation to high‐altitude habitats in honey bees</a>, the <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">diversification of Neotropical frogs in the Andes</a>, and the <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">high levels of cryptic diversity in the reptiles of the Socotra Archipelago</a>.
 
 **Contact me:** I am happy to explore interesting evolutionary topics and to establish new collaborations with people around the world. My email is not shared in this page to avoid spam but you can send me a private message in any of my social networks (ResearchGate, Mastodon, LinkedIn, ...) and I will reply you as soon as possible. 
 
