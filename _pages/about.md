@@ -18,7 +18,7 @@ Hi, my name is Santi. I am a postdoctoral researcher at the <a href="http://engl
 
 **Research overview:** during the past few years, my work has mainly involved bioinformatics analyses of genomic datasets to answer evolutionary questions. My research has led to a number of discoveries, including insights into the <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">adaptation to high‐altitude habitats in honey bees</a>, the <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">diversification of Neotropical frogs in the Andes</a>, and the <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">high levels of cryptic diversity in the reptiles of the Socotra Archipelago</a>.
 
-**Future plans:** I am happy to explore interesting evolutionary topics and to establish new collaborations with scientists around the world. My email is not shared in this page to avoid spam but you can contact me via social networks. 
+**Contact me:** I am happy to explore interesting evolutionary topics and to establish new collaborations with people around the world. My email is not shared in this page to avoid spam but you can send me a private message in any of my social networks (ResearchGate, Mastodon, LinkedIn, ...) and I will reply you as soon as possible. 
 
 <details>
   <summary><b>Bio (click to show)</b></summary>
