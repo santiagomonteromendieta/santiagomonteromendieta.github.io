@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Santi. I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ) from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences</a> (CAS).
+Hi, my name is Santi. I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ, Beijing) from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences</a> (CAS).
 
 ![Santi talking](/images/santi_talking.jpeg)
 
@@ -27,6 +27,6 @@ Hi, my name is Santi. I am a postdoctoral researcher at the <a href="http://engl
 
 <br>
 
-**Funding:** My research is currently funded by the Chinese Academy of Sciences (CAS) & the National Natural Science Foundation of China (NSFC).
+**Funding:** My research is currently funded by a PIFI fellowship from the Chinese Academy of Sciences (CAS) and by research funds for international young scientists provided the National Natural Science Foundation of China (NSFC). I am very thankful for the opportunities that China is giving me to develop my research career. 
 
 <p style="text-align:center;"><img src="https://santiagomonteromendieta.github.io/images/logos_cas_nsfc.png" alt="logos_cas_nsfc" width="400"></p>
