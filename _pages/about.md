@@ -27,6 +27,6 @@ Hi, my name is Santi. I am a postdoctoral researcher at the <a href="http://engl
 
 <br>
 
-**Funding:** My research is currently funded by a PIFI fellowship from the Chinese Academy of Sciences (CAS) and by research funds for international young scientists provided the National Natural Science Foundation of China (NSFC). I think China is a great country to conduct research, and I am very thankful for all the support that China is giving me to progress in my career as a scientist. 
+**Funding:** My research is currently funded by a PIFI fellowship from the Chinese Academy of Sciences (CAS) and by research funds for international young scientists provided the National Natural Science Foundation of China (NSFC). 
 
 <p style="text-align:center;"><img src="https://santiagomonteromendieta.github.io/images/logos_cas_nsfc.png" alt="logos_cas_nsfc" width="400"></p>
