@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, my name is Santi. I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ, Beijing) from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences</a> (CAS).
 
-![Santi talking](/images/santi_talking.jpeg)
+![Santi talking](/images/santi_office.JPG)
 
 **Research:** my focus is to understand the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics and my advisor is <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a> from the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (FEGG).
 
