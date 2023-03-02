@@ -13,7 +13,7 @@ Current position
 ======
 * 2021- Postdoc, Institute of Zoology (IOZ), Chinese Academy of Sciences (CAS). Beijing, China. Advisor: Baocheng Guo (Fish Evolution and Genomics Group)
 
-<div style="text-align:center"><img src="https://github.com/santiagomonteromendieta/santiagomonteromendieta.github.io/blob/master/images/santi_office.jpg?raw=true" width="50%" height="50%" /></div>
+<div style="text-align:center"><img src="https://github.com/santiagomonteromendieta/santiagomonteromendieta.github.io/blob/master/images/santi_office.jpg?raw=true" width="70%" height="70%" /></div>
 
 Academic career
 ======
