@@ -10,15 +10,11 @@ redirect_from:
 
 Hi, my name is Santi. I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ, Beijing) from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences</a> (CAS).
 
-![Santi at the office](/images/santi_office.jpg)
+![Santi doing research on fish ](/images/santi_stickleback.jpg)
 
 **Research:** my focus is to understand the evolutionary mechanisms that produce and shape animal diversity on Earth through the study of genes and genomes. I am currently working on fish evolutionary genomics and my advisor is <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a> from the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (FEGG).
 
-![Santi doing research on fish ](/images/santi_stickleback.jpg)
-
 **Results:** during the past few years, my work has mainly involved bioinformatics analyses of genomic datasets to answer evolutionary questions. My research has led to a number of discoveries, including insights into the <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">adaptation to high‐altitude habitats in honey bees</a>, the <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">diversification of Neotropical frogs in the Andes</a>, and the <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">high levels of cryptic diversity in the reptiles of the Socotra Archipelago</a>.
-
-![FEGG members in 2023](/images/FEGG_2023.jpg)
 
 **Contact:** I am happy to explore interesting evolutionary topics and to establish new collaborations with people around the world. My email is not shared in this page to avoid spam but you can send me a private message in any of my social networks (ResearchGate, Mastodon, LinkedIn, ...) and I will reply you as soon as possible. 
 
@@ -28,6 +24,8 @@ Hi, my name is Santi. I am a postdoctoral researcher at the <a href="http://engl
 </details>
 
 <br>
+
+![FEGG members in 2023](/images/FEGG_2023.jpg)
 
 **Funding:** My research is currently funded by a PIFI fellowship from the Chinese Academy of Sciences (CAS) and by research funds for international young scientists provided the National Natural Science Foundation of China (NSFC). 
 
