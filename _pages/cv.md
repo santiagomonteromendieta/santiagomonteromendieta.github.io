@@ -13,7 +13,7 @@ Current position
 ======
 * 2021- Postdoc, Institute of Zoology (IOZ), Chinese Academy of Sciences (CAS). Beijing, China. Advisor: Baocheng Guo (Fish Evolution and Genomics Group)
 
-![Santi at FEGG's office](/images/santi_office.jpg width="40%" height="40%")
+<img src="https://github.com/santiagomonteromendieta/santiagomonteromendieta.github.io/blob/master/images/santi_office.jpg" width="40%" height="40%">
 
 Academic career
 ======
