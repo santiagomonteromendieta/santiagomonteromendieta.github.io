@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "santiago-montero-mendieta-8a321b60"
+  linkedin         : #"santiago-montero-mendieta-8a321b60"
   researcherid     : "P-3298-2014"
   orcid            : "https://orcid.org/0000-0002-8350-4655"
   pinterest        :
@@ -110,8 +110,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "biomendi"
-  mastodon         : "@biomendi"
+  twitter          : #"biomendi"
+  mastodon         : #"@biomendi"
   vine             :
   weibo            :
   xing             :
