@@ -22,6 +22,4 @@ Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the
 
 <p style="text-align:center;"><img src="https://santiagomonteromendieta.github.io/images/logos_cas_nsfc.png" alt="logos_cas_nsfc" width="400"></p>
 
-Feel free to explore my website and get in touch with me for any inquiries or collaborations.
-
 **Contact:** Feel free to explore my website and get in touch with me for any inquiries or collaborations. I am always open to exploring interesting evolutionary topics and establishing new collaborations with researchers from around the world. Text me at: biomendi-ioz-ac-cn. To ensure that you are human and not a spam bot, please replace the first hyphen with the at symbol and the remaining ones with period symbols. Thanks for your interesting in my work.
