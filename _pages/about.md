@@ -19,9 +19,13 @@ Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the
 <details>
   <summary><b>Brief bio (click to show)</b></summary>
   Born nearby the city of Barcelona in Spain. From a young age, one of my dreams was to become a scientist and make new discoveries that can help us to better understand our world. My passion for scientific discovery led me to pursue a BSc in Biology at the University of Girona. During my undergraduate studies, I developed a keen interest in animal behavior and had the opportunity to conduct my thesis at Linköping University in Sweden.
+  
 <br>
+
   I then pursued an MSc in Biodiversity with a major in evolutionary biology at the University of Barcelona. This period provided me with valuable research experience at the Institute of Evolutionary Biology in Barcelona. Subsequently, I embarked on a Ph.D. at the Doñana Biological Station in Seville, where I successfully defended my thesis. My doctoral research focused on using genomic tools to study the adaptation and diversification of natural populations in high elevation. During my Ph.D., I also undertook research stays at Uppsala University in Sweden.
+  
 <br>
+
   Currently, I am conducting research on phylogenomics and comparative genomics as part of my postdoctoral position at the CAS Institute of Zoology in Beijing, China. For more detailed information about my academic career, please refer to my <a href="https://santiagomonteromendieta.github.io/cv/">CV</a>.
 </details>
 
