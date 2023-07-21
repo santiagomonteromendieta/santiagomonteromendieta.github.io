@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ, Beijing) under the guidance of <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a> from the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (FEGG), my primary focus is to understand the evolutionary mechanisms that shape animal diversity on Earth through the study of genes and genomes.
+Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ, Beijing) under the guidance of <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a> from the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (FEGG), my primary focus is to understand the evolutionary mechanisms that shape animal diversity on Earth through the study of genes and genomes. [Click here to contact me](#contact-form)
 
 ![Santi doing research on fish](/images/santi_stickleback.jpg)
 
@@ -24,7 +24,7 @@ Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the
 
 **Contact:** Feel free to explore my website and get in touch with me for any inquiries or collaborations. Please use the form below to contact me. Thanks for your interest in my work.
 
-<form method="post" action="https://formspree.io/f/mrgwblad">
+<form id="contact-form" method="post" action="https://formspree.io/f/mrgwblad">
 							<div class="row gtr-uniform">
 								<div class="col-6 col-12-large col-6-medium col-12-xsmall">
 									<label for="name">Name</label>
