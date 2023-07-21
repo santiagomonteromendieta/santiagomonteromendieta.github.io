@@ -24,19 +24,25 @@ Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the
 
 **Contact:** Feel free to explore my website and get in touch with me for any inquiries or collaborations. I am always open to exploring interesting evolutionary topics and establishing new collaborations with researchers from around the world. Text me at: **biomendi**. To ensure that you are human and not a spam bot, please add the email extension of IOZ-CAS which is available at the bottom of <a href="http://english.ioz.cas.cn/" target="_blank">its website</a>. Sorry for the inconvenience. Thanks for your interest in my work.
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/mrgwblad"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+<form method="post" action="https://formspree.io/f/mrgwblad">
+							<div class="row gtr-uniform">
+								<div class="col-6 col-12-large col-6-medium col-12-xsmall">
+									<label for="name">Name</label>
+									<input type="text" name="name" id="name">
+								</div>
+								<div class="col-6 col-12-large col-6-medium col-12-xsmall">
+									<label for="email">Email</label>
+									<input type="email" name="email" id="email">
+								</div>
+								<div class="col-12">
+									<label for="message">Message</label>
+									<textarea name="message" id="message" rows="5"></textarea>
+								</div>
+								<div class="col-12">
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary"></li>
+										<li><input type="reset" value="Reset"></li>
+									</ul>
+								</div>
+							</div>
+						</form>
