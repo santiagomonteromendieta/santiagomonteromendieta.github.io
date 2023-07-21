@@ -24,8 +24,6 @@ Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the
 
 **Contact:** Feel free to explore my website and get in touch with me for any inquiries or collaborations. I am always open to exploring interesting evolutionary topics and establishing new collaborations with researchers from around the world. Please use the form below to contact me. Thanks for your interest in my work.
 
-<div class="inner">
-<section>
 <form method="post" action="https://formspree.io/f/mrgwblad">
 							<div class="row gtr-uniform">
 								<div class="col-6 col-12-large col-6-medium col-12-xsmall">
@@ -48,5 +46,3 @@ Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the
 								</div>
 							</div>
 						</form>
-      </section>
-      </div>
