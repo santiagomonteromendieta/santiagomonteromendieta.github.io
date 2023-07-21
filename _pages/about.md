@@ -18,7 +18,7 @@ Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the
 
 ![FEGG members in 2023](/images/FEGG_2023.jpg)
 
-**Funding:** I am proud to acknowledge that my research research is currently possible thanks to funds for international young scientists provided by the <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank">National Natural Science Foundation of China</a> (NSFC). Previously, I was funded by a prestigious <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">PIFI fellowship</a> from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences (CAS)</a>. The support of these organizations allows me to pursue groundbreaking research in the field of evolutionary genomics.
+**Funding:** I am proud to acknowledge that my research is currently possible thanks to funds for international young scientists provided by the <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank">National Natural Science Foundation of China</a> (NSFC). Previously, I was funded by a prestigious <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">PIFI fellowship</a> from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences (CAS)</a>. The support of these organizations allows me to pursue groundbreaking research in the field of evolutionary genomics.
 
 <p style="text-align:center;"><img src="https://santiagomonteromendieta.github.io/images/logos_cas_nsfc.png" alt="logos_cas_nsfc" width="400"></p>
 
