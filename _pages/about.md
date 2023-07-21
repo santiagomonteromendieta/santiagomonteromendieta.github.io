@@ -23,3 +23,30 @@ Hi, my name is Santi. Welcome to my website. As a postdoctoral researcher at the
 <p style="text-align:center;"><img src="https://santiagomonteromendieta.github.io/images/logos_cas_nsfc.png" alt="logos_cas_nsfc" width="400"></p>
 
 **Contact:** Feel free to explore my website and get in touch with me for any inquiries or collaborations. I am always open to exploring interesting evolutionary topics and establishing new collaborations with researchers from around the world. Please use the form below to contact me. Thanks for your interest in my work.
+
+<div class="inner">
+<section>
+<form method="post" action="https://formspree.io/f/mrgwblad">
+							<div class="row gtr-uniform">
+								<div class="col-6 col-12-large col-6-medium col-12-xsmall">
+									<label for="name">Name</label>
+									<input type="text" name="name" id="name">
+								</div>
+								<div class="col-6 col-12-large col-6-medium col-12-xsmall">
+									<label for="email">Email</label>
+									<input type="email" name="email" id="email">
+								</div>
+								<div class="col-12">
+									<label for="message">Message</label>
+									<textarea name="message" id="message" rows="5"></textarea>
+								</div>
+								<div class="col-12">
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary"></li>
+										<li><input type="reset" value="Reset"></li>
+									</ul>
+								</div>
+							</div>
+						</form>
+      </section>
+      </div>
