@@ -16,7 +16,7 @@ Explore the graphical abstracts of my published papers, visually summarizing the
 
 <h1>List of publications</h1>
 
-Below is a list of my published papers. Each entry provides a link to the original paper for further reading. Additionally, a direct download button is available for the PDF version of each publication, granting you access to the full content of each work. Feel free to explore these papers to gain insights into the diverse topics I have contributed to in the field of evolutionary genomics.
+Below are all my published papers. Each entry provides a link to the original paper for further reading. Additionally, a direct download button is available for the PDF version of each publication, granting you access to the full content of each work. Feel free to explore these papers to gain insights into the diverse topics I have contributed to in the field of evolutionary genomics.
 
 <ol reversed start="8">
   
