@@ -28,13 +28,13 @@ Below are all my published papers. Each entry provides a link to the original pa
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
-  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1111/evo.13666"></div></div><b>Montero-Mendieta, S.</b>† & Dheer, A.† (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/evo.13666" target="_blank">Digest: Resolving phylogenomic conflicts in characiform fishes</a>.<i> Evolution</i>, 73-2: 416–418. https://doi.org/10.1111/evo.13666
+  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1111/evo.13666"></div></div><b>Montero-Mendieta, S.</b>* & Dheer, A.* (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/evo.13666" target="_blank">Digest: Resolving phylogenomic conflicts in characiform fishes</a>.<i> Evolution</i>, 73-2: 416–418. https://doi.org/10.1111/evo.13666
 <a href="https://santiagomonteromendieta.github.io/files/articles/7-Montero-Mendieta_&_Dheer_2019.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
-  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1111/mec.14986"></div></div><b>Montero-Mendieta, S.</b>†, Tan, K.†, Christmas, M.J., Olsson, A., Vilà, C., Wallberg, A., Webster, M.T. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>.<i> Molecular Ecology</i>, 28: 746–760. https://doi.org/10.1111/mec.14986
+  <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1111/mec.14986"></div></div><b>Montero-Mendieta, S.</b>*, Tan, K.*, Christmas, M.J., Olsson, A., Vilà, C., Wallberg, A., Webster, M.T. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>.<i> Molecular Ecology</i>, 28: 746–760. https://doi.org/10.1111/mec.14986
 <a href="https://santiagomonteromendieta.github.io/files/articles/6-Montero-Mendieta_et_al_2019.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
@@ -58,7 +58,7 @@ Below are all my published papers. Each entry provides a link to the original pa
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
   
-   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1371/journal.pone.0149985"></div></div>Vasconcelos, R.†, <b>Montero-Mendieta, S.</b>†, Simó-Riudalbas, M., Sindaco, R., Santos, X., Fasola, M., Llorente, G.A., Razzetti, E., Carranza, S. (2016). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149985" target="_blank">Unexpectedly high levels of cryptic diversity uncovered by a complete DNA barcoding of reptiles of the Socotra Archipelago</a>.<i> PLOS ONE</i>, 11(3): e0149985. https://doi.org/10.1371/journal.pone.0149985
+   <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1371/journal.pone.0149985"></div></div>Vasconcelos, R.*, <b>Montero-Mendieta, S.</b>*, Simó-Riudalbas, M., Sindaco, R., Santos, X., Fasola, M., Llorente, G.A., Razzetti, E., Carranza, S. (2016). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149985" target="_blank">Unexpectedly high levels of cryptic diversity uncovered by a complete DNA barcoding of reptiles of the Socotra Archipelago</a>.<i> PLOS ONE</i>, 11(3): e0149985. https://doi.org/10.1371/journal.pone.0149985
 <a href="https://santiagomonteromendieta.github.io/files/articles/2-Vasconcelos_et_al_2016.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 </li>
 
@@ -70,7 +70,7 @@ Below are all my published papers. Each entry provides a link to the original pa
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
 
-† These authors have made contributions that are regarded as equally significant, although the extent of equality may be subject to varying interpretations in some of the papers.
+* These authors have made contributions that are regarded as equally significant, although the extent of equality may be subject to varying interpretations in some of the papers.
 </ol>
 <br>
   
