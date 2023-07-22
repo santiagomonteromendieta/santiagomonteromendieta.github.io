@@ -70,7 +70,7 @@ Below are all my published papers. Each entry provides a link to the original pa
 
 <div style="height:20px;font-size:20px;">&nbsp;</div>
 
-† These authors (arguably, in some papers) contributed equally.
+† These authors have made contributions that are considered to be of equal significance (but this is may be quite arguably in some papers).
 </ol>
 <br>
   
