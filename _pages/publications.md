@@ -78,17 +78,12 @@ Below are all my published papers. Each entry provides a link to the original pa
 <div style="display: flex; align-items: center;">
   <img src="/images/phdthesis_coverpage.png" alt="phdthesis_coverpage" width="207" height="auto" style="border: 1px solid #555; margin-right: 20px; margin-top: 12px; border-radius: 5px;">
   <div style="font-style: italic; font-size: 18px; color: #34495e; line-height: 1.6;">
-    <p>Unlock the wonders of evolutionary genetics through my doctoral dissertation. Using cutting-edge genomic tools, I explore the captivating evolution of natural populations beyond traditional model organisms. Discover the secrets of species adapting to diverse altitudinal gradients, and unravel the genetic basis of adaptive traits in high-altitude habitats.</p>
-    <p>From Eastern honey bees in China to Neotropical frogs along the Andean Mountains, each study offers intriguing insights into nature's remarkable adaptations. Journey with me through the fascinating world of evolutionary genetics as we unveil the hidden forces shaping life's diversity.</p>
-    <p>Join this thrilling exploration of natural selection, genetic drift, and the remarkable mechanisms that drive evolution.</p>
+    <p>Unlock the wonders of evolutionary genetics through my doctoral dissertation. Using cutting-edge genomic tools, I explore the captivating evolution of natural populations beyond traditional model organisms. Discover the secrets of species adapting to diverse altitudinal gradients, and unravel the genetic basis of adaptive traits in high-altitude habitats. From Eastern honey bees in China to Neotropical frogs along the Andean Mountains, each study offers intriguing insights into nature's remarkable adaptations. Journey with me through the fascinating world of evolutionary genetics as we unveil the hidden forces shaping life's diversity. Join this thrilling exploration of natural selection, genetic drift, and the remarkable mechanisms that drive evolution.</p>
   </div>
 </div>
-<b style="display: block; font-size: 18px; color: #2980b9;">Montero-Mendieta, S.</b>
 
-<p style="font-size: 16px; color: #2c3e50;">(2019). <a href="https://idus.us.es/handle/11441/92589" target="_blank" style="color: #2980b9; text-decoration: none;">A Genomic View on the Adaptation and Diversification of Natural Populations</a>. (Unpublished Doctoral Dissertation). Universidad de Sevilla, Sevilla.</p>
-<a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank">
-  <img src="/images/pdf_logo.png" alt="pdf" title="PDF" width="30" height="30" style="margin-top: 10px;">
-</a>
+<b>Montero-Mendieta, S.</b> (2019). <a href="https://idus.us.es/handle/11441/92589" target="_blank">A genomic view on the adaptation and diversification of natural populations</a>. (Tesis Doctoral Inédita). Universidad de Sevilla, Sevilla.
+<a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
 <br>
   
 <h1>Scientific news & bulletins <small>(only most relevant ones are shown)</small></h1>
