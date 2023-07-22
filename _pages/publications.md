@@ -74,15 +74,21 @@ Below are all my published papers. Each entry provides a link to the original pa
 </ol>
 <br>
   
-<h1>Doctoral Dissertation</h1>
-<img src="/images/phdthesis_coverpage.png" alt="phdthesis_coverpage" width="207" height="auto" align="left" style="vertical-align:bottom;margin-right:20px;margin-top:12px;border: 1px solid #555;">
-<i>Unlock the wonders of evolutionary genetics through my doctoral dissertation. Earlier studies in evolutionary genetics focused on a few model organisms, limiting our understanding of complex evolutionary and ecological questions. However, my research delves into the fascinating world of genetic studies within natural populations, providing a more realistic perspective on how natural selection, genetic drift, mutation, and gene flow shape phenotypic and genetic diversity, as well as adaptation and diversification across diverse environmental conditions.
+<h1 style="color: #1a5276;">Doctoral Dissertation</h1>
+<div style="display: flex; align-items: center;">
+  <img src="/images/phdthesis_coverpage.png" alt="phdthesis_coverpage" width="207" height="auto" style="border: 1px solid #555; margin-right: 20px; margin-top: 12px; border-radius: 5px;">
+  <div style="font-style: italic; font-size: 18px; color: #34495e; line-height: 1.6;">
+    <p>Unlock the wonders of evolutionary genetics through my doctoral dissertation. Using cutting-edge genomic tools, I explore the captivating evolution of natural populations beyond traditional model organisms. Discover the secrets of species adapting to diverse altitudinal gradients, and unravel the genetic basis of adaptive traits in high-altitude habitats.</p>
+    <p>From Eastern honey bees in China to Neotropical frogs along the Andean Mountains, each study offers intriguing insights into nature's remarkable adaptations. Journey with me through the fascinating world of evolutionary genetics as we unveil the hidden forces shaping life's diversity.</p>
+    <p>Join this thrilling exploration of natural selection, genetic drift, and the remarkable mechanisms that drive evolution.</p>
+  </div>
+</div>
+<b style="display: block; font-size: 18px; color: #2980b9;">Montero-Mendieta, S.</b>
 
-This dissertation showcases the power of modern genomic tools to explore two compelling aspects of evolution: (1) studying the evolutionary history of species along altitudinal gradients, and (2) unraveling the genetic basis of adaptive phenotypes in populations inhabiting high-altitude habitats.</i>
-
-<b>Montero-Mendieta, S.</b> (2019). <a href="https://idus.us.es/handle/11441/92589" target="_blank">A Genomic View on the Adaptation and Diversification of Natural Populations</a>. (Unpublished Doctoral Dissertation). Universidad de Sevilla, Sevilla.
-<a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
-
+<p style="font-size: 16px; color: #2c3e50;">(2019). <a href="https://idus.us.es/handle/11441/92589" target="_blank" style="color: #2980b9; text-decoration: none;">A Genomic View on the Adaptation and Diversification of Natural Populations</a>. (Unpublished Doctoral Dissertation). Universidad de Sevilla, Sevilla.</p>
+<a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank">
+  <img src="/images/pdf_logo.png" alt="pdf" title="PDF" width="30" height="30" style="margin-top: 10px;">
+</a>
 <br>
   
 <h1>Scientific news & bulletins <small>(only most relevant ones are shown)</small></h1>
