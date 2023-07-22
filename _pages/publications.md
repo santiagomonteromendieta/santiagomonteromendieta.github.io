@@ -6,12 +6,18 @@ author_profile: true
 ---
 {% include base_path %}
 
-<h1>Graphical abstracts</h1> 
+<h1>Graphical abstracts</h1>
+
+Explore the graphical abstracts of my published papers, visually summarizing the key findings and contributions of each research work. Click on the images to access the respective publications and delve into the details of these studies.
+
 {% include my-gallery.html folder="/images/thumbs" %}
 
 <br>
 
-<h1>List of publications</h1> 
+<h1>List of publications</h1>
+
+Below is a list of my published papers. Each entry provides a link to the original paper for further reading. Additionally, a direct download button is available for the PDF version of each publication, granting you access to the full content of each work. Feel free to explore these papers to gain insights into the diverse topics I have contributed to in the field of evolutionary genomics.
+
 <ol reversed start="8">
   
 <li><div class="myAltMcontainer"><div class='altmetric-embed' data-link-target='_blank' data-badge-type='donut' data-doi="10.1016/j.ympev.2021.107167"></div></div><b>Montero-Mendieta, S.</b>, De la Riva, I.,  Irisarri, I., Leonard, J.A., Webster, M.T., Vilà, C. (2021). <a href="https://www.sciencedirect.com/science/article/pii/S1055790321001007" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>.<i> Molecular Phylogenetics and Evolution</i>, 161, 107167. https://doi.org/10.1016/j.ympev.2021.107167
