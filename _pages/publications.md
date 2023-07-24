@@ -82,13 +82,3 @@ Unlock the wonders of evolutionary genetics through my doctoral dissertation. Us
 
 <b>Montero-Mendieta, S.</b> (2019). <a href="https://idus.us.es/handle/11441/92589" target="_blank">A genomic view on the adaptation and diversification of natural populations</a>. (Tesis Doctoral Inédita). Universidad de Sevilla, Sevilla.
 <a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
-
-<br>
-  
-<h1>Scientific news & bulletins <small>(only most relevant ones are shown)</small></h1>
-
-   🇪🇸 CSIC Press (Dec 28, 2018): <a href="https://www.europapress.es/ciencia/laboratorio/noticia-abejas-cambian-comportamiento-adaptarse-zonas-altas-20181226140729.html" target="_blank">Descubren que las abejas se adaptan a zonas altas mediante cambios en su comportamiento</a>. <a href="https://santiagomonteromendieta.github.io/files/2018-csic-bees.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
-
-   🇬🇧 iBOL - The Barcode Bulletin Newsletter Vol. 7, No. 2 (Jun 3, 2016): <a href="https://ibol.org/wp-content/uploads/2016/06/iBOL-Barcode-Bulletin-June-2016.pdf" target="_blank">Unexpected cryptic diversity in Socotra's reptiles</a>. <a href="https://santiagomonteromendieta.github.io/files/2016-ibol-socotra.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
-
-   🇬🇧 R+D CSIC Press (Apr 14, 2016): <a href="https://rdcsic.dicat.csic.es/index.php/en/recursos-naturales-2/121-projects/372-more-than-50-of-socotra-s-reptiles-still-undiscovered" target="_blank">More than 50% of Socotra’s reptiles, still undiscovered</a>. <a href="https://santiagomonteromendieta.github.io/files/2016-csic-socotra.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
