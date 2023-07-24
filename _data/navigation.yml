@@ -6,12 +6,12 @@ main:
   - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "MEDIA"
     url: /media/
-        
+
+  - title: "CV"
+    url: /cv/
+    
   # - title: "Talks"
   #  url: /talks/    
 
