@@ -12,7 +12,17 @@ Explore the graphical abstracts of my published papers, visually summarizing the
 
 {% include my-gallery.html folder="/images/thumbs" %}
 
------
+<head>
+    <title>Customized Line Separator</title>
+    <style>
+        /* Style the hr element to create a thicker line */
+        hr {
+            height: 3px; /* Adjust the height to make the line thicker */
+        }
+    </style>
+</head>
+
+<hr>
 
 <h1>List of publications</h1>
 
@@ -73,7 +83,7 @@ Below are all my published papers. Each entry provides a link to the original pa
 * These authors have made contributions that are regarded as equally significant, although the extent of equality may be subject to varying interpretations in some of the papers.
 </ol>
 
------
+<hr>
   
 <h1>Doctoral dissertation</h1>
 
