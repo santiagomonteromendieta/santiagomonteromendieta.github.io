@@ -43,11 +43,11 @@ Conferences & talks
 
 Courses & workshops
 ======
-* 2018: Workshop on Population and Speciation Genomics (Cesky Krumlov, Czech Republic; 2 weeks)
-* 2017: Workshop Bioinformatics for Adaptation (Valencia, Spain; 2 days)
-* 2017: Workshop on Phylogenomics  (Cesky Krumlov, Czech Republic; 2 weeks)
-* 2016: Perl programming with application to bioinformatics (BMC, Uppsala University, Sweden; 1 week)
-* 2015: NGS for evolutionary biologists: from basic scripting to variant calling (ELIXIR-ITA, Sapienza Università di Roma, Italy; 1 week)
+* 2018: <a href="http://evomics.org/workshops/workshop-on-population-and-speciation-genomics/2018-workshop-on-population-and-speciation-genomics-cesky-krumlov/" target="_blank">Workshop on Population and Speciation Genomics</a> (Cesky Krumlov, Czech Republic; 2 weeks). <a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2018.jpg" target="_blank">Group picture</a>
+* 2017: Workshop Bioinformatics for Adaptation (Valencia, Spain; 2 days). <a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_adaptnet_2017.jpeg" target="_blank">Group picture</a>
+* 2017: <a href="http://evomics.org/2017-workshop-on-phylogenomics-cesky-krumlov/" target="_blank">Workshop on Phylogenomics</a> (Cesky Krumlov, Czech Republic; 2 weeks). <a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2017.jpeg" target="_blank">Group picture</a>
+* 2016: <a href="[https://bmcgenomics.biomedcentral.com](https://systematikforeningen.se/2016/08/25/perl-course-perl-programming-with-application-to-bioinformatics-oct-10-14/)" target="_blank">Perl programming with application to bioinformatics</a> (BMC, Uppsala University, Sweden; 1 week)
+* 2015: <a href="https://github.com/ELIXIR-IIB-training/VarCall2015" target="_blank">NGS for evolutionary biologists: from basic scripting to variant calling</a> (ELIXIR-ITA, Sapienza Università di Roma, Italy; 1 week)
 * 2014: Foundations of R programming and graphics, with application to the research in biodiversity (University of Barcelona, Spain; 1 week)
 
 Research experience
