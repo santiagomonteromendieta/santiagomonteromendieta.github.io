@@ -32,7 +32,7 @@ Conferences & talks
 * **2020:** Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Seville, Spain: 5-7/02/2020)
 * **2018:** Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France: 18-23/08/2018): "Multiple loci drive high-altitude adaptation in the Eastern honey bee (Apis cerana)" (<a href="https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html" target="_blank">Slides</a>)
 * **2018:** Talk at SevinOmics Spring Meeting (Seville, Spain: 09/04/2018): "Genome adaptations to high altitude in the Eastern honeybee" (<a href="/files/2018_slides_sevinomics.pdf" target="_blank">Slides</a>)
-* **2017:** Talk at IMBIM Genomics Friday (Uppsala, Sweden: 22/09/2017): Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee
+* **2017:** Talk at IMBIM Genomics Friday (Uppsala, Sweden: 22/09/2017): "Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee"
 * **2017:** Poster presentation at XVI European Society for Evolutionary Biology (ESEB) Congress (Groningen, The Netherlands: 20-25/08/2017): "Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee" (<a href="/images/poster_groningen_2017.png" target="_blank">Poster</a>)
 * **2017:** Talk in Doñana Biological Station (Seville, Spain: 02/02/2017): "A genomic view on the diversification of Neotropical frogs" (<a href="/files/2017_slides_ebd.pdf" target="_blank">Slides</a>)
 * **2016:** Attendance to XVI Jornades Herpetològiques Catalanes (Parets del Vallès, Spain: 23/10/2016)
