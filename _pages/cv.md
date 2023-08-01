@@ -20,10 +20,10 @@ Awards & grants
 ======
 * **2021:** Research Fund for International Young Scientists (RFIS-I). <span style="color: gray;">Funded by the National Natural Science Foundation of China (NSFC) (2 years)</span>
 * **2020:** CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C). <span style="color: gray;">Funded by the Chinese Academy of Sciences (CAS) (2 years)</span>
-* **2018:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden. <span style="color: gray;"Funded by the Spanish Government (4 months)</span>
+* **2018:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden. <span style="color: gray;">Funded by the Spanish Government (4 months)</span>
 * **2017:** 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen, The Netherlands 
-* **2017:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden. <span style="color: gray;"Funded by the Spanish Government (4 months)</span>
-* **2016:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden. <span style="color: gray;"Funded by the Spanish Government (4 months)</span>
+* **2017:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden. <span style="color: gray;">Funded by the Spanish Government (4 months)</span>
+* **2016:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden. <span style="color: gray;">Funded by the Spanish Government (4 months)</span>
 * **2015:** Formación de Personal Investigador - Research personnel training (work contract to conduct PhD studies). <span style="color: gray;">Funded by the Spanish Government (4 years)</span>
 * **2013:** Erasmus scholarship at Linköping University, Sweden. <span style="color: gray;">Funded by the Spanish Government (6 months)</span>
 
