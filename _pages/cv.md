@@ -11,21 +11,21 @@ redirect_from:
 
 Academic career
 ======
-* **2021-** Postdoc in the lab of Baocheng Guo (Institute of Zoology, Chinese Academy of Sciences. Beijing, China)
-* **2015-2019:** PhD in the lab of Carles Vilà (Doñana Biological Station, Spanish National Research Council, Seville, Spain)
-* **2013-2014:** Master degree in Biodiversity with a major in evolutionary biology (University of Barcelona, Spain)
-* **2009-2013:** Bachelor degree in Biology (University of Girona, Spain) 
+* **2021-** Postdoc in <a href="https://guolaboratory.com/" target="_blank">the lab of Baocheng Guo</a> (Institute of Zoology, Chinese Academy of Sciences. Beijing, China)
+* **2015-2019:** PhD in <a href="https://www.consevol.org/" target="_blank">the lab of Carles Vilà</a> (Doñana Biological Station, Spanish National Research Council, Seville, Spain)
+* **2013-2014:** <a href="https://web.ub.edu/en/web/estudis/w/masteruniversitari-M0G08" target="_blank">Master's degree in Biodiversity with a major in evolutionary biology</a> (University of Barcelona, Spain)
+* **2009-2013:** <a href="https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=1291&ID=3103G0115" target="_blank">Bachelor's degree in Biology</a> (University of Girona, Spain) 
 
 Awards & grants
 ======
-* **2021:** Research Fund for International Young Scientists (RFIS-I) - Funded by the National Natural Science Foundation of China (NSFC) (2 years)
-* **2020:** CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) -Funded by the Chinese Academy of Sciences (CAS) (2 years) 
-* **2018:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden - Funded by the Spanish Government (4 months) 
+* **2021:** Research Fund for International Young Scientists (RFIS-I) <span style="color: gray;">- Funded by the National Natural Science Foundation of China (NSFC) (2 years)</span>
+* **2020:** CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) <span style="color: gray;">- Funded by the Chinese Academy of Sciences (CAS) (2 years)</span>
+* **2018:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden <span style="color: gray;">- Funded by the Spanish Government (4 months)</span>
 * **2017:** 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen, The Netherlands 
-* **2017:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden - Funded by the Spanish Government (4 months) 
-* **2016:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden - Funded by the Spanish Government (4 months)
-* **2015:** Formación de Personal Investigador - Research personnel training (work contract to conduct PhD studies) - Funded by the Spanish Government (4 years) 
-* **2013:** Erasmus scholarship at Linköping University, Sweden - Funded by the Spanish Government (6 months)
+* **2017:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden <span style="color: gray;">- Funded by the Spanish Government (4 months)</span>
+* **2016:** Travel grant to Matthew Webster's lab, Uppsala University, Sweden <span style="color: gray;">- Funded by the Spanish Government (4 months)</span>
+* **2015:** Formación de Personal Investigador - Research personnel training (work contract to conduct PhD studies) <span style="color: gray;">- Funded by the Spanish Government (4 years)</span>
+* **2013:** Erasmus scholarship at Linköping University, Sweden <span style="color: gray;">- Funded by the Spanish Government (6 months)</span>
 
 Conferences & talks
 ======
