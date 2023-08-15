@@ -14,7 +14,7 @@ A visual summary of the key findings of each of my published papers. Click on th
 
 <h1>List of publications</h1>
 
-Each entry provides a link to the original paper for further reading. Additionally, a direct download button is available for the PDF version of each publication, granting access to the full content of each work.
+Each entry provides a link to the original paper for further reading. Additionally, a direct download button grants free access to the full content of the respective work.
 
 <ol reversed start="8">
   
