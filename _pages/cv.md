@@ -29,7 +29,7 @@ Awards & grants
 
 Conferences & talks
 ======
-* **2023:** Invited talk at Southwest University hosted by Prof. <a href="https://scholar.google.com/citations?user=hWtMbu4AAAAJ&hl=en" target="_blank">Luohao Xu</a> (Chongqing, Spain: 18/10/2023)
+* **2023:** Invited talk at Southwest University hosted by Prof. <a href="https://scholar.google.com/citations?user=hWtMbu4AAAAJ&hl=en" target="_blank">Luohao Xu</a> (Chongqing, China: 18/10/2023)
 * **2020:** Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Seville, Spain: 5-7/02/2020)
 * **2018:** Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France: 18-23/08/2018): "Multiple loci drive high-altitude adaptation in the Eastern honey bee (Apis cerana)" (<a href="https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html" target="_blank">Slides</a>)
 * **2018:** Talk at SevinOmics Spring Meeting (Seville, Spain: 09/04/2018): "Genome adaptations to high altitude in the Eastern honeybee" (<a href="/files/2018_slides_sevinomics.pdf" target="_blank">Slides</a>)
