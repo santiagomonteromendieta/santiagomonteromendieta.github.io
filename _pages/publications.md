@@ -8,13 +8,13 @@ author_profile: true
 
 <h1>Graphical abstracts</h1>
 
-A visual summary of the key findings of each of my published papers. Click on the images to access the respective publications and gain insights into the diverse topics I have contributed to in the field of evolutionary genomics. A list of all my publications is given below. 
+The following images are visual summaries of the key findings of each of my published papers. Clicking on the images will take you to the respective publications and give you an insight into the diverse topics I have contributed to in the field of evolutionary genomics. Additionally, a list of all my publications can be found below. 
 
 {% include my-gallery.html folder="/images/thumbs" %}
 
 <h1>List of publications</h1>
 
-Each entry provides a link to the original paper for further reading. Additionally, a direct download button grants free access to the full content of the respective work.
+Each entry provides a link to the original paper for further reading. In addition, the download button provides free access to the full content of each paper.
 
 <ol reversed start="8">
   
