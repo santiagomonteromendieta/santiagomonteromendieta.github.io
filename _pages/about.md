@@ -24,8 +24,6 @@ Hello, I'm Santi - a postdoctoral researcher at the <a href="http://english.ioz.
 
 **Contact:** Feel free to explore my website and get in touch with me for any inquiries or collaborations. Please use the form below to contact me. Thanks for your interest in my work.
 
-**Update (Feb 2024)**: I've been living in Beijing 🇨🇳 for over a year now. My top tip for non-Mandarin speakers coming to China is to grab a VPN! 📶 Tested a few, but WannaFlix has been the most reliable so far 👏 Feel free to use my affiliate link: https://wannaflix.com/aff.php?aff=823&page=china-vpn
-
 <form id="contact-form" method="post" action="https://formspree.io/f/mrgwblad">
 							<div class="row gtr-uniform">
 								<div class="col-6 col-12-large col-6-medium col-12-xsmall">
@@ -48,3 +46,5 @@ Hello, I'm Santi - a postdoctoral researcher at the <a href="http://english.ioz.
 								</div>
 							</div>
 						</form>
+
+**Update (Feb 2024)**: I've been living in Beijing 🇨🇳 for over a year now. My top tip for non-Mandarin speakers coming to China is to grab a VPN! After testing a few, [WannaFlix](https://wannaflix.com/aff.php?aff=823&page=china-vpn)* has been the most reliable so far 👏 *Note: I'll earn a small affiliate commission if you get a subscrition at no extra cost for you. 
