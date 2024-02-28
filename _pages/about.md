@@ -47,4 +47,4 @@ Hello, I'm Santi - a postdoctoral researcher at the <a href="http://english.ioz.
 							</div>
 						</form>
 
-**Update (Feb 2024)**: I've been living in Beijing 🇨🇳 for over a year now. My top tip for non-Mandarin speakers coming to China is to grab a VPN! After testing a few, I am currently using <a href="https://wannaflix.com/aff.php?aff=823&page=china-vpn" target="_blank">WannaFlix</a>. If you get a subscription through my link, I'll earn a small affiliate commission at no extra cost for you.
+**Update (Feb 2024)**: I've been living in Beijing 🇨🇳 for over a year now. My top tip for non-Mandarin speakers coming to China is to set up a VPN beforehand. After testing a few, I decided to use <a href="https://wannaflix.com/aff.php?aff=823&page=china-vpn" target="_blank">WannaFlix</a>. This is not a paid mention. I am actually quite happy with this service (no issues so far). However, if you get a subscription through my link, I'll earn a small affiliate commission at no extra cost for you.
