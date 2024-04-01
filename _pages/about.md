@@ -46,7 +46,3 @@ Hello, I'm Santi - a postdoctoral researcher at the <a href="http://english.ioz.
 								</div>
 							</div>
 						</form>
-
-**Update (March 2024)**: I've been living in Beijing for over a year now. My top tip for non-Mandarin speakers coming to China is to set up a VPN or proxy service beforehand. Currently, I'm using <a href="https://wannaflix.com/aff.php?aff=823&page=china-vpn" target="_blank">WannaFlix</a>. This is actually a proxy service, so it requires an initial setup to get it running. However, it works much better than others VPNs I have tried, and I like its flexibility to manually filter specific sites or IPs.
-
-
