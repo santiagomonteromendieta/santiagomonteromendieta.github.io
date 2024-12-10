@@ -77,5 +77,7 @@ Each entry provides a link to the original paper for further reading. In additio
 
 In my doctoral dissertation, I researched into evolutionary genetics using state-of-the-art genomic tools. My focus extended beyond traditional model organisms to explore how species adapted to diverse altitudinal environments and the genetic underpinnings of adaptive traits in high-altitude habitats. Through the study of Eastern honey bees in China and Neotropical frogs in the Andean Mountains, my PhD work uncovered critical insights into the core drivers of evolution, including natural selection and genetic drift. If you're interested in exploring these questions further, feel free to read my thesis, where you will find in-depth answers and analysis. Here it is:
 
-<b>Montero-Mendieta, S.</b> (2019). <a href="https://idus.us.es/handle/11441/92589" target="_blank">A genomic view on the adaptation and diversification of natural populations</a>. (Tesis Doctoral Inédita). Universidad de Sevilla, Sevilla.
+<!-- Official link: https://idus.us.es/handle/11441/92589 -->
+
+<b>Montero-Mendieta, S.</b> (2019). <a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank">A genomic view on the adaptation and diversification of natural populations</a>. (Tesis Doctoral Inédita). Universidad de Sevilla, Sevilla.
 <a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank"><img src="/images/pdf_logo.png" alt="pdf" title="PDF"></a>
