@@ -45,7 +45,7 @@ redirect_from:
   }
 </style>
 
-<div class="hero-section" style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; margin-bottom: 3rem;">
+<div class="hero-section" style="display: grid; grid-template-columns: 2rem; align-items: center; margin-bottom: 3rem;">
   <div>
     <p style="font-size: 1.2rem; line-height: 1.6;">
       Postdoctoral Researcher in Evolutionary Genomics<br>
