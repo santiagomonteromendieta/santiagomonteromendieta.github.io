@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Santi - a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ) in Beijing, China. I currently work under the guidance of <a href="https://scholar.google.com/citations?user=Dxsg5HoAAAAJ&hl=en" target="_blank">Baocheng Guo</a> in the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (FEGG). My primary focus is to understand the evolutionary mechanisms that shape animal diversity on Earth through the study of genes and genomes. [Click here to contact me](#contact-form).
+Hello, I'm **Dr. Santiago Montero-Mendieta**, an evolutionary biologist driven by a deep curiosity about the genomic basis of life.  I'm currently a Postdoctoral Researcher at the prestigious <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology (IOZ), Chinese Academy of Sciences</a> in Beijing, working with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research explores the fascinating world of animal evolution, using cutting-edge bioinformatics and genomics to understand how species adapt and diversify.
+
+My passion lies in unraveling the secrets hidden within genomes to understand the grand tapestry of evolution.  [Want to learn more about my work or collaborate?](#contact-form) - Let's connect!
 
 ![Santi doing research on fish](/images/santi_stickleback.jpg)
 
