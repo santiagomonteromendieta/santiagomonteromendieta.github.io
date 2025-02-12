@@ -45,14 +45,11 @@ redirect_from:
   }
 </style>
 
-<div class="hero-section" style="display: grid; grid-template-columns: 2rem; align-items: center; margin-bottom: 3rem;">
-  <div>
-    <p style="font-size: 1.2rem; line-height: 1.6;">
-      Postdoctoral Researcher in Evolutionary Genomics<br>
-      Institute of Zoology, Chinese Academy of Sciences, Beijing, China
-    </p>
-    <a href="#contact-form" class="button">Contact Me</a>
-  </div>
+<div class="section-card" style="background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 2rem;">
+  <h2 style="color: #2a7ae2; border-bottom: 3px solid #2a7ae2; padding-bottom: 0.5rem;">Introduction</h2>
+  <p>
+    I am a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> (IOZ) in Beijing, China. My goal is to understand the evolutionary mechanisms that shape animal diversity on Earth through the study of genes and genomes. [Click here to contact me](#contact-form).
+  </p>
 </div>
 
 <div class="section-card" style="background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 2rem;">
