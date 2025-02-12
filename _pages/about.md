@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Montero-Mendieta's website"
+title: "Santiago Montero-Mendieta, PhD – Evolutionary Genomics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -47,7 +47,6 @@ redirect_from:
 
 <div class="hero-section" style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; margin-bottom: 3rem;">
   <div>
-    <h1 style="margin-bottom: 1rem;">Dr. Santiago Montero-Mendieta</h1>
     <p style="font-size: 1.2rem; line-height: 1.6;">
       Postdoctoral Researcher in Evolutionary Genomics<br>
       Institute of Zoology, Chinese Academy of Sciences, Beijing, China
