@@ -105,9 +105,8 @@ redirect_from:
 
 <div class="section-card">
   <div>
-    <h1 style="margin-bottom: 1rem;">Dr. Santiago Montero-Mendieta</h1>
-    <p style="font-size: 1.2rem; line-height: 1.6;">Postdoctoral Researcher in Evolutionary Genomics<br>
-    Institute of Zoology, Chinese Academy of Sciences</p>
+    <h2 style="margin-bottom: 1rem;">Introduction</h1>
+    <p>Hello, I'm **Santi**, an evolutionary biologist driven by a deep curiosity about the genomic basis of life.  I'm currently a Postdoctoral Researcher at the prestigious <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology (IOZ), Chinese Academy of Sciences</a> in Beijing, working with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research explores the fascinating world of animal evolution, using cutting-edge bioinformatics and genomics to understand how species adapt and diversify.</p>
   </div>
 </div>
 
@@ -152,7 +151,6 @@ redirect_from:
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
-  <img src="/images/santi_stickleback.jpg" alt="Research illustration" style="border-radius: 8px;">
   <img src="/images/FEGG_2023.jpg" alt="Research group photo" style="border-radius: 8px;">
 </div>
 
