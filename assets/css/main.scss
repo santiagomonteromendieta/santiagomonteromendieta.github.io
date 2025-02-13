@@ -46,6 +46,8 @@
 
 .sidebar__nav {
   margin-top: 1.5em; /* Keep some space above the navigation */
+  border-top: 1px solid #ddd; /* Add a subtle top border */
+  padding-top: 1.5em; /* Add some padding above the navigation to separate it from the border */
 }
 
 .sidebar__nav-title {
