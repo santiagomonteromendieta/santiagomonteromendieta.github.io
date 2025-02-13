@@ -53,8 +53,7 @@ redirect_from:
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.08); /* Subtle shadow */
-    margin-top: 0.5rem
-    margin-bottom: 0.5rem;
+    margin-bottom: 2rem;
   }
 
   .timeline {
