@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,122 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="section-card cv-section-card"> <!-- Added class "cv-section-card" to differentiate CV card styles -->
-  <h2><i class="fas fa-briefcase"></i> Academic Career</h2>
-  <ul class="cv-timeline"> <!-- Using a specific class for CV timeline lists -->
-    <li class="timeline-item"> <!-- Using timeline-item class for consistent styling -->
-      <h3>Postdoc</h3>
-      <p class="timeline-info"><strong>Lab of Baocheng Guo</strong>, Institute of Zoology, Chinese Academy of Sciences, Beijing, China<br>
-      <small>2021-Present</small></p>
-    </li>
-    <li class="timeline-item">
-      <h3>PhD Student</h3>
-      <p class="timeline-info"><strong>Lab of Carles Vilà</strong>, Doñana Biological Station, Spanish National Research Council, Seville, Spain<br>
-      2015-2019</p>
-    </li>
-    <li class="timeline-item">
-      <h3>MSc in Biodiversity (Evolutionary Biology)</h3>
-      <p class="timeline-info">University of Barcelona, Spain<br>
-      <small>2013-2014</small><br>
-      MSc Thesis: <strong>Lab of Salvador Carranza</strong>, Institute of Evolutionary Biology, Spanish National Research Council, Barcelona, Spain</p>
-    </li>
-    <li class="timeline-item">
-      <h3>BSc in Biology</h3>
-      <p class="timeline-info">University of Girona, Spain<br>
-      <small>2009-2013</small><br>
-      BSc Thesis: <strong>Lab of Matthias Laska</strong>, Linköping University, Sweden</p>
-    </li>
-  </ul>
-</div>
+Academic career
+======
+* **2021-** Postdoc in <a href="https://guolaboratory.com/" target="_blank">the lab of Baocheng Guo</a> (Institute of Zoology, Chinese Academy of Sciences. Beijing, China) 🇨🇳
+* **2015-2019:** PhD student in <a href="https://www.consevol.org/" target="_blank">the lab of Carles Vilà</a> (Doñana Biological Station, Spanish National Research Council, Seville, Spain) 🇪🇸🇸🇪
+* **2013-2014:** Master's degree in Biodiversity with a major in evolutionary biology (University of Barcelona, Spain). MSc thesis in <a href="https://www.ibe.upf-csic.es/carranza" target="_blank">the lab of Salvador Carranza</a> (Institute of Evolutionary Biology, Spanish National Research Council, Barcelona, Spain) 🇪🇸
+* **2009-2013:** Bachelor's degree in Biology (University of Girona, Spain). BSc thesis in <a href="https://liu.se/en/employee/matla69" target="_blank">the lab of Matthias Laska</a> (Linköping University, Sweden) 🇪🇸🇸🇪
 
-<div class="section-card cv-section-card">
-  <h2><i class="fas fa-award"></i> Awards & Grants</h2>
-  <ul class="cv-list">  <!-- Using a specific class for CV lists -->
-    <li>
-      <h3>Research Fund for International Young Scientists (RFIS-I)</h3>
-      <p class="list-info">National Natural Science Foundation of China (NSFC) (2 years)<br>
-      <small>2021</small></p>
-    </li>
-    <li>
-      <h3>CAS President's International Fellowship Initiative (PIFI)</h3>
-      <p class="list-info">Chinese Academy of Sciences (CAS) (2 years)<br>
-      2020</p>
-    </li>
-    <li>
-      <h3>Travel Grants</h3>
-      <p class="list-info">Spanish Government (4 months each)<br>
-      <small>2016, 2017, 2018</small><br>
-      Visiting Researcher, Matthew Webster's Lab, Uppsala University, Sweden</p>
-    </li>
-    <li>
-      <h3>2nd Best Poster Award</h3>
-      <p class="list-info">XVI European Society for Evolutionary Biology Congress, Groningen, The Netherlands<br>
-      <small>2017</small></p>
-    </li>
-    <li>
-      <h3>Formación de Personal Investigador (FPI)</h3>
-      <p class="list-info">Spanish Government (4 years, PhD Fellowship)<br>
-      <small>2015</small></p>
-    </li>
-     <li>
-      <h3>Erasmus Scholarship</h3>
-      <p class="list-info">Linköping University, Sweden (6 months)<br>
-      <small>2013</small></p>
-    </li>
-  </ul>
-</div>
+Awards & grants
+======
+* **2021:** Research Fund for International Young Scientists (RFIS-I). <span style="color: gray;">Funded by the National Natural Science Foundation of China (NSFC) (2 years)</span> 🇨🇳
+* **2020:** CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C). <span style="color: gray;">Funded by the Chinese Academy of Sciences (CAS) (2 years)</span> 🇨🇳
+* **2018:** Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a>, Uppsala University, Sweden. <span style="color: gray;">Funded by the Spanish Government (4 months)</span> 🇪🇸🇸🇪
+* **2017:** 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen, The Netherlands 🇳🇱
+* **2017:** Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a>, Uppsala University, Sweden. <span style="color: gray;">Funded by the Spanish Government (4 months)</span> 🇪🇸🇸🇪
+* **2016:** Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a>, Uppsala University, Sweden. <span style="color: gray;">Funded by the Spanish Government (4 months)</span> 🇪🇸🇸🇪
+* **2015:** Formación de Personal Investigador - Research personnel training (work contract to conduct PhD studies). <span style="color: gray;">Funded by the Spanish Government (4 years)</span> 🇪🇸
+* **2013:** Erasmus scholarship at Linköping University, Sweden. <span style="color: gray;">Funded by the Spanish Government (6 months)</span> 🇪🇸🇸🇪
 
-<div class="section-card cv-section-card">
-  <h2><i class="fas fa-microphone-alt"></i> Conferences & Talks</h2>
-  <ul class="cv-list">
-    <li><strong>2023:</strong> Invited talk at Southwest University (Chongqing, China)</li>
-    <li><strong>2020:</strong> Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Seville, Spain)</li>
-    <li><strong>2018:</strong> Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France): "Genomic Basis of High-Altitude Adaptation in Eastern Honey Bees" (<a href="https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html" target="_blank">Slides</a>)</li>
-    <li><strong>2018:</strong> Talk at SevinOmics Spring Meeting (Seville, Spain): "Genome adaptations to high altitude in the Eastern honeybee" (<a href="/files/2018_slides_sevinomics.pdf" target="_blank">Slides</a>)</li>
-    <li><strong>2017:</strong> Talk at IMBIM Genomics Friday (Uppsala, Sweden): "Genetic Basis of Adaptation to High Altitude in Eastern Honeybees"</li>
-    <li><strong>2017:</strong> Poster presentation at XVI European Society for Evolutionary Biology (ESEB) Congress (Groningen, The Netherlands): "Genetic Basis of Adaptation to High Altitude Habitats in Eastern Honeybees" (<a href="/images/poster_groningen_2017.png" target="_blank">Poster</a>)</li>
-    <li><strong>2017:</strong> Talk in Doñana Biological Station (Seville, Spain): "Genomic View on Diversification of Neotropical Frogs" (<a href="/files/2017_slides_ebd.pdf" target="_blank">Slides</a>)</li>
-    <li><strong>2016:</strong> Attendance to XVI Jornades Herpetològiques Catalanes (Parets del Vallès, Spain)</li>
-    <li><strong>2016:</strong> Attendance to The Ecology of Genome Evolution Symposium (Uppsala, Sweden)</li>
-    <li><strong>2016:</strong> Talk in SevinOmics Spring Meeting (Seville, Spain): "Genome Size Estimation in Amphibians via Real-time PCR" (<a href="/files/2016_slides_sevinomics.pdf" target="_blank">Slides</a>)</li>
-    <li><strong>2014:</strong> Talk in XV Jornades Herpetològiques Catalanes (Sant Feliu de Codines, Spain): "DNA Barcoding of the reptiles of the Socotra archipelago" (<a href="/files/2014_slides_barcoding.pdf" target="_blank">Slides</a>)</li>
-    <li><strong>2014:</strong> Attendance to XIV Jornada de Biologia Evolutiva (Barcelona, Spain)</li>
-  </ul>
-</div>
+Conferences & talks
+======
+* **2023:** Invited talk at Southwest University hosted by Prof. <a href="https://scholar.google.com/citations?user=hWtMbu4AAAAJ&hl=en" target="_blank">Luohao Xu</a> (Chongqing, China: 18/10/2023) 🇨🇳
+* **2020:** Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Seville, Spain: 5-7/02/2020) 🇪🇸
+* **2018:** Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France: 18-23/08/2018): "Multiple loci drive high-altitude adaptation in the Eastern honey bee (Apis cerana)" (<a href="https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html" target="_blank">Slides</a>) 🇫🇷
+* **2018:** Talk at SevinOmics Spring Meeting (Seville, Spain: 09/04/2018): "Genome adaptations to high altitude in the Eastern honeybee" (<a href="/files/2018_slides_sevinomics.pdf" target="_blank">Slides</a>) 🇪🇸
+* **2017:** Talk at IMBIM Genomics Friday (Uppsala, Sweden: 22/09/2017): "Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee" 🇸🇪 
+* **2017:** Poster presentation at XVI European Society for Evolutionary Biology (ESEB) Congress (Groningen, The Netherlands: 20-25/08/2017): "Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee" (<a href="/images/poster_groningen_2017.png" target="_blank">Poster</a>) 🇳🇱
+* **2017:** Talk in Doñana Biological Station (Seville, Spain: 02/02/2017): "A genomic view on the diversification of Neotropical frogs" (<a href="/files/2017_slides_ebd.pdf" target="_blank">Slides</a>) 🇪🇸
+* **2016:** Attendance to XVI Jornades Herpetològiques Catalanes (Parets del Vallès, Spain: 23/10/2016) 🇪🇸
+* **2016:** Attendance to The Ecology of Genome Evolution Symposium (Uppsala, Sweden: 09/09/2016) 🇸🇪
+* **2016:** Talk in SevinOmics Spring Meeting (Seville, Spain: 16/03/2016): "Genome size estimation in amphibians through real-time PCR" (<a href="/files/2016_slides_sevinomics.pdf" target="_blank">Slides</a>) 🇪🇸
+* **2014:** Talk in XV Jornades Herpetològiques Catalanes (Sant Feliu de Codines, Spain: 11/10/2014): "DNA barcoding of the reptiles of the Socotra archipelago" (<a href="/files/2014_slides_barcoding.pdf" target="_blank">Slides</a>) 🇪🇸
+* **2014:** Attendance to XIV Jornada de Biologia Evolutiva (Barcelona, Spain: 01/07/2014) 🇪🇸
 
-<div class="section-card cv-section-card">
-  <h2><i class="fas fa-graduation-cap"></i> Courses & Workshops</h2>
-  <ul class="cv-list">
-    <li><strong>2018:</strong> Workshop on Population and Speciation Genomics (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2018.jpg" target="_blank">Photo</a>)</li>
-    <li><strong>2017:</strong> Workshop Bioinformatics for Adaptation (Valencia, Spain; 2 days) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_adaptnet_2017.jpeg" target="_blank">Photo</a>)</li>
-    <li><strong>2017:</strong> Workshop on Phylogenomics (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2017.jpeg" target="_blank">Photo</a>)</li>
-    <li><strong>2016:</strong> Perl programming with application to bioinformatics (BMC, Uppsala University, Sweden; 1 week)</li>
-    <li><strong>2015:</strong> NGS for evolutionary biologists: from basic scripting to variant calling (ELIXIR-ITA, Sapienza Università di Roma, Italy; 1 week)</li>
-    <li><strong>2014:</strong> Foundations of R programming and graphics, with application to research in biodiversity (University of Barcelona, Spain; 1 week)</li>
-  </ul>
-</div>
+Courses & workshops
+======
+* **2018:** <a href="http://evomics.org/workshops/workshop-on-population-and-speciation-genomics/2018-workshop-on-population-and-speciation-genomics-cesky-krumlov/" target="_blank">Workshop on Population and Speciation Genomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2018.jpg" target="_blank">Photo</a>) 🇨🇿
+* **2017:** Workshop Bioinformatics for Adaptation (Valencia, Spain; 2 days) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_adaptnet_2017.jpeg" target="_blank">Photo</a>) 🇪🇸
+* **2017:** <a href="http://evomics.org/2017-workshop-on-phylogenomics-cesky-krumlov/" target="_blank">Workshop on Phylogenomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2017.jpeg" target="_blank">Photo</a>) 🇨🇿
+* **2016:** Perl programming with application to bioinformatics (BMC, Uppsala University, Sweden; 1 week) 🇸🇪
+* **2015:** <a href="https://github.com/ELIXIR-IIB-training/VarCall2015" target="_blank">NGS for evolutionary biologists: from basic scripting to variant calling</a> (ELIXIR-ITA, Sapienza Università di Roma, Italy; 1 week) 🇮🇹
+* **2014:** Foundations of R programming and graphics, with application to the research in biodiversity (University of Barcelona, Spain; 1 week) 🇪🇸
 
-<div class="section-card cv-section-card">
-  <h2><i class="fas fa-dna"></i> Research Experience</h2>
-  <ul class="cv-list">
-    <li>DNA extraction and PCR amplification</li>
-    <li>Processing genomic data, assembly and annotation (trimmomatic, samtools, bwa, bowtie, trinity, GATK, BLAST, ...)</li>
-    <li>Programming (UNIX, Perl, Python, R, AWK, ...)</li>
-    <li>Phylogenetic reconstructions (RAxML, BEAST, ...)</li>
-    <li>Population genomics (FST scans, population diversity, detecting selection, ...)</li>
-  </ul>
-</div>
+Research experience
+======
+I have used both molecular lab-work and bioinformatics tools to carry out my studies. My experience includes a wide variety of skills, such as: 
+* DNA extraction and PCR amplification
+* Processing genomic data, assembly and annotation (trimmomatic, samtools, bwa, bowtie, trinity, GATK, BLAST, ...)
+* Programming (UNIX, Perl, Python, R, AWK, ...)
+* Phylogenetic reconstructions (RAxML, BEAST, ...)
+* Population genomics (FST scans, population diversity, detecting selection, ...)
 
-<div class="section-card cv-section-card">
-  <h2 style="margin-top: 0.8em;"><i class="fas fa- قلم-ruler"></i> Reviewer Experience</h2>
-  <p>I have reviewed scientific articles for the following journals (values in parentheses indicate the number of reviews I have completed for each journal):</p>
-  <ul class="cv-list">
-    <li><a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3)</li>
-    <li><a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a> (2)</li>
-    <li><a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a> (1)</li>
-    <li><a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a> (2)</li>
-    <li><a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a> (2)</li>
-    <li><a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a> (1)</li>
-    <li><a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a> (3)</li>
-  </ul>
-</div>
+Reviewer experience
+======
+I have reviewed scientific articles for the following journals (values in parentheses indicate the number of reviews I have completed for each journal):
+* <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3)
+* <a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a> (2)
+* <a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a> (1)
+* <a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a> (2)
+* <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a> (2)
+* <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a> (1)
+* <a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a> (3)
