@@ -50,7 +50,7 @@ redirect_from:
 
   .section-card {
     background: #f9f9f9; /* Light grey background for cards */
-    padding: 2rem;
+    padding: 1rem;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.08); /* Subtle shadow */
     margin-bottom: 1rem;
