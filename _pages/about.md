@@ -154,7 +154,7 @@ Full.    View Full CV
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Funding</h2>
   <p>My research is currently possible thanks to funds for international young scientists provided by the <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank">National Natural Science Foundation of China</a> (NSFC). Previously, I was funded by a prestigious <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">PIFI fellowship</a> from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences (CAS)</a>.</p>
   <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;">
-    <img src="/images/logos_cas_nsfc.png" alt="CAS logo" style="height: 360px;">
+    <img src="/images/logos_cas_nsfc.png" alt="logos_cas_nsfc" style="height: 200px;">
   </div>
 </div>
 
