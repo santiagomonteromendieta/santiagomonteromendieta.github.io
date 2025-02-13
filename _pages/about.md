@@ -142,7 +142,7 @@ redirect_from:
       <path d="M11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
       <path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2v9.255S12 12 8 12s-5 1.755-5 1.755V2a1 1 0 0 1 1-1h5.5v2z"/>
     </svg>
-    View Full CV
+Full.    View Full CV
   </a>
 </div>
 
@@ -154,8 +154,7 @@ redirect_from:
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Funding</h2>
   <p>My research is currently possible thanks to funds for international young scientists provided by the <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank">National Natural Science Foundation of China</a> (NSFC). Previously, I was funded by a prestigious <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">PIFI fellowship</a> from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences (CAS)</a>.</p>
   <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;">
-    <img src="/images/logos_cas_nsfc.png" alt="CAS logo" style="height: 60px;">
-    <img src="/images/logo_nsfc.png" alt="NSFC logo" style="height: 60px;">
+    <img src="/images/logos_cas_nsfc.png" alt="CAS logo" style="height: 360px;">
   </div>
 </div>
 
