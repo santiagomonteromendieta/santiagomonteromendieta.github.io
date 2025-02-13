@@ -99,6 +99,19 @@
   text-decoration: none; /* No underline on hover for active link */
 }
 
+/* Prevent author avatar from shrinking too much on small screens - OVERRIDE */
+@media screen and (max-width: $large) { /* Apply to screens smaller than $large breakpoint */
+  .sidebar.sticky .author__avatar { /* Be more specific to target sidebar avatar */
+    width: auto !important; /* Reset width to 'auto' to prevent shrinking */
+  }
+
+  .sidebar.sticky .author__avatar img { /* Target the image itself */
+    max-width: 150px !important; /* Set a MAXIMUM width for smaller screens - adjust '150px' as needed */
+    width: auto !important; /* Reset image width to 'auto' */
+    height: auto !important; /* Reset image height to 'auto' - let it scale proportionally */
+  }
+}
+
 /* --------------------------------------------------------------
    Modern Styling for About Page and others
    -------------------------------------------------------------- */
