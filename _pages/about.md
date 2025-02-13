@@ -108,7 +108,6 @@ redirect_from:
     <h1 style="margin-bottom: 1rem;">Dr. Santiago Montero-Mendieta</h1>
     <p style="font-size: 1.2rem; line-height: 1.6;">Postdoctoral Researcher in Evolutionary Genomics<br>
     Institute of Zoology, Chinese Academy of Sciences</p>
-    <a href="#contact-form" class="button">Contact Me</a>
   </div>
   <img src="/images/santi_stickleback.jpg" alt="Dr. Montero-Mendieta conducting fish research" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
@@ -119,7 +118,7 @@ redirect_from:
 </div>
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem;">Brief Biography</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem;">Bio</h2>
   <div class="timeline">
     <div class="timeline-item">
       <h3 style="margin-top: 0;">Postdoctoral Researcher</h3>
