@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Academic career
+<div class="section-card">
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Academic career</h2>
 ======
-* **2021-** Postdoc in <a href="https://guolaboratory.com/" target="_blank">the lab of Baocheng Guo</a> (Institute of Zoology, Chinese Academy of Sciences. Beijing, China) 🇨🇳
+* <strong>2021-</strong> Postdoc in <a href="https://guolaboratory.com/" target="_blank">the lab of Baocheng Guo</a> (Institute of Zoology, Chinese Academy of Sciences. Beijing, China) 🇨🇳
 * **2015-2019:** PhD student in <a href="https://www.consevol.org/" target="_blank">the lab of Carles Vilà</a> (Doñana Biological Station, Spanish National Research Council, Seville, Spain) 🇪🇸🇸🇪
 * **2013-2014:** Master's degree in Biodiversity with a major in evolutionary biology (University of Barcelona, Spain). MSc thesis in <a href="https://www.ibe.upf-csic.es/carranza" target="_blank">the lab of Salvador Carranza</a> (Institute of Evolutionary Biology, Spanish National Research Council, Barcelona, Spain) 🇪🇸
 * **2009-2013:** Bachelor's degree in Biology (University of Girona, Spain). BSc thesis in <a href="https://liu.se/en/employee/matla69" target="_blank">the lab of Matthias Laska</a> (Linköping University, Sweden) 🇪🇸🇸🇪
+</div>
 
 Awards & grants
 ======
