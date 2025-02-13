@@ -7,12 +7,12 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-           {% comment %}{% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
+           {% for link in site.data.navigation.main %}
+            {% comment %}{% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
-              {% assign domain = base_path %}
-            {% endif %}{% endcomment %}
+              {% assign domain = base_path %}{% endcomment %}
+            {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
