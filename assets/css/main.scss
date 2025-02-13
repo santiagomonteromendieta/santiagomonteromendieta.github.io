@@ -48,6 +48,8 @@
   margin-top: 1.5em; /* Keep some space above the navigation */
   border-top: 1px solid #ddd; /* Add a subtle top border */
   padding-top: 1.5em; /* Add some padding above the navigation to separate it from the border */
+  border-bottom: 1px solid #ddd; /* Add a subtle bottom border */
+  padding-bottom: 1.5em; /* Add some padding below the navigation to separate it from the border */
 }
 
 .sidebar__nav-title {
@@ -59,7 +61,7 @@
 }
 
 .nav__list {
-  font-size: 1rem; /* Slightly smaller link font size */
+  font-size: 1.5rem; /* Slightly smaller link font size */
 }
 
 .nav__items {
