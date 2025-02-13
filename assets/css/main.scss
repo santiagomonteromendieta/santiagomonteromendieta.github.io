@@ -39,3 +39,59 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* --------------------------------------------------------------
+   Modern Sidebar Navigation Menu Styles
+   -------------------------------------------------------------- */
+
+.sidebar__nav {
+  margin-top: 1.5em; /* Keep some space above the navigation */
+}
+
+.sidebar__nav-title {
+  font-size: 0.9rem; /* Slightly smaller title */
+  margin-bottom: 0.7em;
+  text-transform: uppercase;
+  letter-spacing: 0.15em; /* Slightly wider letter spacing for a modern feel */
+  color: #888; /* Lighter grey title color */
+}
+
+.nav__list {
+  font-size: 1rem; /* Slightly smaller link font size */
+}
+
+.nav__items {
+  list-style: none;
+  padding-left: 0;
+}
+
+.nav__item {
+  margin-bottom: 0; /* Remove default item spacing - we'll control spacing with padding */
+}
+
+.nav__link {
+  display: block;
+  padding: 0.6em 1em; /* More generous padding for better touch targets on mobile */
+  color: #4a4a4a; /* Darker grey link color */
+  text-decoration: none;
+  border-radius: 5px; /* Rounded corners for a softer look */
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out; /* Smooth hover transitions */
+
+  &:hover {
+    background-color: #f0f0f0; /* Light grey background on hover */
+    color: #5474B8; /* Muted blue link color on hover */
+    text-decoration: none; /* Remove underline on hover for a cleaner look */
+  }
+}
+
+.nav__item.active .nav__link {
+  background-color: #5474B8; /* Muted blue background for active link */
+  color: white;
+  font-weight: 500; /* Slightly bolder for active link */
+}
+
+.nav__item.active .nav__link:hover { /* Hover effect for active link */
+  background-color: #3B5E9A; /* Darker blue background on hover for active link */
+  color: white; /* Keep white text on hover for active link */
+  text-decoration: none; /* No underline on hover for active link */
+}
