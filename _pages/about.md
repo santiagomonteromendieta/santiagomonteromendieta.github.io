@@ -101,7 +101,7 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>Hello, I'm <strong>Santi</strong>, an evolutionary biologist driven by a deep curiosity about the genomic basis of life.  I'm currently a Postdoctoral Researcher at the prestigious <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology (IOZ), Chinese Academy of Sciences</a> in Beijing, working with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research explores the fascinating world of animal evolution, using cutting-edge bioinformatics and genomics to understand how species adapt and diversify.</p>
+  <p>Hello, I'm <strong>Santi</strong>, an evolutionary biologist driven by a deep curiosity about the genomic basis of life.  I'm currently a Postdoctoral Researcher at the prestigious <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology, Chinese Academy of Sciences</a> in Beijing, working with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research explores the fascinating world of animal evolution, using cutting-edge bioinformatics and genomics to understand how species adapt and diversify.</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
@@ -118,22 +118,25 @@ redirect_from:
   <div class="timeline">
     <div class="timeline-item">
       <h3 style="margin-top: 0;">Postdoctoral Researcher</h3>
-      <p style="margin: 0.5rem 0; color: #777;">Institute of Zoology, Chinese Academy of Sciences, Beijing<br>
+      <p style="margin: 0.5rem 0; color: #777;">Institute of Zoology (Chinese Academy of Sciences, CAS), Beijing, China<br>
       <small>2021-Present</small></p>
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">PhD in Evolutionary Biology</h3>
-      <p style="margin: 0.5rem 0; color: #777;">Doñana Biological Station, Seville<br>
+      <p style="margin: 0.5rem 0; color: #777;">Doñana Biological Station (Spanish National Research Council, CSIC), Seville, Spain<br>
+      <p style="margin: 0.5rem 0; color: #777;">Uppsala University, Sweden<br>
       <small>2015-2019</small></p>
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">MSc in Biodiversity</h3>
-      <p style="margin: 0.5rem 0; color: #777;">University of Barcelona<br>
+      <p style="margin: 0.5rem 0; color: #777;">University of Barcelona, Spain<br>
+      <p style="margin: 0.5rem 0; color: #777;">Institute of Evolutionary Biology (Spanish National Research Council, CSIC), Barcelona, Spain<br>
       <small>2013-2014</small></p>
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">BSc in Biology</h3>
-      <p style="margin: 0.5rem 0; color: #777;">University of Girona<br>
+      <p style="margin: 0.5rem 0; color: #777;">University of Girona, Spain<br>
+      <p style="margin: 0.5rem 0; color: #777;">Linköping University, Sweden<br>
       <small>2009-2013</small></p>
     </div>
   </div>
