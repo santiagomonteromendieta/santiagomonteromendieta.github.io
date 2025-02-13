@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Dr. Montero-Mendieta's website"
 excerpt: "About me"
 author_profile: true
 redirect_from:
