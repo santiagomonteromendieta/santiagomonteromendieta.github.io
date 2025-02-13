@@ -118,19 +118,19 @@ redirect_from:
   <div class="timeline">
     <div class="timeline-item">
       <h3 style="margin-top: 0;">Postdoctoral Researcher</h3>
-      <p style="margin: 0.5rem 0; color: #777;">Institute of Zoology (Chinese Academy of Sciences, CAS), Beijing, China<br>
+      <p style="margin: 0.5rem 0; color: #777;">Institute of Zoology, Chinese Academy of Sciences, Beijing, China<br>
       <small>2021-Present</small></p>
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">PhD in Evolutionary Biology</h3>
-      <p style="margin: 0.5rem 0; color: #777;">Doñana Biological Station (Spanish National Research Council, CSIC), Seville, Spain<br>
+      <p style="margin: 0.5rem 0; color: #777;">Doñana Biological Station, Spanish National Research Council, Seville, Spain<br>
       Uppsala University, Sweden<br>
       <small>2015-2019</small></p>
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">MSc in Biodiversity</h3>
       <p style="margin: 0.5rem 0; color: #777;">University of Barcelona, Spain<br>
-      Institute of Evolutionary Biology (Spanish National Research Council, CSIC), Barcelona, Spain<br>
+      Institute of Evolutionary Biology, Spanish National Research Council, Barcelona, Spain<br>
       <small>2013-2014</small></p>
     </div>
     <div class="timeline-item">
