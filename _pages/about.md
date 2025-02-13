@@ -40,10 +40,6 @@ redirect_from:
     transition: background 0.3s ease;
   }
 
-  .button:hover {
-    background: #3B5E9A; /* Darker blue button hover */
-  }
-
   .hero-section {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -57,7 +53,7 @@ redirect_from:
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.08); /* Subtle shadow */
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
 
   .timeline {
