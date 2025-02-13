@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Santiago Montero-Mendieta | Evolutionary Biologist"
+title                    : "Santiago Montero-Mendieta | Evolutionary Biologist & Bioinformatician"
 title_separator          : #"-"
 name                     : &name "Santiago Montero-Mendieta"
-description              : &description "Personal website of Dr. Santiago Montero-Mendieta, an evolutionary biologist. Explore my research in genomics, phylogenetics, and zoology at the Institute of Zoology, CAS."
+description              : &description "Personal website of Dr. Santiago Montero-Mendieta, an evolutionary biologist with extensive experience in genomic data analysis"
 url                      : https://santiagomonteromendieta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "santiagomonteromendieta/santiagomonteromendieta.github.io"
