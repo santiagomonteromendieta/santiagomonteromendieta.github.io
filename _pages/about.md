@@ -104,10 +104,8 @@ redirect_from:
 </style>
 
 <div class="section-card">
-  <div>
-    <h2 style="margin-bottom: 1rem;">Introduction</h2>
-    <p>Hello, I'm **Santi**, an evolutionary biologist driven by a deep curiosity about the genomic basis of life.  I'm currently a Postdoctoral Researcher at the prestigious <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology (IOZ), Chinese Academy of Sciences</a> in Beijing, working with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research explores the fascinating world of animal evolution, using cutting-edge bioinformatics and genomics to understand how species adapt and diversify.</p>
-  </div>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem;">Introduction</h2>
+  <p>Hello, I'm **Santi**, an evolutionary biologist driven by a deep curiosity about the genomic basis of life.  I'm currently a Postdoctoral Researcher at the prestigious <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology (IOZ), Chinese Academy of Sciences</a> in Beijing, working with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research explores the fascinating world of animal evolution, using cutting-edge bioinformatics and genomics to understand how species adapt and diversify.</p>
 </div>
 
 <img src="/images/santi_stickleback.jpg" alt="Dr. Montero-Mendieta conducting fish research" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
