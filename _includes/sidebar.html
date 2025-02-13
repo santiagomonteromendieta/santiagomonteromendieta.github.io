@@ -22,4 +22,19 @@
     {% endif %}
   {% endif %}
   </div>
+<div class="sidebar__nav">
+  <h3 class="sidebar__nav-title">Navigation</h3>  <!-- Optional: Add a title for the navigation section -->
+  <nav class="nav__list">
+    <ul class="nav__items">
+      {% for link in site.data.navigation.main %}
+        {% if link.url contains 'http' %}
+          {% assign domain = '' %}
+        {% else %}
+          {% assign domain = base_path %}
+        {% endif %}
+        <li class="nav__item"><a href="{{ domain }}{{ link.url }}" class="nav__link">{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>
 {% endif %}
