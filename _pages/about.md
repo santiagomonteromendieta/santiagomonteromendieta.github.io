@@ -53,7 +53,8 @@ redirect_from:
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.08); /* Subtle shadow */
-    margin-bottom: 2rem;
+    margin-top: 0.5rem
+    margin-bottom: 0.5rem;
   }
 
   .timeline {
@@ -100,7 +101,7 @@ redirect_from:
 </style>
 
 <div class="section-card">
-  <h2 style="color: #5474B8; margin-top: 1rem; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem;">Introduction</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem;">Introduction</h2>
   <p>Hello, I'm <strong>Santi</strong>, an evolutionary biologist driven by a deep curiosity about the genomic basis of life.  I'm currently a Postdoctoral Researcher at the prestigious <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology (IOZ), Chinese Academy of Sciences</a> in Beijing, working with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research explores the fascinating world of animal evolution, using cutting-edge bioinformatics and genomics to understand how species adapt and diversify.</p>
 </div>
 
