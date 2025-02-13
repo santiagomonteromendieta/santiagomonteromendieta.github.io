@@ -124,19 +124,19 @@ redirect_from:
     <div class="timeline-item">
       <h3 style="margin-top: 0;">PhD in Evolutionary Biology</h3>
       <p style="margin: 0.5rem 0; color: #777;">Doñana Biological Station (Spanish National Research Council, CSIC), Seville, Spain<br>
-      <p style="margin: 0.5rem 0; color: #777;">Uppsala University, Sweden<br>
+      Uppsala University, Sweden<br>
       <small>2015-2019</small></p>
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">MSc in Biodiversity</h3>
       <p style="margin: 0.5rem 0; color: #777;">University of Barcelona, Spain<br>
-      <p style="margin: 0.5rem 0; color: #777;">Institute of Evolutionary Biology (Spanish National Research Council, CSIC), Barcelona, Spain<br>
+      Institute of Evolutionary Biology (Spanish National Research Council, CSIC), Barcelona, Spain<br>
       <small>2013-2014</small></p>
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">BSc in Biology</h3>
       <p style="margin: 0.5rem 0; color: #777;">University of Girona, Spain<br>
-      <p style="margin: 0.5rem 0; color: #777;">Linköping University, Sweden<br>
+      Linköping University, Sweden<br>
       <small>2009-2013</small></p>
     </div>
   </div>
