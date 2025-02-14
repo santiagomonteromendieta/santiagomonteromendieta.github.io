@@ -37,7 +37,6 @@ author_profile: true
 .social-button svg {
     width: 24px; /* Icon size */
     height: 24px; /* Icon size */
-    fill: white; /* Icon color */
 }
 /*ORCID icon*/
 .social-button i{
