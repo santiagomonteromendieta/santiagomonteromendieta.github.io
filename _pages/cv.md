@@ -56,7 +56,7 @@ Sevilla* <strong>2018:</strong> Talk at SevinOmics Spring Meeting (Seville, Spai
 </div>
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research experience</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-dna"></i> Research experience</h2>
 I have used both molecular lab-work and bioinformatics tools to carry out my studies. My experience includes a wide variety of skills, such as:<br> 
 * DNA extraction and PCR amplification<br>
 * Processing genomic data, assembly and annotation (trimmomatic, samtools, bwa, bowtie, trinity, GATK, BLAST, ...)<br>
