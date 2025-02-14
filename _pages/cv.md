@@ -30,7 +30,7 @@ redirect_from:
 </div>
 
 <div class="section-card">
-    <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Conferences & talks</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Conferences & talks</h2>
 * <strong>2023:</strong> Invited talk at Southwest University hosted by Prof. <a href="https://scholar.google.com/citations?user=hWtMbu4AAAAJ&hl=en" target="_blank">Luohao Xu</a> (Chongqing, China: 18/10/2023) 🇨🇳<br>
 * <strong>2020:</strong> Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Seville, Spain: 5-7/02/2020) 🇪🇸<br>
 * <strong>2018:</strong> Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France: 18-23/08/2018): "Multiple loci drive high-altitude adaptation in the Eastern honey bee (Apis cerana)" (<a href="https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html" target="_blank">Slides</a>) 🇫🇷<br>
@@ -46,7 +46,7 @@ Sevilla* <strong>2018:</strong> Talk at SevinOmics Spring Meeting (Seville, Spai
 </div>
 
 <div class="section-card">
-      <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Courses & workshops</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Courses & workshops</h2>
 * <strong>2018:</strong> <a href="http://evomics.org/workshops/workshop-on-population-and-speciation-genomics/2018-workshop-on-population-and-speciation-genomics-cesky-krumlov/" target="_blank">Workshop on Population and Speciation Genomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2018.jpg" target="_blank">Photo</a>) 🇨🇿<br>
 * <strong>2017:</strong> Workshop Bioinformatics for Adaptation (Valencia, Spain; 2 days) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_adaptnet_2017.jpeg" target="_blank">Photo</a>) 🇪🇸<br>
 * <strong>2017:</strong> <a href="http://evomics.org/2017-workshop-on-phylogenomics-cesky-krumlov/" target="_blank">Workshop on Phylogenomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2017.jpeg" target="_blank">Photo</a>) 🇨🇿<br>
@@ -55,14 +55,17 @@ Sevilla* <strong>2018:</strong> Talk at SevinOmics Spring Meeting (Seville, Spai
 * <strong>2014:</strong> Foundations of R programming and graphics, with application to the research in biodiversity (University of Barcelona, Spain; 1 week) 🇪🇸
 </div>
 
-Research experience
-======
-I have used both molecular lab-work and bioinformatics tools to carry out my studies. My experience includes a wide variety of skills, such as: 
-* DNA extraction and PCR amplification
+<div class="section-card">
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research experience</h2>
+  <p>
+I have used both molecular lab-work and bioinformatics tools to carry out my studies. My experience includes a wide variety of skills, such as:<br> 
+* DNA extraction and PCR amplification<br>
 * Processing genomic data, assembly and annotation (trimmomatic, samtools, bwa, bowtie, trinity, GATK, BLAST, ...)
-* Programming (UNIX, Perl, Python, R, AWK, ...)
-* Phylogenetic reconstructions (RAxML, BEAST, ...)
+* Programming (UNIX, Perl, Python, R, AWK, ...)<br>
+* Phylogenetic reconstructions (RAxML, BEAST, ...)<br>
 * Population genomics (FST scans, population diversity, detecting selection, ...)
+  </p>
+</div>
 
 Reviewer experience
 ======
