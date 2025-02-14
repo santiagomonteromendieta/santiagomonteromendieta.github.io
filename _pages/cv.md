@@ -11,22 +11,22 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Academic career</h2>
-* <strong>2021-</strong> Postdoc in <a href="https://guolaboratory.com/" target="_blank">the lab of Baocheng Guo</a> (Institute of Zoology, Chinese Academy of Sciences. Beijing, China) 🇨🇳<br>
-* <strong>2015-2019:</strong> PhD student in <a href="https://www.consevol.org/" target="_blank">the lab of Carles Vilà</a> (Doñana Biological Station, Spanish National Research Council, Seville, Spain) 🇪🇸🇸🇪<br>
-* <strong>2013-2014:</strong> Master's degree in Biodiversity with a major in evolutionary biology (University of Barcelona, Spain). MSc thesis in <a href="https://www.ibe.upf-csic.es/carranza" target="_blank">the lab of Salvador Carranza</a> (Institute of Evolutionary Biology, Spanish National Research Council, Barcelona, Spain) 🇪🇸<br>
-* <strong>2009-2013:</strong> Bachelor's degree in Biology (University of Girona, Spain). BSc thesis in <a href="https://liu.se/en/employee/matla69" target="_blank">the lab of Matthias Laska</a> (Linköping University, Sweden) 🇪🇸🇸🇪
+* <strong>2021-</strong> Postdoc in <a href="https://guolaboratory.com/" target="_blank">the lab of Baocheng Guo</a> at Institute of Zoology, Chinese Academy of Sciences, Beijing 🇨🇳<br>
+* <strong>2015-2019:</strong> PhD student in <a href="https://www.consevol.org/" target="_blank">the lab of Carles Vilà</a> at Doñana Biological Station, Spanish National Research Council, Seville 🇪🇸<br>
+* <strong>2013-2014:</strong> Master's degree in Biodiversity with a major in evolutionary biology at University of Barcelona 🇪🇸 / MSc thesis in <a href="https://www.ibe.upf-csic.es/carranza" target="_blank">the lab of Salvador Carranza</a> at Institute of Evolutionary Biology, Spanish National Research Council, Barcelona 🇪🇸<br>
+* <strong>2009-2013:</strong> Bachelor's degree in Biology at University of Girona 🇪🇸 / BSc thesis in <a href="https://liu.se/en/employee/matla69" target="_blank">the lab of Matthias Laska</a> at Linköping University 🇸🇪
 </div>
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Awards & grants</h2>
-* <strong>2021:</strong> Research Fund for International Young Scientists (RFIS-I). <span style="color: gray;">Funded by the National Natural Science Foundation of China (NSFC) (2 years)</span> 🇨🇳<br>
-* <strong>2020:</strong> CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C). <span style="color: gray;">Funded by the Chinese Academy of Sciences (CAS) (2 years)</span> 🇨🇳<br>
-* <strong>2018:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a>, Uppsala University, Sweden. <span style="color: gray;">Funded by the Spanish Government (4 months)</span> 🇪🇸🇸🇪<br>
-* <strong>2017:</strong> 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen, The Netherlands 🇳🇱<br>
-* <strong>2017:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a>, Uppsala University, Sweden. <span style="color: gray;">Funded by the Spanish Government (4 months)</span> 🇪🇸🇸🇪<br>
-* <strong>2016:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a>, Uppsala University, Sweden. <span style="color: gray;">Funded by the Spanish Government (4 months)</span> 🇪🇸🇸🇪<br>
-* <strong>2015:</strong> Formación de Personal Investigador - Research personnel training (work contract to conduct PhD studies). <span style="color: gray;">Funded by the Spanish Government (4 years)</span> 🇪🇸<br>
-* <strong>2013:</strong> Erasmus scholarship at Linköping University, Sweden. <span style="color: gray;">Funded by the Spanish Government (6 months)</span> 🇪🇸🇸🇪<br>
+* <strong>2021:</strong> Research Fund for International Young Scientists (RFIS-I) / <span style="color: gray;">Funded by the National Natural Science Foundation of China (NSFC) (2 years)</span> 🇨🇳<br>
+* <strong>2020:</strong> CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) / <span style="color: gray;">Funded by the Chinese Academy of Sciences (CAS) (2 years)</span> 🇨🇳<br>
+* <strong>2018:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a> at Uppsala University 🇸🇪 / <span style="color: gray;">Funded by the Spanish Government (4 months)</span><br>
+* <strong>2017:</strong> 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen 🇳🇱<br>
+* <strong>2017:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a>, Uppsala University 🇸🇪 / <span style="color: gray;">Funded by the Spanish Government (4 months)</span><br>
+* <strong>2016:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a> at Uppsala University 🇸🇪 / <span style="color: gray;">Funded by the Spanish Government (4 months)</span><br>
+* <strong>2015:</strong> Formación de Personal Investigador - Research personnel training (work contract to conduct PhD studies) / <span style="color: gray;">Funded by the Spanish Government (4 years)</span><br>
+* <strong>2013:</strong> Erasmus scholarship at Linköping University 🇸🇪 / <span style="color: gray;">Funded by the Spanish Government (6 months)</span><br>
 </div>
 
 Conferences & talks
