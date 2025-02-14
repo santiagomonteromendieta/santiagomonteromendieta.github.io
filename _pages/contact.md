@@ -4,24 +4,24 @@ permalink: /contact/
 author_profile: true
 ---
 
-<div style="text-align: center; margin-bottom: 2em;"> <!-- Centering container for icons -->
-  <ul class="author__urls social-icons" style="justify-content: center; margin-bottom: 0;"> <!-- Centered icons, removed margin-bottom -->
-    {% if site.author.googlescholar %}
-      <li><a href="{{ site.author.googlescholar }}" target="_blank"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a></li>
-    {% endif %}
-     {% if site.author.researchgate %}
-      <li><a href="{{ site.author.researchgate }}" target="_blank"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
-    {% endif %}
-    {% if site.author.researcherid %}
-      <li><a href="https://www.webofscience.com/wos/author/record/{{ site.author.researcherid }}" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a></li>
-    {% endif %}
-    {% if site.author.orcid %}
-      <li><a href="{{ site.author.orcid }}" target="_blank"><i class="ai ai-orcid-square ai-fw"></i></a></li>
-    {% endif %}
-  </ul>
+<div class="social-icons-container">
+    <ul class="social-icons">
+        {% if site.author.googlescholar %}
+        <li><a href="{{ site.author.googlescholar }}" target="_blank" aria-label="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.author.researchgate %}
+        <li><a href="{{ site.author.researchgate }}" target="_blank" aria-label="ResearchGate"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.author.github %}
+        <li><a href="https://github.com/{{ site.author.github }}" target="_blank" aria-label="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.author.researcherid %}
+        <li><a href="https://www.webofscience.com/wos/author/record/{{ site.author.researcherid }}" target="_blank" aria-label="ResearcherID"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.author.orcid %}
+        <li><a href="{{ site.author.orcid }}" target="_blank" aria-label="ORCID"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i></a></li>
+        {% endif %}
+    </ul>
 </div>
 
 <div class="section-card">
