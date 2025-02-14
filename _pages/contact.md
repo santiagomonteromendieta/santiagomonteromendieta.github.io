@@ -4,23 +4,73 @@ permalink: /contact/
 author_profile: true
 ---
 
+<style>
+.social-icons {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.social-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #5474B8;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.social-button:hover {
+    background-color: #405d9c;
+    transform: translateY(-2px);
+}
+
+.social-button svg {
+    width: 24px;
+    height: 24px;
+    fill: white;
+}
+</style>
+
 <div class="social-icons-container">
     <ul class="social-icons">
         {% if site.author.googlescholar %}
-        <li><a href="{{ site.author.googlescholar }}" target="_blank" aria-label="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a></li>
+        <li>
+            <a href="{{ site.author.googlescholar }}" class="social-button" target="_blank" aria-label="Google Scholar">
+                <!-- Google Scholar SVG -->
+                <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8.5 8.5 0 0 1 12 9a8.5 8.5 0 0 1 7.162 4.44L24 9.5zM12 15a6 6 0 1 0 0-12 6 6 0 0 0 0 12zm-3.201-3.375h6.402a.375.375 0 0 1 .375.375v2.25a.375.375 0 0 1-.375.375H8.8a.375.375 0 0 1-.375-.375v-2.25a.375.375 0 0 1 .375-.375z"/>
+                </svg>
+            </a>
+        </li>
         {% endif %}
         {% if site.author.researchgate %}
-        <li><a href="{{ site.author.researchgate }}" target="_blank" aria-label="ResearchGate"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a></li>
+        <li>
+            <a href="{{ site.author.researchgate }}" class="social-button" target="_blank" aria-label="ResearchGate">
+                <!-- ResearchGate SVG -->
+                <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M5.223 17.905h-.047c-1.079 0-2.021-.666-2.403-1.646-.477-1.215.115-2.626 1.319-3.154 1.222-.535 2.682-.169 3.496.82.385.369.57.896.488 1.45-.083.552-.476 1.022-1.02 1.23-.92.29-1.915.346-2.843.167v.133c0 1.215 2.021 1.21 2.664.598.224-.215.358-.517.358-.843h.598c0 .597-.261 1.167-.719 1.56-.666.598-1.689.777-2.603.598-.907-.18-1.6-.821-1.785-1.73h3.363v-.598H4.418c0 .993.812 1.794 1.805 1.794zM18.708 21.715H5.292V24h13.416v-2.285zM12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0zm6.14 15.523c-.166.385-.516.643-.912.643h-.059c-.385 0-.731-.258-.893-.627l-2.155-5.271-2.155 5.271c-.161.369-.508.627-.893.627h-.059c-.396 0-.746-.258-.912-.643l-1.215-3.007c-.08-.202-.125-.418-.125-.635v-3.795c0-.597.485-1.082 1.082-1.082h1.649c.597 0 1.082.485 1.082 1.082v3.795c0 .217-.045.433-.125.635l1.215 3.007 2.155-5.271c.161-.369.508-.627.893-.627h.059c.396 0 .746.258.912.643l2.155 5.271 1.215-3.007c.08-.202.125-.418.125-.635v-3.795c0-.597.485-1.082 1.082-1.082h1.649c.597 0 1.082.485 1.082 1.082v3.795c0 .217-.045.433-.125.635l-1.215 3.007z"/>
+                </svg>
+            </a>
+        </li>
         {% endif %}
         {% if site.author.github %}
-        <li><a href="https://github.com/{{ site.author.github }}" target="_blank" aria-label="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
+        <li>
+            <a href="https://github.com/{{ site.author.github }}" class="social-button" target="_blank" aria-label="GitHub">
+                <!-- GitHub SVG -->
+                <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.793-.258.793-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.19.694.801.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+                </svg>
+            </a>
+        </li>
         {% endif %}
-        {% if site.author.researcherid %}
-        <li><a href="https://www.webofscience.com/wos/author/record/{{ site.author.researcherid }}" target="_blank" aria-label="ResearcherID"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a></li>
-        {% endif %}
-        {% if site.author.orcid %}
-        <li><a href="{{ site.author.orcid }}" target="_blank" aria-label="ORCID"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i></a></li>
-        {% endif %}
+        <!-- Add similar button blocks for other social icons -->
     </ul>
 </div>
 
