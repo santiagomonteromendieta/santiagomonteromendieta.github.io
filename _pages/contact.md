@@ -23,4 +23,11 @@ author_profile: true
     </div>
     <button type="submit" class="button">Send Message</button>
   </form>
+
+  <p style="color: red; font-weight: bold;">Important Note:</p>
+    <ul style="color: red; font-weight: bold;">
+      <li>I currently <span style="text-decoration: underline;">not</span> have available positions for PhD or MSc students. </li>
+      <li>Inquiries that appear to be non-genuine (e.g., AI-generated or generic requests) will not receive a response.</li>
+  </ul>
+  
 </div>
