@@ -23,7 +23,6 @@ author_profile: true
     height: 50px; /* Fixed height */
     border-radius: 50%; /* Circular shape */
     background-color: #5474B8; /* Your main color */
-    color: white; /* Text/icon color */
     text-decoration: none; /* Remove underline from links */
     transition: all 0.3s ease; /* Smooth transition for hover effects */
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
