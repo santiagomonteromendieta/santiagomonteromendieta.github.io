@@ -19,39 +19,41 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Awards & grants</h2>
-* <strong>2021:</strong> Research Fund for International Young Scientists (RFIS-I) / <span style="color: gray;">Funded by the National Natural Science Foundation of China (NSFC) (2 years)</span> 🇨🇳<br>
-* <strong>2020:</strong> CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) / <span style="color: gray;">Funded by the Chinese Academy of Sciences (CAS) (2 years)</span> 🇨🇳<br>
-* <strong>2018:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a> at Uppsala University 🇸🇪 / <span style="color: gray;">Funded by the Spanish Government (4 months)</span><br>
+* <strong>2021:</strong> Research Fund for International Young Scientists (RFIS-I) <span style="color: gray;">/ Funded by the National Natural Science Foundation of China (NSFC) (2 years)</span> 🇨🇳<br>
+* <strong>2020:</strong> CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) <span style="color: gray;">/ Funded by the Chinese Academy of Sciences (CAS) (2 years)</span> 🇨🇳<br>
+* <strong>2018:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a> at Uppsala University 🇸🇪 <span style="color: gray;">/ Funded by the Spanish Government (4 months)</span><br>
 * <strong>2017:</strong> 2nd Best Poster Award at the XVI European Society for Evolutionary Biology Congress, Groningen 🇳🇱<br>
-* <strong>2017:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a>, Uppsala University 🇸🇪 / <span style="color: gray;">Funded by the Spanish Government (4 months)</span><br>
-* <strong>2016:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a> at Uppsala University 🇸🇪 / <span style="color: gray;">Funded by the Spanish Government (4 months)</span><br>
-* <strong>2015:</strong> Formación de Personal Investigador - Research personnel training (work contract to conduct PhD studies) / <span style="color: gray;">Funded by the Spanish Government (4 years)</span><br>
-* <strong>2013:</strong> Erasmus scholarship at Linköping University 🇸🇪 / <span style="color: gray;">Funded by the Spanish Government (6 months)</span><br>
+* <strong>2017:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a> at Uppsala University 🇸🇪 <span style="color: gray;">/ Funded by the Spanish Government (4 months)</span><br>
+* <strong>2016:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a> at Uppsala University 🇸🇪 <span style="color: gray;">/ Funded by the Spanish Government (4 months)</span><br>
+* <strong>2015:</strong> Formación de Personal Investigador - Research personnel training (work contract to conduct PhD studies) <span style="color: gray;">/ Funded by the Spanish Government (4 years)</span><br>
+* <strong>2013:</strong> Erasmus scholarship at Linköping University 🇸🇪 <span style="color: gray;">/ Funded by the Spanish Government (6 months)</span>
 </div>
 
-Conferences & talks
-======
-* **2023:** Invited talk at Southwest University hosted by Prof. <a href="https://scholar.google.com/citations?user=hWtMbu4AAAAJ&hl=en" target="_blank">Luohao Xu</a> (Chongqing, China: 18/10/2023) 🇨🇳
-* **2020:** Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Seville, Spain: 5-7/02/2020) 🇪🇸
-* **2018:** Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France: 18-23/08/2018): "Multiple loci drive high-altitude adaptation in the Eastern honey bee (Apis cerana)" (<a href="https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html" target="_blank">Slides</a>) 🇫🇷
-* **2018:** Talk at SevinOmics Spring Meeting (Seville, Spain: 09/04/2018): "Genome adaptations to high altitude in the Eastern honeybee" (<a href="/files/2018_slides_sevinomics.pdf" target="_blank">Slides</a>) 🇪🇸
-* **2017:** Talk at IMBIM Genomics Friday (Uppsala, Sweden: 22/09/2017): "Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee" 🇸🇪 
-* **2017:** Poster presentation at XVI European Society for Evolutionary Biology (ESEB) Congress (Groningen, The Netherlands: 20-25/08/2017): "Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee" (<a href="/images/poster_groningen_2017.png" target="_blank">Poster</a>) 🇳🇱
-* **2017:** Talk in Doñana Biological Station (Seville, Spain: 02/02/2017): "A genomic view on the diversification of Neotropical frogs" (<a href="/files/2017_slides_ebd.pdf" target="_blank">Slides</a>) 🇪🇸
-* **2016:** Attendance to XVI Jornades Herpetològiques Catalanes (Parets del Vallès, Spain: 23/10/2016) 🇪🇸
-* **2016:** Attendance to The Ecology of Genome Evolution Symposium (Uppsala, Sweden: 09/09/2016) 🇸🇪
-* **2016:** Talk in SevinOmics Spring Meeting (Seville, Spain: 16/03/2016): "Genome size estimation in amphibians through real-time PCR" (<a href="/files/2016_slides_sevinomics.pdf" target="_blank">Slides</a>) 🇪🇸
-* **2014:** Talk in XV Jornades Herpetològiques Catalanes (Sant Feliu de Codines, Spain: 11/10/2014): "DNA barcoding of the reptiles of the Socotra archipelago" (<a href="/files/2014_slides_barcoding.pdf" target="_blank">Slides</a>) 🇪🇸
-* **2014:** Attendance to XIV Jornada de Biologia Evolutiva (Barcelona, Spain: 01/07/2014) 🇪🇸
+<div class="section-card">
+    <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Conferences & talks</h2>
+* <strong>2023:</strong> Invited talk at Southwest University hosted by Prof. <a href="https://scholar.google.com/citations?user=hWtMbu4AAAAJ&hl=en" target="_blank">Luohao Xu</a> (Chongqing, China: 18/10/2023) 🇨🇳<br>
+* <strong>2020:</strong> Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Seville, Spain: 5-7/02/2020) 🇪🇸<br>
+* <strong>2018:</strong> Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France: 18-23/08/2018): "Multiple loci drive high-altitude adaptation in the Eastern honey bee (Apis cerana)" (<a href="https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html" target="_blank">Slides</a>) 🇫🇷<br>
+Sevilla* <strong>2018:</strong> Talk at SevinOmics Spring Meeting (Seville, Spain: 09/04/2018): "Genome adaptations to high altitude in the Eastern honeybee" (<a href="/files/2018_slides_sevinomics.pdf" target="_blank">Slides</a>) 🇪🇸<br>
+* <strong>2017:</strong> Talk at IMBIM Genomics Friday (Uppsala, Sweden: 22/09/2017): "Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee" 🇸🇪<br> 
+* <strong>2017:</strong> Poster presentation at XVI European Society for Evolutionary Biology (ESEB) Congress (Groningen, The Netherlands: 20-25/08/2017): "Looking for the genetic basis of adaptation to high altitude habitats in the Eastern honeybee" (<a href="/images/poster_groningen_2017.png" target="_blank">Poster</a>) 🇳🇱<br>
+* <strong>2017:</strong> Talk in Doñana Biological Station (Seville, Spain: 02/02/2017): "A genomic view on the diversification of Neotropical frogs" (<a href="/files/2017_slides_ebd.pdf" target="_blank">Slides</a>) 🇪🇸<br>
+* <strong>2016:</strong> Attendance to XVI Jornades Herpetològiques Catalanes (Parets del Vallès, Spain: 23/10/2016) 🇪🇸<br>
+* <strong>2016:</strong> Attendance to The Ecology of Genome Evolution Symposium (Uppsala, Sweden: 09/09/2016) 🇸🇪<br>
+* <strong>2016:</strong> Talk in SevinOmics Spring Meeting (Seville, Spain: 16/03/2016): "Genome size estimation in amphibians through real-time PCR" (<a href="/files/2016_slides_sevinomics.pdf" target="_blank">Slides</a>) 🇪🇸<br>
+* <strong>2014:</strong> Talk in XV Jornades Herpetològiques Catalanes (Sant Feliu de Codines, Spain: 11/10/2014): "DNA barcoding of the reptiles of the Socotra archipelago" (<a href="/files/2014_slides_barcoding.pdf" target="_blank">Slides</a>) 🇪🇸<br>
+* <strong>2014:</strong> Attendance to XIV Jornada de Biologia Evolutiva (Barcelona, Spain: 01/07/2014) 🇪🇸
+</div>
 
-Courses & workshops
-======
-* **2018:** <a href="http://evomics.org/workshops/workshop-on-population-and-speciation-genomics/2018-workshop-on-population-and-speciation-genomics-cesky-krumlov/" target="_blank">Workshop on Population and Speciation Genomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2018.jpg" target="_blank">Photo</a>) 🇨🇿
-* **2017:** Workshop Bioinformatics for Adaptation (Valencia, Spain; 2 days) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_adaptnet_2017.jpeg" target="_blank">Photo</a>) 🇪🇸
-* **2017:** <a href="http://evomics.org/2017-workshop-on-phylogenomics-cesky-krumlov/" target="_blank">Workshop on Phylogenomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2017.jpeg" target="_blank">Photo</a>) 🇨🇿
-* **2016:** Perl programming with application to bioinformatics (BMC, Uppsala University, Sweden; 1 week) 🇸🇪
-* **2015:** <a href="https://github.com/ELIXIR-IIB-training/VarCall2015" target="_blank">NGS for evolutionary biologists: from basic scripting to variant calling</a> (ELIXIR-ITA, Sapienza Università di Roma, Italy; 1 week) 🇮🇹
-* **2014:** Foundations of R programming and graphics, with application to the research in biodiversity (University of Barcelona, Spain; 1 week) 🇪🇸
+<div class="section-card">
+      <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Courses & workshops</h2>
+* <strong>2018:</strong> <a href="http://evomics.org/workshops/workshop-on-population-and-speciation-genomics/2018-workshop-on-population-and-speciation-genomics-cesky-krumlov/" target="_blank">Workshop on Population and Speciation Genomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2018.jpg" target="_blank">Photo</a>) 🇨🇿<br>
+* <strong>2017:</strong> Workshop Bioinformatics for Adaptation (Valencia, Spain; 2 days) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_adaptnet_2017.jpeg" target="_blank">Photo</a>) 🇪🇸<br>
+* <strong>2017:</strong> <a href="http://evomics.org/2017-workshop-on-phylogenomics-cesky-krumlov/" target="_blank">Workshop on Phylogenomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2017.jpeg" target="_blank">Photo</a>) 🇨🇿<br>
+* <strong>2016:</strong> Perl programming with application to bioinformatics (BMC, Uppsala University, Sweden; 1 week) 🇸🇪<br>
+* <strong>2015:</strong> <a href="https://github.com/ELIXIR-IIB-training/VarCall2015" target="_blank">NGS for evolutionary biologists: from basic scripting to variant calling</a> (ELIXIR-ITA, Sapienza Università di Roma, Italy; 1 week) 🇮🇹<br>
+* <strong>2014:</strong> Foundations of R programming and graphics, with application to the research in biodiversity (University of Barcelona, Spain; 1 week) 🇪🇸
+</div>
 
 Research experience
 ======
