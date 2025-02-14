@@ -204,3 +204,49 @@ a:hover {
    padding: 2rem;
    border-radius: 10px;
 }
+
+/* Add to the end of your assets/css/main.scss */
+
+.timeline {
+  position: relative;
+  margin-left: 1em; /* Adjust as needed */
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 3px; /* Adjust line thickness */
+  background-color: #5474B8; /* Line color */
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.5em;
+  padding-left: 1.5em; /* Space for the "dot" */
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    top: 0.5em;  /* Adjust the vertical positioning of the dot */
+    left: 0;
+    width: 0.8em; /* Dot size */
+    height: 0.8em; /* Dot size */
+    background-color: #5474B8; /* Dot color - same as timeline */
+    border-radius: 50%; /* Make it a circle */
+    z-index: 1; /* Ensure dot is above the line */
+}
+
+.timeline-item h3 {
+    margin-top: 0;
+    margin-bottom: 0.2em;
+    font-size: 1.1em; /* Slightly larger font for the title */
+}
+.timeline-item p {
+    margin: 0;
+    color: #666;
+    font-size: 1em;
+}
