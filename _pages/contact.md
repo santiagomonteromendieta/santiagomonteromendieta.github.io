@@ -4,25 +4,24 @@ permalink: /contact/
 author_profile: true
 ---
 
-<div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Reviewer Availability and Expertise</h2>
-    <p>Thank you for considering me as a peer reviewer.  I am particularly keen to contribute to society journals and welcome opportunities to review manuscripts within my areas of expertise.  These include:</p>
-    <ul>
-        <li><strong>Population and Comparative Genomics:</strong>  Analysis of genetic variation within and between populations, including studies of selection and demographic history.</li>
-        <li><strong>Phylogenetics and Phylogenomics:</strong>  Inferring evolutionary relationships using both targeted gene regions and genome-scale data.</li>
-        <li><strong>Evolutionary Adaptation:</strong> Investigating the genetic basis of adaptation, with a focus on organisms inhabiting extreme environments such as high-altitude and cave ecosystems.</li>
-         <li><strong>Molecular Methods:</strong> Application of techniques such as target enrichment sequencing for evolutionary studies.</li>
-    </ul>
-    <p style = "margin-top: 0.5rem">I have previously reviewed manuscripts for the following journals:</p>
-    <ul>
-        <li><a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3)</li>
-        <li><a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a> (2)</li>
-        <li><a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a> (1)</li>
-        <li><a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a> (2)</li>
-        <li><a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a> (2)</li>
-        <li><a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a> (1)</li>
-        <li><a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a> (3)</li>
-    </ul>
+<div style="text-align: center; margin-bottom: 2em;"> <!-- Centering container for icons -->
+  <ul class="author__urls social-icons" style="justify-content: center; margin-bottom: 0;"> <!-- Centered icons, removed margin-bottom -->
+    {% if site.author.googlescholar %}
+      <li><a href="{{ site.author.googlescholar }}" target="_blank"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a></li>
+    {% endif %}
+     {% if site.author.researchgate %}
+      <li><a href="{{ site.author.researchgate }}" target="_blank"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
+    {% endif %}
+    {% if site.author.researcherid %}
+      <li><a href="https://www.webofscience.com/wos/author/record/{{ site.author.researcherid }}" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a></li>
+    {% endif %}
+    {% if site.author.orcid %}
+      <li><a href="{{ site.author.orcid }}" target="_blank"><i class="ai ai-orcid-square ai-fw"></i></a></li>
+    {% endif %}
+  </ul>
 </div>
 
 <div class="section-card">
@@ -50,5 +49,25 @@ author_profile: true
       <li>I currently <span style="text-decoration: underline;">do not</span> have available positions for PhD or MSc students.</li>
       <li>Inquiries that appear to be non-genuine (e.g., AI-generated or generic requests) will not receive a response.</li>
   </ul>
-  
+</div>
+
+<div class="section-card">
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Reviewer Availability and Expertise</h2>
+    <p>Thank you for considering me as a peer reviewer.  I am particularly keen to contribute to society journals and welcome opportunities to review manuscripts within my areas of expertise.  These include:</p>
+    <ul>
+        <li><strong>Population and Comparative Genomics:</strong>  Analysis of genetic variation within and between populations, including studies of selection and demographic history.</li>
+        <li><strong>Phylogenetics and Phylogenomics:</strong>  Inferring evolutionary relationships using both targeted gene regions and genome-scale data.</li>
+        <li><strong>Evolutionary Adaptation:</strong> Investigating the genetic basis of adaptation, with a focus on organisms inhabiting extreme environments such as high-altitude and cave ecosystems.</li>
+         <li><strong>Molecular Methods:</strong> Application of techniques such as target enrichment sequencing for evolutionary studies.</li>
+    </ul>
+    <p style = "margin-top: 0.5rem">I have previously reviewed manuscripts for the following journals:</p>
+    <ul>
+        <li><a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3)</li>
+        <li><a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a> (2)</li>
+        <li><a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a> (1)</li>
+        <li><a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a> (2)</li>
+        <li><a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a> (2)</li>
+        <li><a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a> (1)</li>
+        <li><a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a> (3)</li>
+    </ul>
 </div>
