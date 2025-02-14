@@ -57,23 +57,22 @@ Sevilla* <strong>2018:</strong> Talk at SevinOmics Spring Meeting (Seville, Spai
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research experience</h2>
-  <p>
 I have used both molecular lab-work and bioinformatics tools to carry out my studies. My experience includes a wide variety of skills, such as:<br> 
 * DNA extraction and PCR amplification<br>
-* Processing genomic data, assembly and annotation (trimmomatic, samtools, bwa, bowtie, trinity, GATK, BLAST, ...)
+* Processing genomic data, assembly and annotation (trimmomatic, samtools, bwa, bowtie, trinity, GATK, BLAST, ...)<br>
 * Programming (UNIX, Perl, Python, R, AWK, ...)<br>
 * Phylogenetic reconstructions (RAxML, BEAST, ...)<br>
 * Population genomics (FST scans, population diversity, detecting selection, ...)
-  </p>
 </div>
 
-Reviewer experience
-======
-I have reviewed scientific articles for the following journals (values in parentheses indicate the number of reviews I have completed for each journal):
-* <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3)
-* <a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a> (2)
-* <a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a> (1)
-* <a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a> (2)
-* <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a> (2)
-* <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a> (1)
+<div class="section-card">
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Reviewer experience</h2>
+I have reviewed scientific articles for the following journals (values in parentheses indicate the number of reviews I have completed for each journal):<br>
+* <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3)<br>
+* <a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a> (2)<br>
+* <a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a> (1)<br>
+* <a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a> (2)<br>
+* <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a> (2)<br>
+* <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a> (1)<br>
 * <a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a> (3)
+</div>
