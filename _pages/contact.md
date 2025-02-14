@@ -73,7 +73,7 @@ author_profile: true
          <li><strong>Molecular Methods:</strong> Application of techniques such as target enrichment sequencing for evolutionary studies.</li>
     </ul>
     <p style = "margin-top: 0.5rem">I have previously reviewed manuscripts for the following journals: 
-        <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3); 
+        <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3 times); 
         <a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a> (2); 
         <a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a> (1); 
         <a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a> (2); 
