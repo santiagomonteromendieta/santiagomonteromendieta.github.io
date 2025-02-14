@@ -101,17 +101,3 @@ redirect_from:
         <li><strong>2014:</strong> Foundations of R programming and graphics, with application to the research in biodiversity (University of Barcelona, Spain) 🇪🇸 (1 week)</li>
     </ul>
 </div>
-
-<div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Reviewer Experience</h2>
-    <p>I have reviewed manuscripts for the following journals:</p>
-    <ul>
-        <li><a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a> (3)</li>
-        <li><a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a> (2)</li>
-        <li><a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a> (1)</li>
-        <li><a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a> (2)</li>
-        <li><a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a> (2)</li>
-        <li><a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a> (1)</li>
-        <li><a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a> (3)</li>
-    </ul>
-</div>
