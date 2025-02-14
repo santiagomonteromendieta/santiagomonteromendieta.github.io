@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Academic career</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-briefcase"></i> Academic career</h2>
 * <strong>2021-</strong> Postdoc in <a href="https://guolaboratory.com/" target="_blank">the lab of Baocheng Guo</a> at Institute of Zoology, Chinese Academy of Sciences, Beijing 🇨🇳<br>
 * <strong>2015-2019:</strong> PhD student in <a href="https://www.consevol.org/" target="_blank">the lab of Carles Vilà</a> at Doñana Biological Station, Spanish National Research Council, Seville 🇪🇸<br>
 * <strong>2013-2014:</strong> Master's degree in Biodiversity with a major in evolutionary biology at University of Barcelona 🇪🇸 / MSc thesis in <a href="https://www.ibe.upf-csic.es/carranza" target="_blank">the lab of Salvador Carranza</a> at Institute of Evolutionary Biology, Spanish National Research Council, Barcelona 🇪🇸<br>
@@ -18,7 +18,7 @@ redirect_from:
 </div>
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Awards & grants</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-award"></i> Awards & grants</h2>
 * <strong>2021:</strong> Research Fund for International Young Scientists (RFIS-I) <span style="color: gray;">/ Funded by the National Natural Science Foundation of China (NSFC) (2 years)</span> 🇨🇳<br>
 * <strong>2020:</strong> CAS President's International Fellowship Initiative (PIFI) for Postdoctoral Researchers (Category C) <span style="color: gray;">/ Funded by the Chinese Academy of Sciences (CAS) (2 years)</span> 🇨🇳<br>
 * <strong>2018:</strong> Travel grant to <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Matthew Webster's lab</a> at Uppsala University 🇸🇪 <span style="color: gray;">/ Funded by the Spanish Government (4 months)</span><br>
@@ -30,7 +30,7 @@ redirect_from:
 </div>
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Conferences & talks</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-microphone-alt"></i> Conferences & talks</h2>
 * <strong>2023:</strong> Invited talk at Southwest University hosted by Prof. <a href="https://scholar.google.com/citations?user=hWtMbu4AAAAJ&hl=en" target="_blank">Luohao Xu</a> (Chongqing, China: 18/10/2023) 🇨🇳<br>
 * <strong>2020:</strong> Attendance to VII Biennial Congress of the Spanish Society for Evolutionary Biology (Seville, Spain: 5-7/02/2020) 🇪🇸<br>
 * <strong>2018:</strong> Talk at the Second Joint Congress on Evolutionary Biology (Montpellier, France: 18-23/08/2018): "Multiple loci drive high-altitude adaptation in the Eastern honey bee (Apis cerana)" (<a href="https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/764_22082018_0950_einstein_Santiago_Montero-Mendieta_578/index.html" target="_blank">Slides</a>) 🇫🇷<br>
@@ -46,7 +46,7 @@ Sevilla* <strong>2018:</strong> Talk at SevinOmics Spring Meeting (Seville, Spai
 </div>
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Courses & workshops</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-graduation-cap"></i> Courses & workshops</h2>
 * <strong>2018:</strong> <a href="http://evomics.org/workshops/workshop-on-population-and-speciation-genomics/2018-workshop-on-population-and-speciation-genomics-cesky-krumlov/" target="_blank">Workshop on Population and Speciation Genomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2018.jpg" target="_blank">Photo</a>) 🇨🇿<br>
 * <strong>2017:</strong> Workshop Bioinformatics for Adaptation (Valencia, Spain; 2 days) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_adaptnet_2017.jpeg" target="_blank">Photo</a>) 🇪🇸<br>
 * <strong>2017:</strong> <a href="http://evomics.org/2017-workshop-on-phylogenomics-cesky-krumlov/" target="_blank">Workshop on Phylogenomics</a> (Cesky Krumlov, Czech Republic; 2 weeks) (<a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/workshops/photo_evomics_2017.jpeg" target="_blank">Photo</a>) 🇨🇿<br>
