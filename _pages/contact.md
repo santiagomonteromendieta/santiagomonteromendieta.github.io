@@ -9,25 +9,27 @@ author_profile: true
     list-style: none;
     padding: 0;
     display: flex;
-    gap: 1rem; /* Adjust spacing as needed */
+    gap: 1rem;
     justify-content: center;
     flex-wrap: wrap;
     margin-bottom: 2em;
 }
 
 .social-link {
-    display: inline-block; /* Important for consistent spacing */
-    padding: 0.5rem 1rem; /* Adjust padding as needed */
+    display: inline-block;
+    padding: 0.5rem 1rem;
     background-color: #5474B8;
     color: white;
-    text-decoration: none;
-    border-radius: 5px; /* Rounded corners */
-    transition: background-color 0.3s ease;
-    white-space: nowrap; /* Prevent text wrapping */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Add color transition */
+    white-space: nowrap;
 }
 
 .social-link:hover {
     background-color: #405d9c;
+    color: white; /* Keep text color white on hover */
+    text-decoration: none; /* Ensure no underline on hover */
 }
 </style>
 
