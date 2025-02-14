@@ -10,19 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-dna"></i> Research Experience</h2>
-    <p>I leverage both molecular lab techniques and bioinformatics tools in my research. My expertise encompasses:</p>
-    <ul>
-        <li><strong>Molecular Biology:</strong> DNA extraction, PCR amplification</li>
-        <li><strong>Genomic Data Processing & Analysis:</strong>  Data processing (trimmomatic, samtools, bwa, bowtie), genome assembly and annotation (Trinity, GATK, BLAST)</li>
-        <li><strong>Programming & Scripting:</strong> UNIX, Perl, Python, R, AWK</li>
-        <li><strong>Phylogenetics:</strong> Phylogenetic reconstruction (RAxML, BEAST)</li>
-        <li><strong>Population Genomics:</strong>  F<sub>ST</sub> scans, population diversity analysis, detection of selection</li>
-    </ul>
-</div>
-
-<div class="section-card">
-    <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-briefcase"></i> Academic Career</h2>
+    <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-briefcase"></i> Academia</h2>
     <div class="timeline">
         <div class="timeline-item">
             <h3>Postdoctoral Researcher</h3>
@@ -31,7 +19,7 @@ redirect_from:
 
         <div class="timeline-item">
             <h3>PhD Student</h3>
-            <p><strong>2015-2019</strong> | <a href="https://www.consevol.org/" target="_blank">Vilà Lab</a>, Doñana Biological Station, Spanish National Research Council, Seville 🇪🇸</p>
+            <p><strong>2015-2019</strong> | <a href="https://www.consevol.org/" target="_blank">Vilà Lab</a>, Doñana Biological Station, Spanish National Research Council, Seville 🇪🇸 / <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Webster Lab</a>, Uppsala University 🇸🇪</p>
         </div>
 
         <div class="timeline-item">
@@ -58,28 +46,28 @@ redirect_from:
             <p><strong>2020</strong> | Chinese Academy of Sciences (CAS) (2 years) 🇨🇳</p>
         </div>
         <div class="timeline-item">
-            <h3>Travel Grant</h3>
-            <p><strong>2018</strong> | <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Webster Lab</a>, Uppsala University 🇸🇪 | Spanish Government (4 months)</p>
+            <h3>Predoctoral Mobility Grants for Short Stays at Spanish and International R&D Centers</h3>
+            <p><strong>2018</strong> | Spanish Government (4 months) 🇪🇸</p>
         </div>
         <div class="timeline-item">
             <h3>2nd Best Poster Award</h3>
             <p><strong>2017</strong> | XVI European Society for Evolutionary Biology Congress, Groningen 🇳🇱</p>
         </div>
         <div class="timeline-item">
-            <h3>Travel Grant</h3>
-             <p><strong>2017</strong> | <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Webster Lab</a>, Uppsala University 🇸🇪 | Spanish Government (4 months)</p>
+            <h3>Predoctoral Mobility Grants for Short Stays at Spanish and International R&D Centers</h3>
+             <p><strong>2017</strong> | Spanish Government (4 months) 🇪🇸</p>
         </div>
         <div class="timeline-item">
-            <h3>Travel Grant</h3>
-            <p><strong>2016</strong> | <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Webster Lab</a>, Uppsala University 🇸🇪 | Spanish Government (4 months)</p>
+            <h3>Predoctoral Mobility Grants for Short Stays at Spanish and International R&D Centers</h3>
+            <p><strong>2016</strong> | Spanish Government (4 months) 🇪🇸</p>
         </div>
          <div class="timeline-item">
-            <h3>Formación de Personal Investigador - Research personnel training</h3>
-            <p><strong>2015</strong> | Work contract for PhD studies | Spanish Government (4 years)</p>
+            <h3>Predoctoral FPI Contract (Researcher Training Program) for PhD studies</h3>
+            <p><strong>2015</strong> | Spanish Government (4 years) 🇪🇸</p>
         </div>
         <div class="timeline-item">
             <h3>Erasmus Scholarship</h3>
-            <p><strong>2013</strong> | Linköping University 🇸🇪 | Spanish Government (6 months)</p>
+            <p><strong>2013</strong> | Spanish Government (6 months) 🇪🇸</p>
         </div>
     </div>
 </div>
