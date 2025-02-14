@@ -80,6 +80,7 @@ author_profile: true
         <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a> (2); 
         <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a> (1); 
         <a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a> (3)
+    </p>
 </div>
 
 <div class="section-card">
