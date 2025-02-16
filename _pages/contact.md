@@ -122,8 +122,6 @@ author_profile: true
             <li class="journal-item">
                 <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a>
                 <span class="journal-count">3 reviews</span>
-            </li>
-            <li class="journal-item">
                 <a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a>
                 <span class="journal-count">2 reviews</span>
             </li>
