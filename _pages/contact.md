@@ -40,42 +40,72 @@ author_profile: true
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+/* Expertise List Improvements */
 .expertise-list {
     margin: 1.5rem 0;
     line-height: 1.6;
+    padding-left: 1.5rem; /* Increased indentation */
 }
 
 .expertise-list li {
     margin-bottom: 1.2rem;
+    position: relative;
     padding-left: 1rem;
-    border-left: 3px solid #5474B8;
 }
 
+.expertise-list li::before {
+    content: "•";
+    color: #5474B8; /* Match accent color */
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+/* Journal List Improvements */
 .journal-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1rem;
-    margin: 1.5rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem; /* Reduced vertical gap */
+    margin: 1.2rem 0;
     padding: 0;
     list-style: none;
 }
 
 .journal-item {
-    padding: 0.8rem;
-    background: #f8f9fa;
-    border-radius: 5px;
-    border: 1px solid #eee;
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.3rem 0;
 }
 
 .journal-count {
-    display: inline-block;
-    margin-left: 0.5rem;
-    padding: 0.2rem 0.5rem;
-    background: #5474B8;
-    color: white;
-    border-radius: 3px;
-    font-size: 0.8em;
-}    
+    color: #666; /* Muted color */
+    font-size: 0.9em;
+    position: relative;
+    padding-left: 0.5rem;
+}
+
+.journal-count::before {
+    content: "(";
+    color: #999;
+    padding-right: 0.2rem;
+}
+
+.journal-count::after {
+    content: ")";
+    color: #999;
+    padding-left: 0.2rem;
+}
+
+/* Optional: Add subtle hover effect for links */
+.journal-item a {
+    transition: color 0.2s ease;
+}
+
+.journal-item a:hover {
+    color: #405d9c;
+}  
 </style>
 
 <div class="social-links-container">
@@ -112,7 +142,7 @@ author_profile: true
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Reviewer Availability and Expertise</h2>
     <p style="line-height: 1.6; margin-bottom: 1.5rem;">Thank you for considering me as a peer reviewer. I am particularly keen to contribute to society journals and welcome opportunities to review manuscripts within my areas of expertise. These include:</p>
     <ul class="expertise-list">
-        <li><strong>Population and Comparative Genomics:</strong>  Analysis of genetic variation within and between populations, including studies of selection and demographic history.</li>
+        <li><strong>Population and Comparative Genomics:</strong> Analysis of genetic variation within and between populations, including studies of selection and demographic history.</li>
         <li><strong>Phylogenetics and Phylogenomics:</strong>  Inferring evolutionary relationships using both targeted gene regions and genome-scale data.</li>
         <li><strong>Evolutionary Adaptation:</strong> Investigating the genetic basis of adaptation, with a focus on organisms inhabiting extreme environments such as high-altitude and cave ecosystems.</li>
          <li><strong>Molecular Methods:</strong> Application of techniques such as target enrichment sequencing for evolutionary studies.</li>
@@ -121,31 +151,31 @@ author_profile: true
         <ul class="journal-list">
             <li class="journal-item">
                 <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a>
-                <span class="journal-count">3 reviews</span>
+                <span class="journal-count">3</span>
             </li>
             <li class="journal-item">
                 <a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a>
-                <span class="journal-count">2 reviews</span>
+                <span class="journal-count">2</span>
             </li>
             <li class="journal-item">
                 <a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a>
-                <span class="journal-count">1 review</span>
+                <span class="journal-count">1</span>
             </li>
             <li class="journal-item">
                 <a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a>
-                <span class="journal-count">2 reviews</span>
+                <span class="journal-count">2</span>
             </li>
             <li class="journal-item">
                 <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a>
-                <span class="journal-count">2 reviews</span>
+                <span class="journal-count">2</span>
             </li>  
             <li class="journal-item">
                 <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a>
-                <span class="journal-count">1 review</span>
+                <span class="journal-count">1</span>
             </li>
             <li class="journal-item">
                 <a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a>
-                <span class="journal-count">3 reviews</span>
+                <span class="journal-count">3</span>
             </li>   
         </ul>  
 </div>
