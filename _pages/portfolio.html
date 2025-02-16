@@ -102,7 +102,7 @@ author_profile: true
 <div class="section-card">
 <h1 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem;">Media Appearances</h1>
 
-<p>My research has been featured in prominent media outlets worldwide. Explore selected coverage below, including in-depth interviews and research highlights. 
+<p>My research has been featured in prominent media outlets. Explore selected coverage below, including interviews and research highlights. 
 <span class="language-key">
     <span>🇬🇧 English</span>
     <span>🇪🇸 Spanish</span>
@@ -112,7 +112,7 @@ author_profile: true
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
     <button class="filter-button" data-filter="interview">Interviews</button>
-    <button class="filter-button" data-filter="feature">Research Features</button>
+    <button class="filter-button" data-filter="feature">Highlights</button>
 </div>
 
 <div class="media-grid">
@@ -130,7 +130,7 @@ author_profile: true
         <div class="media-meta">
             <span class="media-type">
                 {% if post.category == 'Interview' %}🎤 Interview
-                {% else %}📰 Research Feature{% endif %}
+                {% else %}📰 Highlight{% endif %}
             </span>
             <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
         </div>
