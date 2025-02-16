@@ -40,71 +40,83 @@ author_profile: true
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-/* Expertise List Improvements */
+/* Expertise List - Icon Approach */
 .expertise-list {
     margin: 1.5rem 0;
-    line-height: 1.6;
-    padding-left: 1.5rem; /* Increased indentation */
+    padding-left: 0;
+    display: grid;
+    gap: 1.2rem;
 }
 
-.expertise-list li {
-    margin-bottom: 1.2rem;
-    position: relative;
-    padding-left: 1rem;
+.expertise-item {
+    display: grid;
+    grid-template-columns: 32px 1fr;
+    align-items: start;
+    gap: 1rem;
+    padding: 0.8rem;
+    background: #f8faff;
+    border-radius: 8px;
 }
 
-.expertise-list li::before {
-    content: "•";
-    color: #5474B8; /* Match accent color */
-    font-weight: bold;
-    display: inline-block;
-    width: 1em;
-    margin-left: -1em;
+.expertise-icon {
+    width: 32px;
+    height: 32px;
+    background: #5474B8;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.2em;
 }
 
-/* Journal List Improvements */
+/* Journal List - Creative Layout */
 .journal-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem 1rem; /* Reduced vertical gap */
-    margin: 1.2rem 0;
+    gap: 0.75rem;
+    margin: 1.5rem 0;
     padding: 0;
-    list-style: none;
 }
 
 .journal-item {
+    display: inline-flex;
+    align-items: center;
+    background: #f8f9fa;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    transition: transform 0.2s ease;
+    border: 1px solid #e0e0e0;
+}
+
+.journal-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+.journal-item a {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     gap: 0.5rem;
-    padding: 0.3rem 0;
+    text-decoration: none;
+    color: #5474B8;
 }
 
 .journal-count {
-    color: #666; /* Muted color */
-    font-size: 0.9em;
-    position: relative;
-    padding-left: 0.5rem;
-}
-
-.journal-count::before {
-    content: "(";
-    color: #999;
-    padding-right: 0.2rem;
-}
-
-.journal-count::after {
-    content: ")";
-    color: #999;
-    padding-left: 0.2rem;
-}
-
-/* Optional: Add subtle hover effect for links */
-.journal-item a {
-    transition: color 0.2s ease;
-}
-
-.journal-item a:hover {
+    background: #e0e7ff;
     color: #405d9c;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    margin-left: 0.75rem;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+/* Small icon styling */
+.journal-icon {
+    width: 18px;
+    height: 18px;
+    opacity: 0.8;
 }  
 </style>
 
@@ -142,39 +154,86 @@ author_profile: true
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Reviewer Availability and Expertise</h2>
     <p style="line-height: 1.6; margin-bottom: 1.5rem;">Thank you for considering me as a peer reviewer. I am particularly keen to contribute to society journals and welcome opportunities to review manuscripts within my areas of expertise. These include:</p>
     <ul class="expertise-list">
-        <li><strong>Population and Comparative Genomics:</strong> Analysis of genetic variation within and between populations, including studies of selection and demographic history.</li>
-        <li><strong>Phylogenetics and Phylogenomics:</strong>  Inferring evolutionary relationships using both targeted gene regions and genome-scale data.</li>
-        <li><strong>Evolutionary Adaptation:</strong> Investigating the genetic basis of adaptation, with a focus on organisms inhabiting extreme environments such as high-altitude and cave ecosystems.</li>
-         <li><strong>Molecular Methods:</strong> Application of techniques such as target enrichment sequencing for evolutionary studies.</li>
+        <li class="expertise-item">
+            <div class="expertise-icon">🧬</div>
+            <div><strong>Population and Comparative Genomics:</strong> Analysis of genetic variation within and between populations, including studies of selection and demographic history.</div>
+        </li>
+        <li class="expertise-item">
+            <div class="expertise-icon">🌿</div>
+            <div><strong>Phylogenetics and Phylogenomics:</strong>  Inferring evolutionary relationships using both targeted gene regions and genome-scale data.</div>
+        </li>
+        <li class="expertise-item">
+            <div class="expertise-icon">🦋</div>
+            <div><strong>Evolutionary Adaptation:</strong> Investigating the genetic basis of adaptation, with a focus on organisms inhabiting extreme environments such as high-altitude and cave ecosystems.</div>
+        </li>
+        <li class="expertise-item">
+            <div class="expertise-icon">🦋</div>
+            <div><strong>Molecular Methods:</strong> Application of techniques such as target enrichment sequencing for evolutionary studies.</div>
+         </li>        
     </ul>
     <p style="margin: 1.5rem 0 1rem; font-weight: 500;">I have previously reviewed manuscripts for:</p>
         <ul class="journal-list">
             <li class="journal-item">
-                <a href="https://bmcgenomics.biomedcentral.com" target="_blank">BMC Genomics</a>
+                <a href="https://bmcgenomics.biomedcentral.com" target="_blank">
+                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
+                    </svg>
+                    BMC Genomics
+                </a>
                 <span class="journal-count">3</span>
             </li>
             <li class="journal-item">
-                <a href="https://www.springer.com/journal/10592" target="_blank">Conservation Genetics</a>
+                <a href="https://www.springer.com/journal/10592" target="_blank">
+                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
+                    </svg>
+                    Conservation Genetics
+                </a>
                 <span class="journal-count">2</span>
             </li>
             <li class="journal-item">
-                <a href="https://academic.oup.com/g3journal" target="_blank">G3: Genes,Genomes,Genetics</a>
+                <a href="https://academic.oup.com/g3journal" target="_blank">
+                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
+                    </svg>
+                    G3: Genes,Genomes,Genetics
+                </a>
                 <span class="journal-count">1</span>
             </li>
             <li class="journal-item">
-                <a href="https://academic.oup.com/gbe" target="_blank">Genome Biology and Evolution</a>
+                <a href="https://academic.oup.com/gbe" target="_blank">
+                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
+                    </svg>
+                    Genome Biology and Evolution
+                </a>
                 <span class="journal-count">2</span>
-            </li>
+            </li>                        
             <li class="journal-item">
-                <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a>
+                <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">
+                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
+                    </svg>
+                    Molecular Ecology
+                </a>
                 <span class="journal-count">2</span>
             </li>  
             <li class="journal-item">
-                <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">Molecular Ecology Resources</a>
+                <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">
+                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
+                    </svg>
+                    Molecular Ecology Resources
+                </a>
                 <span class="journal-count">1</span>
-            </li>
+            </li>  
             <li class="journal-item">
-                <a href="https://journals.plos.org/plosone/" target="_blank">PLOS ONE</a>
+                <a href="https://journals.plos.org/plosone/" target="_blank">
+                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
+                    </svg>
+                    PLOS ONE
+                </a>
                 <span class="journal-count">3</span>
             </li>   
         </ul>  
