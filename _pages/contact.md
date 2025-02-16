@@ -167,7 +167,7 @@ author_profile: true
             <div><strong>Evolutionary Adaptation:</strong> Investigating the genetic basis of adaptation, with a focus on organisms inhabiting extreme environments such as high-altitude and cave ecosystems.</div>
         </li>
         <li class="expertise-item">
-            <div class="expertise-icon">🦋</div>
+            <div class="expertise-icon">🧪</div>
             <div><strong>Molecular Methods:</strong> Application of techniques such as target enrichment sequencing for evolutionary studies.</div>
          </li>        
     </ul>
@@ -175,63 +175,43 @@ author_profile: true
         <ul class="journal-list">
             <li class="journal-item">
                 <a href="https://bmcgenomics.biomedcentral.com" target="_blank">
-                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
-                    </svg>
                     BMC Genomics
                 </a>
                 <span class="journal-count">3</span>
             </li>
             <li class="journal-item">
                 <a href="https://www.springer.com/journal/10592" target="_blank">
-                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
-                    </svg>
                     Conservation Genetics
                 </a>
                 <span class="journal-count">2</span>
             </li>
             <li class="journal-item">
                 <a href="https://academic.oup.com/g3journal" target="_blank">
-                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
-                    </svg>
                     G3: Genes,Genomes,Genetics
                 </a>
                 <span class="journal-count">1</span>
             </li>
             <li class="journal-item">
                 <a href="https://academic.oup.com/gbe" target="_blank">
-                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
-                    </svg>
                     Genome Biology and Evolution
                 </a>
                 <span class="journal-count">2</span>
             </li>                        
             <li class="journal-item">
                 <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">
-                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
-                    </svg>
                     Molecular Ecology
                 </a>
                 <span class="journal-count">2</span>
             </li>  
             <li class="journal-item">
                 <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">
-                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
-                    </svg>
+
                     Molecular Ecology Resources
                 </a>
                 <span class="journal-count">1</span>
             </li>  
             <li class="journal-item">
                 <a href="https://journals.plos.org/plosone/" target="_blank">
-                    <svg class="journal-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M3 5v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2zm12 4h-2V7h2v2zm-4 0H9V7h2v2z"/>
-                    </svg>
                     PLOS ONE
                 </a>
                 <span class="journal-count">3</span>
