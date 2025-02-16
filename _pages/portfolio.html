@@ -76,6 +76,27 @@ author_profile: true
     background: #5474B8;
     color: white;
 }
+
+/* Add to existing media styles */
+.media-image {
+    height: 180px;
+    border-radius: 8px;
+    object-fit: cover;
+    margin: 1rem 0;
+    width: 100%;
+    transition: transform 0.3s ease;
+}
+
+.media-image:hover {
+    transform: scale(1.02);
+}
+
+.media-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
 </style>
 
 <div class="section-card">
@@ -97,16 +118,23 @@ author_profile: true
 <div class="media-grid">
 {% for post in site.portfolio reversed %}
     <div class="media-card" data-type="{{ post.category | downcase }}">
+        <div class="media-header">
+            <h3 style="margin: 0;">{{ post.title }}</h3>
+            <span class="media-language">{{ post.language_flag }}</span>
+        </div>
+    
+        {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }} preview" class="media-image">
+        {% endif %}
+    
         <div class="media-meta">
             <span class="media-type">
                 {% if post.category == 'Interview' %}🎤 Interview
                 {% else %}📰 Research Feature{% endif %}
             </span>
-            <span class="media-language">{{ post.language_flag }}</span>
+            <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
         </div>
-        <h3 style="margin: 0;">{{ post.title }}</h3>
-        <div class="media-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</div>
-        <div class="media-date">{{ post.date | date: "%B %Y" }}</div>
+    <div class="media-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</div>
     </div>
 {% endfor %}
 </div>
