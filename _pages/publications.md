@@ -172,7 +172,7 @@ author_profile: true
                     
                     <div class="altmetric-container">
                         <div class="altmetric-embed" 
-                             data-doi="{{ post.doi }}"
+                             data-doi="{{ post.doi }}">
                     </div>
                 </div>
             </div>
