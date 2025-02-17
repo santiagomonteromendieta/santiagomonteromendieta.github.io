@@ -132,26 +132,20 @@ author_profile: true
 
 <div class="media-grid">
 {% for post in site.portfolio reversed %}
-    <div class="media-card" data-type="{{ post.category | downcase }}">
+    <a href="{{ post.url }}" class="media-card" data-type="{{ post.category | downcase }}">
         <div class="media-header">
             <h3 style="margin: 0;">
-                <a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
-                    {{ post.title }}
-                 </a>
+                {{ post.title }}
             </h3>
         </div>
 
-        {% comment %} Make image clickable too {% endcomment %}
-        {% comment %} Extract first image from excerpt {% endcomment %}
         {% assign first_image = post.excerpt | split: '<img' | last %}
         {% if first_image %}
             {% assign image_src = first_image | split: "src='" | last | split: "'" | first %}
             {% if image_src == "" %}
                 {% assign image_src = first_image | split: 'src="' | last | split: '"' | first %}
             {% endif %}
-            <a href="{{ post.url }}">
-                <img src="{{ image_src }}" class="media-image" alt="Article preview">
-            </a>
+            <img src="{{ image_src }}" class="media-image" alt="Article preview">    
         {% endif %}
     
         <div class="media-meta">
@@ -162,9 +156,8 @@ author_profile: true
             <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
         </div>
         
-        {% comment %} Display excerpt without image {% endcomment %}
         <div class="media-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</div>
-    </div>
+    </a>
 {% endfor %}
 </div>
 </div>
