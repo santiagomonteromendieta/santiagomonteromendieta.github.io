@@ -146,6 +146,9 @@ author_profile: true
         {% assign first_image = post.excerpt | split: '<img' | last %}
         {% if first_image %}
             {% assign image_src = first_image | split: "src='" | last | split: "'" | first %}
+            {% if image_src == "" %}
+                {% assign image_src = first_image | split: 'src="' | last | split: '"' | first %}
+            {% endif %}
             <a href="{{ post.url }}">
                 <img src="{{ image_src }}" class="media-image" alt="Article preview">
             </a>
