@@ -91,13 +91,7 @@ author_profile: true
     display: flex;
     align-items: center;
     gap: 1rem;
-    margin-top: 1rem;
-}
-
-.action-badge {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+    margin-top: 0.5rem;
 }
 
 .pdf-button {
@@ -128,16 +122,19 @@ author_profile: true
 .altmetric-badge {
     background: #f0f4ff;
     border-radius: 16px;
-    padding: 0.25rem 0.75rem;
-    display: flex;
+    padding: 0.3rem 0.8rem;
+    display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
-    font-size: 0.9em;
-    color: #405d9c;
+    transition: background 0.2s ease;
 }
 
 .altmetric-badge:hover {
     background: #e0e7ff;
+}
+
+.altmetric-embed {
+    transform: scale(0.8);
+    margin: -4px;
 }
 
 /* Mobile Optimization */
@@ -168,7 +165,7 @@ author_profile: true
                 <img src="{{ post.image }}" class="publication-image" alt="Graphical abstract">
             </a>
 
-            <!-- Right Column: Title & Authors -->
+            <!-- Right Column: Title & Authors + Actions -->
             <div class="publication-info">
                 <h3 class="publication-title">
                     <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
@@ -176,24 +173,22 @@ author_profile: true
                 <div class="publication-authors">
                     {{ post.authors }}
                 </div>
-            </div>
-        </div>
-
-        <!-- Action Bar: PDF + Altmetric -->
-        <div class="publication-actions">
-            <div class="action-badge">
-                <a href="{{ post.url }}" class="pdf-button" target="_blank">
-                    <svg viewBox="0 0 24 24">
-                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/>
-                        <path d="M14 3v5h5m-5 7H9m2 4H9m4-8H9"/>
-                    </svg>
-                </a>
                 
-                <div class="altmetric-badge">
-                    <div class="altmetric-embed" 
-                         data-badge-type="donut" 
-                         data-doi="{{ post.doi }}"
-                         data-badge-popover="left"></div>
+                <!-- Action Bar -->
+                <div class="publication-actions">
+                    <a href="{{ post.url }}" class="pdf-button" target="_blank">
+                        <svg viewBox="0 0 24 24">
+                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/>
+                            <path d="M14 3v5h5m-5 7H9m2 4H9m4-8H9"/>
+                        </svg>
+                    </a>
+                    
+                    <div class="altmetric-badge">
+                        <div class="altmetric-embed" 
+                             data-badge-type="medium-donut"
+                             data-doi="{{ post.doi }}"
+                             data-badge-popover="left"></div>
+                    </div>
                 </div>
             </div>
         </div>
