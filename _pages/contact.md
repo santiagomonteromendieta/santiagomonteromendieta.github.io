@@ -54,7 +54,8 @@ author_profile: true
     gap: 1rem;
     padding: 0.8rem;
     background: white;
-    border-radius: 8px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 }
 
 .expertise-icon {
