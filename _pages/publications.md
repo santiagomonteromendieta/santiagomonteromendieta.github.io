@@ -8,7 +8,7 @@ author_profile: true
 <style>
 .publication-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: 1fr;  /* One column layout */
     gap: 2rem;
     margin-top: 2rem;
 }
@@ -30,8 +30,9 @@ author_profile: true
     height: 180px;
     border-radius: 8px;
     object-fit: cover;
-    margin: 1rem 0;
-    width: 100%;
+    margin-right: 1.5rem;  /* Add space on the right */
+    width: 30%;  /* Make the image smaller */
+    float: left;  /* Align to the left */
     transition: transform 0.3s ease;
 }
 
@@ -52,6 +53,19 @@ author_profile: true
     padding: 0.3rem 0.8rem;
     border-radius: 15px;
     font-size: 0.9em;
+    flex-grow: 1;  /* Allow the journal name to grow and take up available space */
+}
+
+.publication-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 0.5rem 0;
+}
+
+.publication-authors {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    color: #333;
 }
 
 .publication-excerpt {
@@ -99,34 +113,40 @@ author_profile: true
 <div class="publication-grid">
 {% for post in site.publications reversed %}
     <div class="publication-card">
-        {% if post.image %}
-        <a href="{{ post.url }}" target="_blank">
-            <img src="{{ post.image }}" class="publication-image" alt="Graphical abstract for {{ post.title }}">
-        </a>
-        {% endif %}
-
-        <div class="publication-meta">
-            <span class="publication-type">
-                {% if post.category == 'Journal Article' %}📄 Journal Article
-                {% elsif post.category == 'Dissertation' %}📚 Dissertation
-                {% else %}📖 Publication{% endif %}
-            </span>
-            <span class="publication-date">{{ post.date | date: "%B %Y" }}</span>
-        </div>
-
-        <h3 style="margin: 0;">
-            <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
-        </h3>
-
-        <div class="publication-excerpt">
-            {{ post.excerpt | strip_html | truncate: 140 }}
-        </div>
-
-        <div class="publication-actions">
+        <div style="display: flex; align-items: flex-start;">
+            {% if post.image %}
             <a href="{{ post.url }}" target="_blank">
-                <img src="/images/pdf_logo.png" alt="PDF" title="Download PDF">
+                <img src="{{ post.image }}" class="publication-image" alt="Graphical abstract for {{ post.title }}">
             </a>
-            <div class="altmetric-embed" data-link-target="_blank" data-badge-type="donut" data-doi="{{ post.doi }}"></div>
+            {% endif %}
+            
+            <div>
+                <div class="publication-meta">
+                    <span class="publication-type">
+                        {{ post.journal }}  <!-- Display the journal name here -->
+                    </span>
+                    <span class="publication-date">{{ post.date | date: "%B %Y" }}</span>
+                </div>
+
+                <h3 class="publication-title">
+                    <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+                </h3>
+
+                <div class="publication-authors">
+                    <strong>{{ post.authors }}</strong>  <!-- List of authors -->
+                </div>
+
+                <div class="publication-excerpt">
+                    {{ post.excerpt | strip_html | truncate: 140 }}
+                </div>
+
+                <div class="publication-actions">
+                    <a href="{{ post.url }}" target="_blank">
+                        <img src="/images/pdf_logo.png" alt="PDF" title="Download PDF">
+                    </a>
+                    <div class="altmetric-embed" data-link-target="_blank" data-badge-type="donut" data-doi="{{ post.doi }}"></div>
+                </div>
+            </div>
         </div>
 
         {% if post.data_access %}
