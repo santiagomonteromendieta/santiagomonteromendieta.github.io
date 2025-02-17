@@ -1,156 +1,106 @@
----
-layout: archive
-permalink: /publications/
-author_profile: true
----
-
-{% include base_path %}
-
 <style>
-.publication-grid {
-    display: grid;
-    grid-template-columns: 1fr;  /* One column layout */
-    gap: 2rem;
-    margin-top: 2rem;
+/* Improved PDF Button */
+.pdf-button {
+    background: #5474B8;
+    color: white !important;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none !important;
+    transition: background 0.2s ease;
 }
 
-.publication-card {
-    background: white;
-    border-radius: 10px;
-    padding: 1.5rem;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-    transition: transform 0.2s ease;
-    border-left: 4px solid #5474B8;
+.pdf-button svg {
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
 }
 
-.publication-card:hover {
-    transform: translateY(-5px);
+.pdf-button:hover {
+    background: #405d9c;
+}
+
+/* Enhanced Image Styling */
+.publication-image-container {
+    margin: 1rem 0;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 .publication-image {
-    background: e0e7ff;
-    height: 180px;
-    border-radius: 8px;
+    width: 100%;
+    height: 200px;
     object-fit: cover;
-    margin-right: 1.5rem;  /* Add space on the right */
-    width: 100%;  /* Make the image smaller */
-    float: left;  /* Align to the left */
     transition: transform 0.3s ease;
-    padding: 2px;  /* Add padding inside the border */
-    margin-bottom: 1rem;  /* Add some space below the image */
 }
 
-.publication-image:hover {
-    transform: scale(1.02);
-}
-
-.publication-meta {
+/* Improved Layout Structure */
+.publication-header {
     display: flex;
-    gap: 1rem;
-    align-items: center;
-    margin-bottom: 1rem;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1.5rem;
 }
 
-.publication-type {
-    background: #5474B8;
-    color: white;
-    padding: 0.3rem 0.8rem;
-    border-radius: 15px;
-    font-size: 0.9em;
+.publication-content {
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    gap: 2rem;
 }
 
-.publication-title {
-    font-size: 1rem;
-    font-weight: bold;
-    margin: 0.5rem 0;
-}
-
-.publication-authors {
-    font-size: 1rem;
-    margin: 0.5rem 0;
-    color: #333;
-}
-
-.publication-excerpt {
-    color: #666;
-    margin: 1rem 0;
-    line-height: 1.6;
-}
-
-.publication-date {
-    color: #888;
-    font-size: 0.9em;
-    margin-top: auto;
-}
-
-.publication-actions {
-    display: flex;
-    gap: 0.5rem;
+/* Altmetric Positioning */
+.altmetric-container {
     margin-top: 1rem;
-    flex-direction: column;  /* Stack buttons vertically */
-}
-
-.publication-actions img {
-    height: 24px;
-    opacity: 0.7;
-    transition: opacity 0.2s ease;
-}
-
-.publication-actions img:hover {
-    opacity: 1;
-}
-
-.data-access {
-    border-radius: 10px;
-    background: #f0f4ff;
-    padding: 1rem;
-    margin: 1rem 0;
-    font-size: 0.9em;
 }
 </style>
-
-<div class="section-card">
-<h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publications</h2>
-
-<p>Below is a curated list of my publications, each accompanied by a graphical abstract that visually summarizes the key findings. Click on the images or titles to access the full publications.</p>
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
     <div class="publication-card">
-        <div style="display: flex; align-items: flex-start;">
-            {% if post.image %}
-            <a href="{{ post.url }}" target="_blank">
-                <img src="{{ post.image }}" class="publication-image" alt="Graphical abstract for {{ post.title }}">
-            </a>
-            {% endif %}
-            
-            <div>
-                <div class="publication-meta">
-                    <span class="publication-type">
-                        {{ post.journal }}  <!-- Display the journal name here -->
-                    </span>
-                    <span class="publication-date">{{ post.date | date: "%B %Y" }}</span>
-                </div>
+        <!-- Header with Journal & Date -->
+        <div class="publication-header">
+            <span class="publication-journal">{{ post.journal }}</span>
+            <span class="publication-date">{{ post.date | date: "%B %Y" }}</span>
+        </div>
 
+        <div class="publication-content">
+            <!-- Left Column: Image & Altmetric -->
+            <div>
+                <div class="publication-image-container">
+                    <a href="{{ post.url }}" target="_blank">
+                        <img src="{{ post.image }}" class="publication-image" alt="Graphical abstract">
+                    </a>
+                </div>
+                <div class="altmetric-container">
+                    <div class="altmetric-embed" data-doi="{{ post.doi }}"></div>
+                </div>
+            </div>
+
+            <!-- Right Column: Content -->
+            <div>
                 <h3 class="publication-title">
                     <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
                 </h3>
 
                 <div class="publication-authors">
-                    <strong>{{ post.authors }}</strong>  <!-- List of authors -->
+                    {{ post.authors }}
                 </div>
 
                 <div class="publication-excerpt">
-                    {{ post.excerpt | strip_html | truncate: 140 }}
+                    {{ post.excerpt | strip_html }}
                 </div>
 
-                <!-- Action buttons under the image -->
-                <div class="publication-actions">
-                    <a href="{{ post.url }}" target="_blank">
-                        <img src="/images/pdf_logo.png" alt="PDF" title="Download PDF">
-                    </a>
-                    <div class="altmetric-embed" data-link-target="_blank" data-badge-type="donut" data-doi="{{ post.doi }}"></div>
-                </div>
+                <a href="{{ post.url }}" class="pdf-button" target="_blank">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/>
+                        <path d="M14 3v5h5m-5 7H9m2 4H9m4-8H9"/>
+                    </svg>
+                    Download PDF
+                </a>
             </div>
         </div>
 
@@ -161,20 +111,4 @@ author_profile: true
         {% endif %}
     </div>
 {% endfor %}
-</div>
-</div>
-
-<div class="section-card">
-<h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Doctoral Dissertation</h2>
-
-<div style="display: flex; gap: 2rem; align-items: flex-start;">
-    <img src="/images/phdthesis_coverpage.png" alt="PhD Thesis Cover" style="width: 150px; border-radius: 8px; border: 1px solid #ddd;">
-    <div>
-        <p>In my doctoral dissertation, I researched into evolutionary genetics using state-of-the-art genomic tools. My focus extended beyond traditional model organisms to explore how species adapted to diverse altitudinal environments and the genetic underpinnings of adaptive traits in high-altitude habitats.</p>
-        <p><strong>Montero-Mendieta, S.</strong> (2019). <a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank">A genomic view on the adaptation and diversification of natural populations</a>. (Tesis Doctoral Inédita). Universidad de Sevilla, Sevilla.</p>
-        <a href="https://santiagomonteromendieta.github.io/files/phdthesis.pdf" target="_blank">
-            <img src="/images/pdf_logo.png" alt="PDF" title="Download PDF" style="height: 24px;">
-        </a>
-    </div>
-</div>
 </div>
