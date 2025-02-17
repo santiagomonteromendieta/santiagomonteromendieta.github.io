@@ -54,7 +54,6 @@ author_profile: true
     padding: 0.3rem 0.8rem;
     border-radius: 15px;
     font-size: 0.9em;
-    flex-grow: 1;  /* Allow the journal name to grow and take up available space */
 }
 
 .publication-title {
