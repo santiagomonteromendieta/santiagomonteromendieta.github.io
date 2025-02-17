@@ -83,10 +83,6 @@ author_profile: true
     transition: transform 0.3s ease;
 }
 
-.media-image:hover {
-    transform: scale(1.02);
-}
-
 .media-header {
     display: flex;
     justify-content: space-between;
@@ -113,6 +109,20 @@ author_profile: true
 
 .media-image {
     cursor: pointer;
+}
+
+.media-card a {
+    text-decoration: none; /* Remove underline from all links inside media-card */
+    color: inherit; /* Ensure the link text color is inherited from the parent */
+}
+
+.media-card a:hover {
+    text-decoration: none; /* Remove underline when hovering */
+}
+
+.media-card .media-meta .media-type,
+.media-card .media-date {
+    text-decoration: none; /* Remove underline from label and date */
 }
     
 </style>
