@@ -7,6 +7,7 @@ author_profile: true
 <style>
 /* Publication Card */
 .publication-card {
+    background: #f9f9f9;
     border-radius: 12px;
     padding: 1.5rem;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
