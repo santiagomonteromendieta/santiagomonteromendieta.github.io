@@ -35,7 +35,7 @@ author_profile: true
     width: 100%;  /* Make the image smaller */
     float: left;  /* Align to the left */
     transition: transform 0.3s ease;
-    border: 2px solid #5474B8;  /* Border around the image */
+    border-right: 4px solid #5474B8;  /* Border on the right of the image */
     padding: 2px;  /* Add padding inside the border */
     margin-bottom: 1rem;  /* Add some space below the image */
 }
