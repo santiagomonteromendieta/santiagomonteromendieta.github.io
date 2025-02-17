@@ -5,14 +5,6 @@ author_profile: true
 ---
 
 <style>
-/* Publications Grid */
-.publication-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
-    margin-top: 2rem;
-}
-
 /* Publication Card */
 .publication-card {
     background: white;
@@ -20,9 +12,7 @@ author_profile: true
     padding: 1.5rem;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
     transition: transform 0.2s ease;
-    border-left: 4px solid #5474B8;
-    display: flex;
-    flex-direction: column;
+    margin-bottom: 2rem;
 }
 
 .publication-card:hover {
@@ -32,28 +22,51 @@ author_profile: true
 /* Header Section */
 .publication-header {
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
+    gap: 1rem;
     margin-bottom: 1rem;
 }
 
 .publication-journal {
+    background: #5474B8;
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 15px;
     font-size: 0.9em;
-    color: #405d9c;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .publication-date {
-    font-size: 0.85em;
+    font-size: 0.9em;
     color: #666;
+}
+
+/* Title & Authors */
+.publication-title {
+    font-size: 1.1rem;
+    margin: 0.5rem 0;
+}
+
+.publication-title a {
+    color: #222;
+    text-decoration: none;
+}
+
+.publication-title a:hover {
+    color: #405d9c;
+}
+
+.publication-authors {
+    font-size: 0.9em;
+    color: #444;
+    margin-bottom: 1rem;
 }
 
 /* Graphical Abstract */
 .publication-image-container {
-    position: relative;
+    margin: 1rem 0;
     border-radius: 8px;
     overflow: hidden;
-    margin: 0.5rem 0;
     background: #f8f9fa;
     border: 1px solid #eee;
 }
@@ -69,34 +82,12 @@ author_profile: true
     transform: scale(1.02);
 }
 
-/* Content Section */
-.publication-title {
-    font-size: 1.1rem;
-    margin: 0.75rem 0 0.5rem;
-}
-
-.publication-title a {
-    color: #222;
-    text-decoration: none;
-}
-
-.publication-title a:hover {
-    color: #405d9c;
-}
-
-.publication-authors {
-    font-size: 0.9em;
-    color: #444;
-    margin-bottom: 0.5rem;
-}
-
 /* Action Bar */
 .publication-actions {
-    margin-top: auto;
     display: flex;
     align-items: center;
     gap: 1rem;
-    padding-top: 1rem;
+    margin-top: 1rem;
 }
 
 .pdf-button {
@@ -131,17 +122,13 @@ author_profile: true
 
 /* Mobile Optimization */
 @media (max-width: 768px) {
-    .publication-grid {
-        grid-template-columns: 1fr;
+    .publication-header {
+        flex-wrap: wrap;
+        gap: 0.5rem;
     }
     
     .publication-image {
         height: 150px;
-    }
-    
-    .publication-header {
-        flex-direction: column;
-        gap: 0.5rem;
     }
 }
 </style>
@@ -149,25 +136,28 @@ author_profile: true
 <div class="publication-grid">
 {% for post in site.publications reversed %}
     <div class="publication-card">
+        <!-- Header with Journal & Date -->
         <div class="publication-header">
             <span class="publication-journal">{{ post.journal }}</span>
             <span class="publication-date">{{ post.date | date: "%B %Y" }}</span>
         </div>
 
+        <!-- Title & Authors -->
+        <h3 class="publication-title">
+            <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+        </h3>
+        <div class="publication-authors">
+            {{ post.authors }}
+        </div>
+
+        <!-- Graphical Abstract -->
         <div class="publication-image-container">
             <a href="{{ post.url }}" target="_blank">
                 <img src="{{ post.image }}" class="publication-image" alt="Graphical abstract">
             </a>
         </div>
 
-        <h3 class="publication-title">
-            <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
-        </h3>
-
-        <div class="publication-authors">
-            {{ post.authors }}
-        </div>
-
+        <!-- Action Bar -->
         <div class="publication-actions">
             <a href="{{ post.url }}" class="pdf-button" target="_blank">
                 <svg viewBox="0 0 24 24">
