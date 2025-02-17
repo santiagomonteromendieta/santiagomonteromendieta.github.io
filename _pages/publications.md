@@ -32,7 +32,7 @@ author_profile: true
     border-radius: 8px;
     object-fit: cover;
     margin-right: 1.5rem;  /* Add space on the right */
-    width: 30%;  /* Make the image smaller */
+    width: 100%;  /* Make the image smaller */
     float: left;  /* Align to the left */
     transition: transform 0.3s ease;
 }
