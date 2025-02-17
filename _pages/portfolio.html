@@ -145,7 +145,7 @@ author_profile: true
         {% comment %} Extract first image from excerpt {% endcomment %}
         {% assign first_image = post.excerpt | split: '<img' | last %}
         {% if first_image %}
-            {% assign image_src = first_image | split: 'src="' | last | split: '"' | first %}
+            {% assign image_src = first_image | split: "src='" | last | split: ""'" | first %}
             <a href="{{ post.url }}">
                 <img src="{{ image_src }}" class="media-image" alt="Article preview">
             </a>
