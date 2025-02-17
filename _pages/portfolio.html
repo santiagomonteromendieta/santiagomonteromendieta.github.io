@@ -112,17 +112,18 @@ author_profile: true
 }
 
 .media-card a {
-    text-decoration: none; /* Remove underline from all links inside media-card */
-    color: inherit; /* Ensure the link text color is inherited from the parent */
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Keep the color consistent */
 }
 
 .media-card a:hover {
-    text-decoration: none; /* Remove underline when hovering */
+    text-decoration: none; /* Ensure no underline on hover */
 }
 
-.media-card .media-meta .media-type,
-.media-card .media-date {
-    text-decoration: none; /* Remove underline from label and date */
+.media-card h3 a,
+.media-card .media-meta a,
+.media-card .media-type a {
+    text-decoration: none; /* Remove underline from the title link, meta, and labels */
 }
     
 </style>
