@@ -35,6 +35,9 @@ author_profile: true
     width: 100%;  /* Make the image smaller */
     float: left;  /* Align to the left */
     transition: transform 0.3s ease;
+    border: 3px solid #ddd;  /* Border around the image */
+    padding: 5px;  /* Add padding inside the border */
+    margin-bottom: 1rem;  /* Add some space below the image */
 }
 
 .publication-image:hover {
@@ -84,6 +87,7 @@ author_profile: true
     display: flex;
     gap: 0.5rem;
     margin-top: 1rem;
+    flex-direction: column;  /* Stack buttons vertically */
 }
 
 .publication-actions img {
@@ -140,6 +144,7 @@ author_profile: true
                     {{ post.excerpt | strip_html | truncate: 140 }}
                 </div>
 
+                <!-- Action buttons under the image -->
                 <div class="publication-actions">
                     <a href="{{ post.url }}" target="_blank">
                         <img src="/images/pdf_logo.png" alt="PDF" title="Download PDF">
