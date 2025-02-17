@@ -1,4 +1,7 @@
 ---
+image: /images/thumbs/8-Montero-Mendieta_et_al_2021.png
+category: Journal Article
+doi: 10.1016/j.ympev.2021.107167
 title: "Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients"
 collection: publications
 permalink: /publication/Montero-Mendieta_et_al_2021
