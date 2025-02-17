@@ -186,6 +186,7 @@ author_profile: true
                     <div class="altmetric-badge">
                         <div class="altmetric-embed" 
                              data-doi="{{ post.doi }}">
+                        </div>
                     </div>
                 </div>
             </div>
