@@ -100,6 +100,21 @@ author_profile: true
     border-radius: 8px;
     margin: 1rem 0;
 }
+
+.media-card a {
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s ease;
+}
+
+.media-card h3 a:hover {
+    color: #405d9c;
+    text-decoration: underline;
+}
+
+.media-image {
+    cursor: pointer;
+}
     
 </style>
 
@@ -119,14 +134,21 @@ author_profile: true
 {% for post in site.portfolio reversed %}
     <div class="media-card" data-type="{{ post.category | downcase }}">
         <div class="media-header">
-            <h3 style="margin: 0;">{{ post.title }}</h3>
+            <h3 style="margin: 0;">
+                <a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
+                    {{ post.title }}
+                 </a>
+            </h3>
         </div>
 
+        {% comment %} Make image clickable too {% endcomment %}
         {% comment %} Extract first image from excerpt {% endcomment %}
         {% assign first_image = post.excerpt | split: '<img' | last %}
         {% if first_image %}
             {% assign image_src = first_image | split: 'src="' | last | split: '"' | first %}
-            <img src="{{ image_src }}" class="media-image" alt="Article preview">
+            <a href="{{ post.url }}">
+                <img src="{{ image_src }}" class="media-image" alt="Article preview">
+            </a>
         {% endif %}
     
         <div class="media-meta">
