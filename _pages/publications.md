@@ -31,11 +31,11 @@ author_profile: true
     height: 180px;
     border-radius: 8px;
     object-fit: cover;
-    margin-right: 5rem;  /* Add space on the right */
+    margin-right: 1.5rem;  /* Add space on the right */
     width: 100%;  /* Make the image smaller */
     float: left;  /* Align to the left */
     transition: transform 0.3s ease;
-    border: 3px solid #ddd;  /* Border around the image */
+    border: 1px solid #ddd;  /* Border around the image */
     padding: 5px;  /* Add padding inside the border */
     margin-bottom: 1rem;  /* Add some space below the image */
 }
