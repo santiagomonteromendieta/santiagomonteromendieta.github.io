@@ -1,3 +1,9 @@
+---
+layout: archive
+permalink: /publications/
+author_profile: true
+---
+
 <style>
 /* Improved PDF Button */
 .pdf-button {
