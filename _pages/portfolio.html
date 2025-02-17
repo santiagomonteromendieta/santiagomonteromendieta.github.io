@@ -73,7 +73,6 @@ author_profile: true
     color: white;
 }
 
-/* Add to existing media styles */
 .media-image {
     height: 180px;
     border-radius: 8px;
@@ -97,42 +96,26 @@ author_profile: true
     margin: 1rem 0;
 }
 
-.media-card a {
-    text-decoration: none;
+.card-link {
+    text-decoration: none !important;
     color: inherit;
-    transition: all 0.2s ease;
+    display: block;
+    height: 100%;
 }
 
-.media-card h3 a:hover {
-    color: #405d9c;
+.card-link:hover {
+    text-decoration: none !important;
 }
 
 .media-image {
     cursor: pointer;
 }
-
-.media-card a {
-    text-decoration: none; /* Remove underline */
-    color: inherit; /* Keep the color consistent */
-}
-
-.media-card a:hover {
-    text-decoration: none; /* Ensure no underline on hover */
-}
-
-.media-card h3 a,
-.media-card .media-meta a,
-.media-card .media-type a {
-    text-decoration: none; /* Remove underline from the title link, meta, and labels */
-}
-    
 </style>
 
 <div class="section-card">
-<h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Media Appearances</h1>
+<h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Media Appearances</h2>
 
-<p>My research has been featured in prominent media outlets. Explore selected coverage below, including interviews and research spotlights. 
-</p>
+<p>My research has been featured in prominent media outlets. Explore selected coverage below, including interviews and research spotlights.</p>
 
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
@@ -142,32 +125,32 @@ author_profile: true
 
 <div class="media-grid">
 {% for post in site.portfolio reversed %}
-    <a href="{{ post.url }}" class="media-card" data-type="{{ post.category | downcase }}">
-        <div class="media-header">
-            <h3 style="margin: 0;">
-                {{ post.title }}
-            </h3>
-        </div>
+    <div class="media-card" data-type="{{ post.category | downcase }}">
+        <a href="{{ post.url }}" class="card-link">
+            <div class="media-header">
+                <h3 style="margin: 0;">{{ post.title }}</h3>
+            </div>
 
-        {% assign first_image = post.excerpt | split: '<img' | last %}
-        {% if first_image %}
-            {% assign image_src = first_image | split: "src='" | last | split: "'" | first %}
-            {% if image_src == "" %}
-                {% assign image_src = first_image | split: 'src="' | last | split: '"' | first %}
+            {% assign first_image = post.excerpt | split: '<img' | last %}
+            {% if first_image %}
+                {% assign image_src = first_image | split: "src='" | last | split: "'" | first %}
+                {% if image_src == "" %}
+                    {% assign image_src = first_image | split: 'src="' | last | split: '"' | first %}
+                {% endif %}
+                <img src="{{ image_src }}" class="media-image" alt="Article preview">
             {% endif %}
-            <img src="{{ image_src }}" class="media-image" alt="Article preview">    
-        {% endif %}
-    
-        <div class="media-meta">
-            <span class="media-type">
-                {% if post.category == 'Interview' %}🎤 Interview
-                {% else %}💡 Spotlight{% endif %}
-            </span>
-            <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
-        </div>
         
-        <div class="media-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</div>
-    </a>
+            <div class="media-meta">
+                <span class="media-type">
+                    {% if post.category == 'Interview' %}🎤 Interview
+                    {% else %}💡 Spotlight{% endif %}
+                </span>
+                <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
+            </div>
+            
+            <div class="media-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</div>
+        </a>
+    </div>
 {% endfor %}
 </div>
 
