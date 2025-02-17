@@ -28,6 +28,7 @@ author_profile: true
 }
 
 .publication-image {
+    background: e0e7ff;
     height: 180px;
     border-radius: 8px;
     object-fit: cover;
@@ -35,7 +36,6 @@ author_profile: true
     width: 100%;  /* Make the image smaller */
     float: left;  /* Align to the left */
     transition: transform 0.3s ease;
-    border-right: 4px solid #5474B8;  /* Border on the right of the image */
     padding: 2px;  /* Add padding inside the border */
     margin-bottom: 1rem;  /* Add some space below the image */
 }
@@ -60,7 +60,7 @@ author_profile: true
 }
 
 .publication-title {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: bold;
     margin: 0.5rem 0;
 }
