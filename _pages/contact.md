@@ -53,7 +53,7 @@ author_profile: true
     align-items: start;
     gap: 1rem;
     padding: 0.8rem;
-    background: #f8faff;
+    background: white;
     border-radius: 8px;
 }
 
@@ -81,7 +81,7 @@ author_profile: true
 .journal-item {
     display: inline-flex;
     align-items: center;
-    background: #f8f9fa;
+    background: white;
     border-radius: 6px;
     padding: 0.5rem 1rem;
     transition: transform 0.2s ease;
