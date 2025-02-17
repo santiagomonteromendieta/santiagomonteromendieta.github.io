@@ -40,11 +40,7 @@ author_profile: true
     border-radius: 15px;
     font-size: 0.9em;
 }
-
-.media-language {
-    font-size: 1.5em;
-}
-
+    
 .media-excerpt {
     color: #666;
     margin: 1rem 0;
@@ -103,16 +99,12 @@ author_profile: true
 <h1 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem;">Media Appearances</h1>
 
 <p>My research has been featured in prominent media outlets. Explore selected coverage below, including interviews and research highlights. 
-<span class="language-key">
-    <span>🇬🇧 English</span>
-    <span>🇪🇸 Spanish</span>
-</span>
 </p>
 
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
     <button class="filter-button" data-filter="interview">Interviews</button>
-    <button class="filter-button" data-filter="feature">Highlights</button>
+    <button class="filter-button" data-filter="feature">Research</button>
 </div>
 
 <div class="media-grid">
@@ -120,7 +112,6 @@ author_profile: true
     <div class="media-card" data-type="{{ post.category | downcase }}">
         <div class="media-header">
             <h3 style="margin: 0;">{{ post.title }}</h3>
-            <span class="media-language">{{ post.language_flag }}</span>
         </div>
     
         {% if post.image %}
