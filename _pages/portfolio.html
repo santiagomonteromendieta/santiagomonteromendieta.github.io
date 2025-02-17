@@ -113,9 +113,12 @@ author_profile: true
         <div class="media-header">
             <h3 style="margin: 0;">{{ post.title }}</h3>
         </div>
-    
-        {% if post.image %}
-        <img src="{{ post.image }}" alt="{{ post.title }} preview" class="media-image">
+
+        {% comment %} Extract first image from excerpt {% endcomment %}
+        {% assign first_image = post.excerpt | split: '<img' | last %}
+        {% if first_image %}
+            {% assign image_src = first_image | split: 'src="' | last | split: '"' | first %}
+            <img src="{{ image_src }}" class="media-image" alt="Article preview">
         {% endif %}
     
         <div class="media-meta">
@@ -125,7 +128,9 @@ author_profile: true
             </span>
             <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
         </div>
-    <div class="media-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</div>
+        
+        {% comment %} Display excerpt without image {% endcomment %}
+        <div class="media-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</div>
     </div>
 {% endfor %}
 </div>
