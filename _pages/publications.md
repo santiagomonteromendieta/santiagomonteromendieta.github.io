@@ -119,9 +119,22 @@ author_profile: true
     fill: white;
 }
 
-/* Altmetric Badge */
-.altmetric-container {
-    margin-top: 1rem;
+.altmetric-badge {
+    background: #f0f4ff;
+    border-radius: 16px;
+    padding: 0.3rem 0.8rem;
+    display: inline-flex;
+    align-items: center;
+    transition: background 0.2s ease;
+}
+
+.altmetric-badge:hover {
+    background: #e0e7ff;
+}
+
+.altmetric-embed {
+    transform: scale(0.8);
+    margin: -4px;
 }
 
 /* Mobile Optimization */
@@ -170,7 +183,7 @@ author_profile: true
                         </svg>
                     </a>
                     
-                    <div class="altmetric-container">
+                    <div class="altmetric-badge">
                         <div class="altmetric-embed" 
                              data-doi="{{ post.doi }}">
                     </div>
