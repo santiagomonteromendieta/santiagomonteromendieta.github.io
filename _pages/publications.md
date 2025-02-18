@@ -136,8 +136,6 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publications</h2>
 
-<p>+Equal contribution.</p>
-
 <div class="publication-grid">
 {% for post in site.publications reversed %}
     <div class="publication-card">
@@ -198,4 +196,5 @@ author_profile: true
     </div>
 {% endfor %}
 </div>
+<p>(+)These authors have made contributions that are regarded as equally significant, although the extent of equality may be subject to varying interpretations in some of the papers.</p>
 </div>
