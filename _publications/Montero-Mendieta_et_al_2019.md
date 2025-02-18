@@ -3,7 +3,7 @@ title: "The genomic basis of adaptation to high-altitude habitats in the eastern
 authors: Santiago Montero-Mendieta+, Ken Tan+, Matthew J. Christmas, Anna Olsson, Carles Vilà, Andreas Wallberg, Matthew T. Webster
 journal: 'Molecular Ecology'
 date: 2018-12-21
-category: International Journal
+category: international
 collection: publications
 doi: 10.1111/mec.14986
 permalink: /publication/Montero-Mendieta_et_al_2019
