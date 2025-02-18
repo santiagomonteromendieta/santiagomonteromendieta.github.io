@@ -3,7 +3,7 @@ title: "Phylogenomics and evolutionary history of Oreobates (Anura: Craugastorid
 authors: Santiago Montero-Mendieta, Ignacio De la Riva, Iker Irisarri, Jennifer A. Leonard, Matthew T. Webster, Carles Vilà
 journal: 'Molecular Phylogenetics and Evolution'
 date: 2021-03-30
-category: Journal Article
+category: International Journal
 collection: publications
 doi: 10.1016/j.ympev.2021.107167
 permalink: /publication/Montero-Mendieta_et_al_2021
