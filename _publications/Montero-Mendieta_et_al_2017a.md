@@ -3,7 +3,7 @@ title: "Another record or a new taxon? A candidate species of Chalcides Laurenti
 authors: Santiago Montero-Mendieta, Joan Ferrer, Mohammed A. Hammout, Walid Dahmani, Delfi Sanuy, Sebastià Camarasa
 journal: 'Herpetozoa'
 date: 2017-01-30
-category: International Journal
+category: international
 collection: publications
 permalink: /publication/Montero-Mendieta_et_al_2017a
 image: /images/thumbs/4-Montero-Mendieta_et_al_2017a.png
