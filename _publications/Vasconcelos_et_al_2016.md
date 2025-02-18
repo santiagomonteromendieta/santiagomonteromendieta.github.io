@@ -1,9 +1,16 @@
 ---
 title: "Unexpectedly High Levels of Cryptic Diversity Uncovered by a Complete DNA Barcoding of Reptiles of the Socotra Archipelago"
-collection: publications
-permalink: /publication/Vasconcelos_et_al_2016
+authors: Raquel Vasconcelos+, Santiago Montero-Mendieta+, Marc Simó-Riudalbas, Roberto Sindaco, Xavier Santos, Mauro Fasola, Gustavo A. Llorente, Edoardo Razzetti, Salvador Carranza 
+journal: 'PLOS One'
 date: 2016-03-01
-venue: 'PLOS ONE'
+category: Journal Article
+collection: publications
+doi: 10.1371/journal.pone.0149985
+permalink: /publication/Vasconcelos_et_al_2016
+image: /images/thumbs/2-Vasconcelos_et_al_2016.png
+pdf_url: /files/articles/2-Vasconcelos_et_al_2016.pdf
+article_url: "https://doi.org/10.1371/journal.pone.0149985" 
+scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kecK5aoAAAAJ&citation_for_view=kecK5aoAAAAJ:u-x6o8ySG0sC"
 excerpt: Few DNA barcoding studies of squamate reptiles have been conducted. Due to the significance of the Socotra Archipelago (a UNESCO Natural World Heritage site and a biodiversity hotspot) and the conservation interest of its reptile fauna (94% endemics), we performed the most comprehensive DNA barcoding study ...
 paperurl: 'https://doi.org/10.1371/journal.pone.0149985'
 citation: 'Vasconcelos, R., <b><u>Montero-Mendieta, S.</u></b>, Simó-Riudalbas, M., Sindaco, R., Santos, X., Fasola, M., Llorente, G.A., Razzetti, E., Carranza, S. (2016). Unexpectedly high levels of cryptic diversity uncovered by a complete DNA barcoding of reptiles of the Socotra Archipelago. <i>PLOS ONE</i>, 11(3): e0149985'
