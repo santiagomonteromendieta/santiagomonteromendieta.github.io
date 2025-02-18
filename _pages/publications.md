@@ -137,7 +137,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publications</h2>
 
-<p>Below are all my publications, including those published in international (indexed) journals, local (non-indexed) journals, and my doctoral thesis.</p>
+<p>Below are all my publications and my doctoral thesis.</p>
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
