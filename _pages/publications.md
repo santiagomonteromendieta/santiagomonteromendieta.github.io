@@ -54,7 +54,7 @@ author_profile: true
 }
 
 .publication-info {
-    padding: 0.5rem 0;
+    padding: 0 0;
 }
 
 .publication-title {
