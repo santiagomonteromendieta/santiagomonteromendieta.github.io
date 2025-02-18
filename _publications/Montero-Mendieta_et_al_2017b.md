@@ -9,7 +9,8 @@ doi: 10.7717/peerj.3702
 permalink: /publication/Montero-Mendieta_et_al_2017b
 image: /images/thumbs/5-Montero-Mendieta_et_al_2017b.png
 pdf_url: /files/articles/5-Montero-Mendieta_et_al_2017b.pdf
-article_url: "https://doi.org/10.7717/peerj.3702" 
+article_url: "https://doi.org/10.7717/peerj.3702"
+ncbi_url: "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA384528"
 scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kecK5aoAAAAJ&citation_for_view=kecK5aoAAAAJ:UeHWp8X0CEIC"
 github_url: "https://github.com/biomendi/TRANSCRIPTOME-ASSEMBLY-PIPELINE"
 excerpt: Whole genome sequencing (WGS) is a very valuable resource to understand the evo- lutionary history of poorly known species. However, in organisms with large genomes, as most amphibians, WGS is still excessively challenging and transcriptome sequencing (RNA-seq) represents a cost-effective tool to explore genome-wide variability. Non- model organisms do not usually have a reference genome and the transcriptome must be assembled de-novo. We used RNA-seq to obtain the transcriptomic profile for Oreobates cruralis, a poorly known South American direct-developing frog ...
