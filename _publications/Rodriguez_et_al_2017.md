@@ -3,7 +3,7 @@ title: "Cryptic within cryptic: genetics, morphometrics, and bioacoustics delimi
 authors: Ariel Rodriguez, Alvaro Dugo-Cota, Santiago Montero-Mendieta, Alejandro Gonzalez-Voyer, Roberto Alonso Bosch, Miguel Vences, Carles Vila
 journal: 'Zootaxa'
 date: 2017-01-20
-category: Journal Article
+category: International Journal
 collection: publications
 doi: 10.11646/zootaxa.4221.5.1
 permalink: /publication/Rodriguez_et_al_2017
