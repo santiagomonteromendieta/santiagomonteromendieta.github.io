@@ -176,7 +176,7 @@ author_profile: true
                     </a>
                     <a href="{{ post.pdf_url }}" class="download-button" target="_blank">
                         <svg viewBox="0 0 24 24">
-                            <path d="M5 20h14v-2H5v2zm7-18L5.33 8.67 6.67 10 11 5.83V16h2V5.83l4.33 4.17 1.34-1.33L12 2z"/>
+                            <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
                         </svg>
                     </a>
                 </div>
