@@ -8,10 +8,10 @@ author_profile: true
 /* Publication Card */
 .publication-card {
     background: white;
-    border-radius: 12px;
+    border-radius: 10px;
     padding: 1.5rem;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-    margin-bottom: 2rem;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    border-left: 4px solid #5474B8;
     transition: transform 0.2s ease;
 }
 
@@ -149,49 +149,53 @@ author_profile: true
 }
 </style>
 
-<div class="publication-grid">
-{% for post in site.publications reversed %}
-    <div class="publication-card">
-        <!-- Header with Journal & Date -->
-        <div class="publication-header">
-            <span class="publication-journal">{{ post.journal }}</span>
-            <span class="publication-date">{{ post.date | date: "%B %Y" }}</span>
-        </div>
+<div class="section-card">
+<h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publications</h2>
 
-        <!-- Content: Image + Info -->
-        <div class="publication-content">
-            <!-- Left Column: Graphical Abstract -->
-            <a href="{{ post.url }}" class="publication-image-container">
-                <img src="{{ post.image }}" class="publication-image" alt="Graphical abstract">
-            </a>
-
-            <!-- Right Column: Title & Authors + Actions -->
-            <div class="publication-info">
-                <h3 class="publication-title">
-                    <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
-                </h3>
-                <div class="publication-authors">
-                    {{ post.authors }}
-                </div>
-                
-                <!-- Action Bar -->
-                <div class="publication-actions">
-                    <a href="{{ post.url }}" class="pdf-button" target="_blank">
-                        <svg viewBox="0 0 24 24">
-                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/>
-                            <path d="M14 3v5h5m-5 7H9m2 4H9m4-8H9"/>
-                        </svg>
-                    </a>
+    <div class="publication-grid">
+    {% for post in site.publications reversed %}
+        <div class="publication-card">
+            <!-- Header with Journal & Date -->
+            <div class="publication-header">
+                <span class="publication-journal">{{ post.journal }}</span>
+                <span class="publication-date">{{ post.date | date: "%B %Y" }}</span>
+            </div>
+    
+            <!-- Content: Image + Info -->
+            <div class="publication-content">
+                <!-- Left Column: Graphical Abstract -->
+                <a href="{{ post.url }}" class="publication-image-container">
+                    <img src="{{ post.image }}" class="publication-image" alt="Graphical abstract">
+                </a>
+    
+                <!-- Right Column: Title & Authors + Actions -->
+                <div class="publication-info">
+                    <h3 class="publication-title">
+                        <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+                    </h3>
+                    <div class="publication-authors">
+                        {{ post.authors }}
+                    </div>
                     
-                    <div class="altmetric-badge">
-                        <div class="altmetric-embed"
-                            data-badge-type="2"
-                            data-doi="{{ post.doi }}">
+                    <!-- Action Bar -->
+                    <div class="publication-actions">
+                        <a href="{{ post.url }}" class="pdf-button" target="_blank">
+                            <svg viewBox="0 0 24 24">
+                                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/>
+                                <path d="M14 3v5h5m-5 7H9m2 4H9m4-8H9"/>
+                            </svg>
+                        </a>
+                        
+                        <div class="altmetric-badge">
+                            <div class="altmetric-embed"
+                                data-badge-type="2"
+                                data-doi="{{ post.doi }}">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    {% endfor %}
     </div>
-{% endfor %}
 </div>
