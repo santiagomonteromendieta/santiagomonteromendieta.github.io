@@ -153,6 +153,8 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publications</h2>
 
+<p>Below is a curated list of my publications, each accompanied by a graphical abstract that visually summarizes the key findings.</p>
+
     <div class="publication-grid">
     {% for post in site.publications reversed %}
         <div class="publication-card">
