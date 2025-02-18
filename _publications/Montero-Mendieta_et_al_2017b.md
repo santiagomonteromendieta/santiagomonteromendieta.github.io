@@ -3,7 +3,7 @@ title: "A practical guide to build de-novo assemblies for single tissues of non-
 authors: Santiago Montero-Mendieta, Manfred Grabherr, Henrik Lantz, Ignacio De la Riva, Jennifer A. Leonard, Matthew T. Webster, Carles Vilà
 journal: 'PeerJ'
 date: 2017-09-01
-category: International Journal
+category: international
 collection: publications
 doi: 10.7717/peerj.3702
 permalink: /publication/Montero-Mendieta_et_al_2017b
