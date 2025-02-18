@@ -131,33 +131,7 @@ author_profile: true
         order: 1;
     }
 }
-
-.filter-buttons {
-    display: flex;
-    gap: 1rem;
-    margin: 1.5rem 0;
-}
-
-.filter-button {
-    background: #f0f4ff;
-    color: #5474B8;
-    padding: 0.5rem 1.5rem;
-    border-radius: 15px;
-    border: none;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    font-size: 0.9em;
-}
-
-.filter-button.active {
-    background: #5474B8;
-    color: white;
-}
-
-.filter-button:hover {
-    background: #e0e7ff;
-}
-    
+   
 </style>
 
 <div class="section-card">
@@ -165,17 +139,9 @@ author_profile: true
 
 <p>Below are all my publications, including those published in international (indexed) journals, local (non-indexed) journals, and my doctoral thesis.</p>
 
-<!-- Filter Buttons -->
-<div class="filter-buttons">
-    <button class="filter-button active" data-filter="all">All</button>
-    <button class="filter-button" data-filter="international">International</button>
-    <button class="filter-button" data-filter="local">Local</button>
-    <button class="filter-button" data-filter="thesis">Thesis</button>
-</div>
-
 <div class="publication-grid">
 {% for post in site.publications reversed %}
-    <div class="publication-card" data-type="{{ post.category | downcase }}">
+    <div class="publication-card">
         <!-- Header with Journal & Date -->
         <div class="publication-header">
             <span class="publication-journal">{{ post.journal }}</span>
@@ -233,30 +199,6 @@ author_profile: true
     </div>
 {% endfor %}
 </div>
-
-<script>
-document.querySelectorAll('.filter-button').forEach(button => {
-    button.addEventListener('click', () => {
-        // Remove active class from all buttons
-        document.querySelectorAll('.filter-button').forEach(btn => btn.classList.remove('active'));
-        
-        // Add active class to clicked button
-        button.classList.add('active');
-        
-        const filter = button.dataset.filter;
-        
-        // Filter publications
-        document.querySelectorAll('.publication-card').forEach(card => {
-            const category = card.dataset.category;
-            if (filter === 'all' || category === filter) {
-                card.style.display = 'block';
-            } else {
-                card.style.display = 'none';
-            }
-        });
-    });
-});
-</script>
 
 <p style="color: #444; font-size: 0.9em;">+These authors have made contributions that are regarded as equally significant, although the extent of equality may be subject to varying interpretations in some of the papers.</p>
 </div>
