@@ -3,7 +3,7 @@ title: "Discovery of a New Distribution Site for the Crucian Carp Carassius cara
 authors: Xinxin Li, Xiaotong Guan, Zhuning Liu, Yingnan Wang, Chongnv Wang, Santiago Montero-Mendieta, Yahui Zhao, Guoqiang Pan, Biegaresi Tolebek, Hong Qu, Wenxu Lan, Baocheng Guo
 journal: 'Chinese Journal of Zoology'
 date: 2024-12-19
-category: locall
+category: local
 collection: publications
 doi: 10.13859/j.cjz.202424188
 permalink: /publication/Li_et_al_2024
