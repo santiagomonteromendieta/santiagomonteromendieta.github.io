@@ -175,7 +175,7 @@ author_profile: true
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
-    <div class="publication-card" data-type"{{ post.category }}">
+    <div class="publication-card" data-type="{{ post.category }}">
         <!-- Header with Journal & Date -->
         <div class="publication-header">
             <span class="publication-journal">{{ post.journal }}</span>
