@@ -3,7 +3,7 @@ title: "Unexpectedly High Levels of Cryptic Diversity Uncovered by a Complete DN
 authors: Raquel Vasconcelos+, Santiago Montero-Mendieta+, Marc Simó-Riudalbas, Roberto Sindaco, Xavier Santos, Mauro Fasola, Gustavo A. Llorente, Edoardo Razzetti, Salvador Carranza 
 journal: 'PLOS One'
 date: 2016-03-01
-category: Journal Article
+category: International Journal
 collection: publications
 doi: 10.1371/journal.pone.0149985
 permalink: /publication/Vasconcelos_et_al_2016
