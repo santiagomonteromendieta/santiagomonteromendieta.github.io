@@ -3,7 +3,7 @@ title: "Digest: Resolving phylogenomic conflicts in characiform fishes"
 authors: Santiago Montero-Mendieta, Arjun Dheer 
 journal: 'Evolution'
 date: 2019-02-01
-category: Journal Article
+category: International Journal
 collection: publications
 doi: 10.1111/evo.13666
 permalink: /publication/Montero-Mendieta_&_Dheer_2019
