@@ -4,7 +4,7 @@ collection: publications
 doi: 10.1016/j.ympev.2021.107167
 permalink: /publication/Montero-Mendieta_et_al_2021
 image: /images/thumbs/8-Montero-Mendieta_et_al_2021.png
-pdf_url: /files/articles/Montero-Mendieta_et_al_2021.pdf
+pdf_url: /files/articles/8-Montero-Mendieta_et_al_2021.pdf
 article_url: "https://doi.org/10.1016/j.ympev.2021.107167" 
 github_url: "https://github.com/biomendi/OREOBATES-PHYLOGENOMICS"
 scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kecK5aoAAAAJ&sortby=pubdate&citation_for_view=kecK5aoAAAAJ:ufrVoPGSRksC"
