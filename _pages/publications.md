@@ -176,7 +176,7 @@ author_profile: true
                     <a href="{{ post.scholar_url }}" class="action-button" target="_blank">
                         Google Scholar
                     </a>
-                    % if post.ncbi_url %}
+                    {% if post.ncbi_url %}
                     <a href="{{ post.ncbi_url }}" class="action-button" target="_blank">
                         NCBI
                     </a>
