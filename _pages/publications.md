@@ -196,5 +196,5 @@ author_profile: true
     </div>
 {% endfor %}
 </div>
-<p>(+)These authors have made contributions that are regarded as equally significant, although the extent of equality may be subject to varying interpretations in some of the papers.</p>
+<p style="color: #444; font-size: 0.9em;">+These authors have made contributions that are regarded as equally significant, although the extent of equality may be subject to varying interpretations in some of the papers.</p>
 </div>
