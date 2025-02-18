@@ -165,27 +165,33 @@ author_profile: true
                 
                 <!-- Action Bar -->
                 <div class="publication-actions">
+                    {% if post.article_url %}
                     <a href="{{ post.article_url }}" class="action-button" target="_blank">
                         Article
                     </a>
+                    {% endif %}
                     {% if post.github_url %}
                     <a href="{{ post.github_url }}" class="action-button" target="_blank">
                         GitHub
                     </a>
                     {% endif %}
-                    <a href="{{ post.scholar_url }}" class="action-button" target="_blank">
-                        Google Scholar
-                    </a>
                     {% if post.ncbi_url %}
                     <a href="{{ post.ncbi_url }}" class="action-button" target="_blank">
                         NCBI
                     </a>
                     {% endif %}
+                    {% if post.scholar_url %}
+                    <a href="{{ post.scholar_url }}" class="action-button" target="_blank">
+                        Google Scholar
+                    </a>
+                    {% endif %}
+                    {% if post.pdf_url %}
                     <a href="{{ post.pdf_url }}" class="download-button" target="_blank">
                         <svg viewBox="0 0 24 24">
                             <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
                         </svg>
                     </a>
+                    {% endif %}
                 </div>
             </div>
         </div>
