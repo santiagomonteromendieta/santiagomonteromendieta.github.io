@@ -168,14 +168,14 @@ author_profile: true
 <!-- Filter Buttons -->
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
-    <button class="filter-button" data-filter="International Journal">International</button>
-    <button class="filter-button" data-filter="Local Journal">Local</button>
-    <button class="filter-button" data-filter="Thesis">Thesis</button>
+    <button class="filter-button" data-filter="international">International</button>
+    <button class="filter-button" data-filter="local">Local</button>
+    <button class="filter-button" data-filter="thesis">Thesis</button>
 </div>
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
-    <div class="publication-card" data-category="{{ post.category }}">
+    <div class="publication-card" data-type"{{ post.category }}">
         <!-- Header with Journal & Date -->
         <div class="publication-header">
             <span class="publication-journal">{{ post.journal }}</span>
