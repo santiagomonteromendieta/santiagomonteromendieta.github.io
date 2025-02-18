@@ -11,6 +11,7 @@ image: /images/thumbs/8-Montero-Mendieta_et_al_2021.png
 pdf_url: /files/articles/8-Montero-Mendieta_et_al_2021.pdf
 article_url: "https://doi.org/10.1016/j.ympev.2021.107167" 
 github_url: "https://github.com/biomendi/OREOBATES-PHYLOGENOMICS"
+ncbi_url: "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA631142"
 scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kecK5aoAAAAJ&sortby=pubdate&citation_for_view=kecK5aoAAAAJ:ufrVoPGSRksC"
 excerpt: Mountain ranges offer opportunities for understanding how species evolved and diversified across different environmental conditions. Neotropical frogs of the genus Oreobates are adapted to highland and lowland habitats along the Andes, but many aspects of their evolution remain unknown. We studied their evolutionary history using ~18,000 exons enriched by targeted sequence-capture ...
 paperurl: 'https://doi.org/10.1016/j.ympev.2021.107167'
