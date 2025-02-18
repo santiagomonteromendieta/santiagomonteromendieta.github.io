@@ -3,7 +3,7 @@ title: "Población introducida de tritón alpino (Mesotriton alpestris) en el Pr
 authors: Marc Fiblà, Andreu Ubach, Neus Oromi, Santiago Montero-Mendieta, Sebastià Camarasa, Mariona Pascual-Pons, Albert Martínez-Silvestre, Albert Montori
 journal: 'Boletín de la Asociación Herpetológica Española'
 date: 2015-06-01
-category: Local Journal
+category: "Local Journal"
 collection: publications
 permalink: /publication/Fibla_et_al_2015
 image: /images/thumbs/1-Fibla_et_al_2015.png
