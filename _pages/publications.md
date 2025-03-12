@@ -137,7 +137,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publications</h2>
 
-<p>Below are all my publications and my doctoral thesis.</p>
+<p>Below are all my publications and my doctoral thesis. A plus sign (+) following a name denotes co-first authorship, though in some cases the label may not fully reflect the true distribution of contributions.</p>
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
@@ -200,5 +200,4 @@ author_profile: true
 {% endfor %}
 </div>
 
-<p style="color: #444; font-size: 0.9em;">+These authors have made contributions that are regarded as equally significant, although the extent of equality may be subject to varying interpretations in some of the papers.</p>
 </div>
