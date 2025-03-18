@@ -33,12 +33,12 @@
   </a>
 
   <!-- WeChat -->
-  <a href="#" 
+  <button 
      class="btn btn--wechat" 
      title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WeChat"
      onclick="showWechatQR(event)">
      <i class="fab fa-weixin" aria-hidden="true"></i><span> WeChat</span>
-  </a>
+  </button>
 </section>
 
 <!-- QR Code Modal -->
@@ -64,6 +64,10 @@
   backdrop-filter: blur(3px);
 }
 
+.modal.show {
+  display: block;
+}
+
 .modal-content {
   background-color: #fff;
   margin: 15% auto;
@@ -86,6 +90,8 @@
 .btn--wechat {
   background-color: #07C160;
   color: #fff !important;
+  border: none;
+  cursor: pointer;
 }
 
 .btn--wechat:hover {
@@ -93,13 +99,13 @@
 }
 </style>
 
-<script src="https://cdn.jsdelivr.net/npm/qrcode.js/lib/qrcode.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <script>
 // QR Code Functions
 function showWechatQR(event) {
   event.preventDefault();
-  event.stopPropagation();
-  
+  console.log('WeChat button clicked'); // Debug log
+
   const modal = document.getElementById('wechatQRModal');
   const currentUrl = window.location.href;
   
@@ -107,37 +113,41 @@ function showWechatQR(event) {
   const qrContainer = document.getElementById('qrcode');
   qrContainer.innerHTML = '';
   
-  // Generate new QR code
-  new QRCode(qrContainer, {
-    text: currentUrl,
-    width: 256,
-    height: 256,
-    colorDark: "#000000",
-    colorLight: "#ffffff",
-    correctLevel: QRCode.CorrectLevel.H
-  });
+  try {
+    // Verify QRCode library is available
+    if (typeof QRCode === 'undefined') {
+      throw new Error('QRCode library not loaded');
+    }
+    
+    // Generate new QR code
+    new QRCode(qrContainer, {
+      text: currentUrl,
+      width: 256,
+      height: 256,
+      colorDark: "#000000",
+      colorLight: "#ffffff",
+      correctLevel: QRCode.CorrectLevel.H
+    });
 
-  modal.style.display = 'block';
-  return false;
+    // Show modal
+    modal.classList.add('show');
+    console.log('Modal displayed with QR code'); // Debug log
+  } catch (error) {
+    console.error('QR Code Error:', error);
+    alert('Error generating QR code: ' + error.message);
+  }
 }
 
 function closeModal() {
-  document.getElementById('wechatQRModal').style.display = 'none';
+  const modal = document.getElementById('wechatQRModal');
+  modal.classList.remove('show');
 }
 
 // Close modal when clicking outside
-window.addEventListener('click', function(event) {
+document.addEventListener('click', function(event) {
   const modal = document.getElementById('wechatQRModal');
   if (event.target === modal) {
-    modal.style.display = "none";
-  }
-});
-
-// Initialize all social links to open in new tab
-document.querySelectorAll('.page__share a[href^="http"]').forEach(link => {
-  if (!link.hasAttribute('target')) {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
+    closeModal();
   }
 });
 </script>
