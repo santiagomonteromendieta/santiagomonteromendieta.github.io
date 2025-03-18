@@ -11,7 +11,7 @@
      title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} X"
      target="_blank" 
      rel="noopener noreferrer">
-     <i class="fa-brands fa-square-x-twitter" aria-hidden="true"></i>
+     <i class="fab fa-twitter" aria-hidden="true"></i><span> X</span>
   </a>
 
   <!-- Facebook -->
@@ -32,3 +32,14 @@
      <i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
   </a>
 </section>
+
+<style>
+.btn--twitter {
+  background-color: #000000; /* Change to black for X's new branding */
+  color: #FFFFFF;
+}
+
+.btn--twitter:hover {
+  background-color: #333333; /* Darker gray on hover */
+}
+</style>
