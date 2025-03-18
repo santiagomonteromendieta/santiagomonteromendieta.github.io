@@ -26,11 +26,11 @@
      <i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
   </a>
 
-  <!-- WeChat -->
-  <a href="#" 
+  <!-- WeChat (Fixed) -->
+  <a href="javascript:void(0);" 
      class="btn btn--wechat" 
      title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WeChat"
-     onclick="showWechatQR()">
+     onclick="showWechatQR(event)">
      <i class="fab fa-weixin" aria-hidden="true"></i><span> WeChat</span>
   </a>
 </section>
@@ -86,7 +86,8 @@
 <script src="https://cdn.jsdelivr.net/npm/qrcode.js/lib/qrcode.min.js"></script>
 <script>
 // QR Code Functions
-function showWechatQR() {
+function showWechatQR(event) {
+  event.preventDefault(); // Prevent default anchor behavior
   const modal = document.getElementById('wechatQRModal');
   const currentUrl = window.location.href;
   
@@ -104,6 +105,7 @@ function showWechatQR() {
   });
 
   modal.style.display = 'block';
+  return false;
 }
 
 function closeModal() {
