@@ -148,7 +148,7 @@ author_profile: true
                 <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
             </div>
             
-            <div class="media-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</div>
+            <div class="media-excerpt">{{ post.excerpt_text | strip_html | truncate: 140 }}</div>
         </a>
     </div>
 {% endfor %}
