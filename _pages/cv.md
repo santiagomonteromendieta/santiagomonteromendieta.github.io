@@ -35,48 +35,17 @@ redirect_from:
 </div>
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="as fa-award"></i> Awards & Grants</h2>
-    <ul>
-      <li><strong>2021:</strong> | Research Fund for International Young Scientists (RFIS-I) | National Natural Science Foundation of China (2 years) 🇨🇳</li>
-    </ul>
-</div>
-
-<div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-award"></i> Awards & Grants</h2>
-    <div class="timeline">
-        <div class="timeline-item">
-            <h3>Research Fund for International Young Scientists (RFIS-I)</h3>
-            <p><strong>2021</strong> | National Natural Science Foundation of China (NSFC) (2 years) 🇨🇳</p>
-        </div>
-        <div class="timeline-item">
-            <h3>CAS President's International Fellowship Initiative (PIFI) - Postdoctoral Researchers (Category C)</h3>
-            <p><strong>2020</strong> | Chinese Academy of Sciences (CAS) (2 years) 🇨🇳</p>
-        </div>
-        <div class="timeline-item">
-            <h3>Predoctoral Mobility Grants for Short Stays at Spanish and International R&D Centers</h3>
-            <p><strong>2018</strong> | Spanish Government (4 months) 🇪🇸</p>
-        </div>
-        <div class="timeline-item">
-            <h3>2nd Best Poster Award</h3>
-            <p><strong>2017</strong> | XVI European Society for Evolutionary Biology Congress, Groningen 🇳🇱</p>
-        </div>
-        <div class="timeline-item">
-            <h3>Predoctoral Mobility Grants for Short Stays at Spanish and International R&D Centers</h3>
-             <p><strong>2017</strong> | Spanish Government (4 months) 🇪🇸</p>
-        </div>
-        <div class="timeline-item">
-            <h3>Predoctoral Mobility Grants for Short Stays at Spanish and International R&D Centers</h3>
-            <p><strong>2016</strong> | Spanish Government (4 months) 🇪🇸</p>
-        </div>
-         <div class="timeline-item">
-            <h3>Predoctoral FPI Contract (Researcher Training Program) for PhD studies</h3>
-            <p><strong>2015</strong> | Spanish Government (4 years) 🇪🇸</p>
-        </div>
-        <div class="timeline-item">
-            <h3>Erasmus Scholarship</h3>
-            <p><strong>2013</strong> | Spanish Government (6 months) 🇪🇸</p>
-        </div>
-    </div>
+    <ul>
+      <li><strong>2021:</strong> Research Fund for International Young Scientists (RFIS-I) | National Natural Science Foundation of China (2 years) 🇨🇳</li>
+      <li><strong>2020:</strong> CAS President's International Fellowship Initiative (PIFI) | Postdoctoral Researchers (Category C) | Chinese Academy of Sciences (2 years) 🇨🇳</li>
+      <li><strong>2018:</strong> Predoctoral Mobility Grants for Short Stays at Spanish and International R&D Centers | Spanish Government (4 months) 🇪🇸</li>
+      <li><strong>2017:</strong> 2nd Best Poster Award | XVI European Society for Evolutionary Biology Congress, Groningen 🇳🇱</li>
+      <li><strong>2017:</strong> Predoctoral Mobility Grants for Short Stays at Spanish and International R&D Centers | Spanish Government (4 months) 🇪🇸</li>
+      <li><strong>2016:</strong> Predoctoral Mobility Grants for Short Stays at Spanish and International R&D Centers | Spanish Government (4 months) 🇪🇸</li>
+      <li><strong>2015:</strong> Predoctoral FPI Contract (Researcher Training Program) for PhD studies | Spanish Government (4 months) 🇪🇸</li>
+      <li><strong>2013:</strong> Erasmus Scholarship | Spanish Government (6 months) 🇪🇸</li>
+    </ul>
 </div>
 
 <div class="section-card">
