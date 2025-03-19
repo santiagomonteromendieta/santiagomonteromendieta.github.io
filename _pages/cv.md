@@ -35,6 +35,13 @@ redirect_from:
 </div>
 
 <div class="section-card">
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="as fa-award"></i> Awards & Grants</h2>
+    <ul>
+      <li><strong>2021:</strong> | Research Fund for International Young Scientists (RFIS-I) | National Natural Science Foundation of China (2 years) 🇨🇳</li>
+    </ul>
+</div>
+
+<div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;"><i class="fas fa-award"></i> Awards & Grants</h2>
     <div class="timeline">
         <div class="timeline-item">
