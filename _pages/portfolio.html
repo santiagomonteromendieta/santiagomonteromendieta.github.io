@@ -114,12 +114,31 @@ author_profile: true
 .media-image {
     cursor: pointer;
 }
+
+/* Add to existing styles */
+.color-indicator {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    margin: 0 5px -2px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.external-indicator {
+    background: #5474B8; /* Your existing blue */
+}
+
+.personal-indicator {
+    background: #4CAF50; /* Your existing green */
+}
+    
 </style>
 
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research Updates & Media</h2>
 
-<p>My research has been featured in various media outlets; below, I have selected the most relevant coverage, including interviews and spotlights (in blue).</p>
+<p>This collection features both third-party media coverage (<span class="color-indicator external-indicator"></span>) and original research updates written directly by me (<span class="color-indicator personal-indicator"></span>). Explore curated highlights including selected articles, project developments, interviews, and analytical spotlights below.</p>
 
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
