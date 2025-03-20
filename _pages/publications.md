@@ -137,7 +137,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publications</h2>
 
-<p>Below are all my publications and my doctoral thesis. A plus sign (+) following a name denotes co-first authorship, although in some cases this may not accurately reflect the true balance of contributions.</p>
+<p>Here's my complete publication list and doctoral thesis. A quick note: names marked with a plus sign (+) indicate co-first authorship, though in some cases this may not accurately reflect the true balance of contributions. Happy reading! 📖</p>
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
