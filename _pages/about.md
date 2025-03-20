@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>Hello, I'm <strong>Santi</strong>, an evolutionary biologist passionate about uncovering the genomic foundations of life's diversity. Currently, I'm a Postdoc at <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology, Chinese Academy of Sciences</a> in Beijing, working with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research combines bioinformatics and genomics to explore how species adapt and diversify, shedding light on the mechanisms that drive evolution in the animal kingdom.</p>
+  <p>Hi 👋, I'm <strong>Santi</strong> — an evolutionary biologist fascinated by the genomic blueprints behind life's incredible diversity. I'm currently a Postdoc at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology, Chinese Academy of Sciences</a> in Beijing, where I work with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research blends bioinformatics and genomics to explore how species adapt and diversify, uncovering the mechanisms that shape evolution across the animal kingdom.</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
@@ -18,7 +18,7 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research</h2>
-  <p>My current work revolves around fish evolutionary genomics, where I apply bioinformatics techniques to analyze genomic data and address key evolutionary questions. Some highlights of my past research include understanding the <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">adaptation to high‐altitude habitats in honey bees</a>, uncovering the <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">diversification patterns of Neotropical frogs in the Andes</a>, and revealing <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">high levels of cryptic diversity in the reptiles of the Socotra Archipelago</a>.</p>
+  <p>My current work focuses on fish evolutionary genomics, where I use bioinformatics tools to analyze genomic data and tackle big evolutionary questions. Some highlights of my past research include studying <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">high-altitude adaptation in honey bees</a>, uncovering <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">diversification patterns in Neotropical frogs from the Andes</a>, and revealing <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">hidden diversity in the reptiles of the Socotra Archipelago</a>.</p>
   <a href="/publications/" class="button" style="display: inline-flex; align-items: center; gap: 0.5rem; margin-top: 1rem;">  <!-- Added View Publications Button here -->
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-journal-richtext" viewBox="0 0 16 16">
       <path d="M7.5 6.5h1a.5.5 0 0 1 .5.5v.5a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-.5a.5.5 0 0 1 .5-.5z"/>
@@ -68,7 +68,7 @@ View Full CV
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Funding</h2>
-  <p>My research is currently possible thanks to funds for international young scientists provided by the <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank">National Natural Science Foundation of China</a> (NSFC). Previously, I was funded by a prestigious <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">PIFI fellowship</a> from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences (CAS)</a>.</p>
+  <p>My research is currently supported by the <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank">National Natural Science Foundation of China</a> (NSFC) through a grant for international young scientists. Previously, I was fortunate to receive a prestigious <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">PIFI fellowship</a> from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences (CAS)</a>.</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
     <img src="/images/logos_cas_nsfc.png" alt="logos_cas_nsfc" style="max-height: 400px; max-width: 400px; border-radius: 8px; width: 100%;">
   </div>
