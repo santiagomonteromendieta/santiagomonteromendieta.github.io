@@ -40,6 +40,10 @@ author_profile: true
     border-radius: 15px;
     font-size: 0.9em;
 }
+
+.media-type.personal {
+    background: #4CAF50; /* Green color for personal content */
+}
     
 .media-excerpt {
     color: #666;
@@ -115,7 +119,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research Updates & Media</h2>
 
-<p>Explore selected media coverage and research developments below, including interviews, spotlights, and recent updates.</p>
+<p>My research has been featured in various media outlets; below, I have selected the most relevant coverage, including interviews and spotlights (in blue).</p>
 
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
@@ -141,7 +145,7 @@ author_profile: true
             {% endif %}
         
             <div class="media-meta">
-                <span class="media-type">
+                <span class="media-type {% if post.source == 'personal' %}personal{% endif %}">
                     {% if post.category == 'Interview' %}🎤 Interview
                     {% else %}💡 Spotlight{% endif %}
                 </span>
