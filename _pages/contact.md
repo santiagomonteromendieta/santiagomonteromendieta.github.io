@@ -152,7 +152,7 @@ author_profile: true
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Reviewer Availability and Expertise</h2>
-    <p style="line-height: 1.6; margin-bottom: 1.5rem;">Thank you for considering me as a peer reviewer. I am particularly keen to contribute to society journals and welcome opportunities to review manuscripts within my areas of expertise. These include:</p>
+    <p style="line-height: 1.6; margin-bottom: 1.5rem;">Thank you for considering me as a peer reviewer! I'm especially enthusiastic about contributing to society journals and would welcome the chance to review manuscripts in my areas of expertise, which include:</p>
     <ul class="expertise-list">
         <li class="expertise-item">
             <div class="expertise-icon">🧬</div>
@@ -221,7 +221,7 @@ author_profile: true
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Get in Touch</h2>
-  <p style="margin-bottom: 0em;">Thank you for your interest in my work. Please feel free to reach out for any inquiries about my work, life in China, or potential collaborations. You can contact me using the form below (but see the important note).</p>
+  <p style="margin-bottom: 0em;">Thanks for your interest in my work! Feel free to reach out if you'd like to discuss my research, life in China, or potential collaborations. You can contact me using the form below (but please check the important note first!). Looking forward to connecting! 😊</p>
 
   <form id="contact-form" method="post" action="https://formspree.io/f/mrgwblad" style="background: #f8f9fa; padding: 2rem; border-radius: 10px;">
     <div class="form-group">
