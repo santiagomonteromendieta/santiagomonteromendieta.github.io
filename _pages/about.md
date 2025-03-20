@@ -68,7 +68,7 @@ View Full CV
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Funding</h2>
-  <p>My research is currently supported by the <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank">National Natural Science Foundation of China</a> (NSFC) through a grant for international young scientists. Previously, I was fortunate to receive a prestigious <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">PIFI fellowship</a> from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences (CAS)</a>.</p>
+  <p>My research is supported by the <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank">National Natural Science Foundation of China</a> (NSFC) through a grant for international young scientists. Previously, I was fortunate to receive a prestigious <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">PIFI fellowship</a> from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences (CAS)</a>.</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
     <img src="/images/logos_cas_nsfc.png" alt="logos_cas_nsfc" style="max-height: 400px; max-width: 400px; border-radius: 8px; width: 100%;">
   </div>
