@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "About"
+  - title: "ABOUT"
     url: /
     
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "News & Updates"
+  - title: "NEWS & UPDATES"
     url: /news/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Contact"
+  - title: "CONTACT"
     url: /contact/
     
   # - title: "Talks"
