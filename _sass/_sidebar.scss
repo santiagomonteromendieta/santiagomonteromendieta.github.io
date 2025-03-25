@@ -66,12 +66,20 @@
 }
 
 // _sass/_sidebar.scss
+
+.nav__link:hover {
+   padding-left: 0.1em;
+   padding-right: 0.1em;
+   margin-left: -0.1em;
+}
+
 .nav__link.active {
    font-weight: normal;
    padding-left: 0.1em;
    padding-right: 0.1em;
    margin-left: -0.1em;
 }
+
 .nav__link.active:hover {
    font-weight: normal;
    color: white !important;
