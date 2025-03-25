@@ -68,14 +68,14 @@
 // _sass/_sidebar.scss
 .nav__link.active {
    font-weight: normal;
+   padding-left: 0px;
+   padding-right: 0px;
 }
 .nav__link.active:hover {
    font-weight: normal;
    color: white !important;
    text-decoration: none;
    background: #7a8288;
-   padding-left: 0px;
-   padding-right: 0px;
 }
 
 /*
