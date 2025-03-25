@@ -2,52 +2,59 @@
    FOOTER
    ========================================================================== */
 
-// New parent container fix
-body > .page {
-  min-height: 100vh;
-  display: grid;
-  grid-template-rows: 1fr auto;
-}
-
 .page__footer {
-  grid-row: 2 / 3;
   width: 100%;
-  padding: 2em 1em;
+  padding: 2em 0;
   background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
-  color: mix(#fff, $gray, 25%);
-  box-shadow: 0 -2px 5px rgba(0,0,0,0.05);
+  position: relative;
+  overflow: hidden;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
+    height: 100%;
+    background-color: inherit;
+    z-index: -1;
+  }
 
-  &-content {
+  &-container {
     max-width: 1200px;
     margin: 0 auto;
-    font-size: $type-size-7;
+    padding: 0 20px;
+    position: relative;
+    text-align: center;
+    
+    // Visual alignment helper (remove in production)
+    outline: 1px dashed rgba(255, 0, 0, 0.3);
+  }
+
+  &-content {
+    display: inline-block;
+    position: relative;
+    padding: 15px 40px;
+    background-color: transparent;
+    box-shadow: 0 0 0 20px transparent;
     
     p {
       margin: 0;
-      display: inline-block;
+      font-size: $type-size-7;
       position: relative;
-      padding: 0 20px;
+      white-space: nowrap;
       
-      &::before,
       &::after {
-        content: "";
+        content: '';
         position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 15px;
-        height: 15px;
-        background: transparent;
-        border: 2px solid mix(#fff, $gray, 25%);
-        border-radius: 50%;
-      }
-
-      &::before {
-        left: -10px;
-      }
-
-      &::after {
-        right: -10px;
+        left: 50%;
+        bottom: -10px;
+        transform: translateX(-50%);
+        width: 30%;
+        height: 2px;
+        background: $light-gray;
       }
     }
 
@@ -56,7 +63,7 @@ body > .page {
       text-decoration: none;
       transition: all 0.3s ease;
       border-bottom: 1px dotted currentColor;
-
+      
       &:hover {
         color: $primary-color;
         border-bottom-style: solid;
