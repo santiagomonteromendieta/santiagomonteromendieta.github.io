@@ -1,5 +1,4 @@
 ---
-hide_footer: true
 layout: archive
 permalink: /news/
 author_profile: true
