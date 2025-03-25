@@ -2,33 +2,65 @@
    FOOTER
    ========================================================================== */
 
-.page__footer {
-  @include clearfix;
-  width: 100%;
-  clear: both;
-  position: absolute;
-  bottom: 0;
-  height: auto;
-  margin-top: 3em;
-  color: mix(#fff, $gray, 25%);
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
-  padding: 1em 0;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+// New parent container fix
+body > .page {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr auto;
 }
 
-.page__footer-content {
-  width: 90%;
-  font-size: $type-size-7;
-  text-align: center;
-  margin: 0 auto;
+.page__footer {
+  grid-row: 2 / 3;
+  width: 100%;
+  padding: 2em 1em;
+  background-color: $lighter-gray;
+  border-top: 1px solid $light-gray;
+  color: mix(#fff, $gray, 25%);
+  box-shadow: 0 -2px 5px rgba(0,0,0,0.05);
 
-  p {
-    margin: 0;
-    text-align: center;
+  &-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: $type-size-7;
+    
+    p {
+      margin: 0;
+      display: inline-block;
+      position: relative;
+      padding: 0 20px;
+      
+      &::before,
+      &::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 15px;
+        height: 15px;
+        background: transparent;
+        border: 2px solid mix(#fff, $gray, 25%);
+        border-radius: 50%;
+      }
+
+      &::before {
+        left: -10px;
+      }
+
+      &::after {
+        right: -10px;
+      }
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      border-bottom: 1px dotted currentColor;
+
+      &:hover {
+        color: $primary-color;
+        border-bottom-style: solid;
+      }
+    }
   }
 }
