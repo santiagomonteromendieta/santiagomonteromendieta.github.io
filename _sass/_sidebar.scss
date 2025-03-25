@@ -67,7 +67,12 @@
 
 // _sass/_sidebar.scss
 .nav__link.active {
-  font-weight: normal;
+   font-weight: normal;
+}
+.nav__link.active:hover {
+   font-weight: normal;
+   color: inherit;
+   background: none; 
 }
 
 /*
