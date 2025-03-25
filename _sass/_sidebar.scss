@@ -70,7 +70,11 @@
    font-weight: normal;
 }
 .nav__link.active:hover {
-   all: unset;
+   font-weight: normal;
+   color: inherit !important;
+   text-decoration: none;
+   cursor: text;
+   pointer-events: none;
 }
 
 /*
