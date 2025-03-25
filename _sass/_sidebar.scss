@@ -68,9 +68,9 @@
 // _sass/_sidebar.scss
 .nav__link.active {
    font-weight: normal;
-   padding-left: 0px;
-   padding-right: 0px;
-   margin-left: 0px;
+   padding-left: 0.1em;
+   padding-right: 0.1em;
+   margin-left: -0.1em;
 }
 .nav__link.active:hover {
    font-weight: normal;
