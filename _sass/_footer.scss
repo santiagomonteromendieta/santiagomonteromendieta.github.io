@@ -5,13 +5,11 @@
 .page__footer {
   @include clearfix;
   float: left;
-  margin-left: 0;
-  margin-right: 0;
   width: 100%;
   clear: both;
   /* sticky footer fix start */
   position: absolute;
-  bottom: 0em;
+  bottom: 0;
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
@@ -22,8 +20,7 @@
           animation-delay: 0.45s;
   background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
-  text-align: left; // Ensure alignment with main content
-  padding: 1em 2em; // Adjust padding to match content margins
+  padding: 1em 2em; // Ensuring padding on all sides
 
   footer {
     @include clearfix;
@@ -41,10 +38,10 @@
   .footer-content {
     font-size: $type-size-7;
     color: mix(#fff, $gray, 25%);
-    text-align: left;
     max-width: $x-large; // Ensures alignment with main content width
-    margin: 0 auto; // Center the footer content
-    padding: 0.5em 0;
+    margin: 0 auto;
+    padding: 0.5em 2em; // Increased left padding to match main content
+    text-align: left;
 
     a {
       color: inherit;
@@ -68,6 +65,7 @@
   padding: 0;
   font-size: $type-size-7;
   text-align: left;
+  padding-left: 2em; // Extra padding on the left to align properly
 }
 
 /* ==========================================================================
