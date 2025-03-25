@@ -9,11 +9,14 @@
       <ul class="nav__items">
         {% for link in site.data.navigation.main %}
           {% if link.url contains 'http' %}
-            {% assign domain = '' %}
+            {% assign href = link.url %}
           {% else %}
-            {% assign domain = base_path %}
+            {% assign href = link.url | relative_url %}
           {% endif %}
-          <li class="nav__item"><a href="{{ domain }}{{ link.url }}" class="nav__link">{{ link.title }}</a></li>
+          {% assign current_page_url = page.url | replace: "/index.html", "/" %}
+          <li class="nav__item">
+            <a href="{{ href }}" class="nav__link{% if current_page_url == href %} active{% endif %}">{{ link.title }}</a>
+          </li>
         {% endfor %}
       </ul>
     </nav>
