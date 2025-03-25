@@ -16,8 +16,9 @@
   padding: 1em 0;
 
   display: flex;
-  justify-content: center; /* Ensures true centering */
+  justify-content: center; /* Centers horizontally */
   align-items: center;
+  text-align: center;
 }
 
 .page__footer-content {
@@ -27,11 +28,5 @@
   gap: 1em; /* Adds spacing between items */
   font-size: $type-size-7;
   text-align: center;
-  color: mix(#fff, $gray, 25%);
-}
-
-/* Removes any unwanted padding/margins */
-.page__footer-content p {
-  margin: 0;
-  padding: 0;
+  max-width: 90%; /* Ensures text doesn’t stretch too far */
 }
