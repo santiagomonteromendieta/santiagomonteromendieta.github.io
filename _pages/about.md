@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist fascinated by the genomic blueprints behind life's incredible diversity. I'm a Postdoc at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology, Chinese Academy of Sciences</a> in Beijing, where I work with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research blends bioinformatics and genomics to explore how species adapt and diversify, uncovering the mechanisms that shape evolution across the animal kingdom.</p>
+  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist interested in the molecular basis of life's incredible diversity. I'm a Postdoc at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology, Chinese Academy of Sciences</a> in Beijing, where I work with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research blends bioinformatics and genomics to explore how species adapt and diversify, uncovering the mechanisms that shape evolution across the animal kingdom.</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
