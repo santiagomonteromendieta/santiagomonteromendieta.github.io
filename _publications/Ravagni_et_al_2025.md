@@ -11,5 +11,5 @@ permalink: /publication/Ravagni_et_al_2025
 image: /images/thumbs/10-Ravagni_et_al_2025.png
 pdf_url: /files/articles/10-Ravagni_et_al_2025.pdf
 article_url: "https://doi.org/10.1111/mec.17740"
-scholar_url: ""
+scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kecK5aoAAAAJ&citation_for_view=kecK5aoAAAAJ:8k81kl-MbHgC"
 ---
