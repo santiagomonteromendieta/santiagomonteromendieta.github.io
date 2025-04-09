@@ -16,7 +16,7 @@ redirect_from:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
   <img src="/images/santi_stickleback.jpg" alt="Dr. Montero-Mendieta conducting fish research" style="border-radius: 8px;">
 </div>
-<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">Examining an stickleback in the Institute of Zoology, CAS.</p>
+<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">Examining a three-spined stickleback (Gasterosteus aculeatus) specimen at the Institute of Zoology, CAS.</p>
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research</h2>
