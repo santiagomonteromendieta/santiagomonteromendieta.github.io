@@ -13,9 +13,10 @@ redirect_from:
   <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist interested in the molecular basis of life's incredible diversity. I'm a Postdoc at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology, Chinese Academy of Sciences</a> in Beijing, where I work with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. In my research, I combine bioinformatics and genomics to explore how species adapt and diversify. My goal is to understand the mechanisms that shape evolution across the animal kingdom.</p>
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
   <img src="/images/santi_stickleback.jpg" alt="Dr. Montero-Mendieta conducting fish research" style="border-radius: 8px;">
 </div>
+<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">Examining an stickleback in the Institute of Zoology, CAS.</p>
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research</h2>
