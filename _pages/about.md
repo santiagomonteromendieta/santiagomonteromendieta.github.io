@@ -65,10 +65,12 @@ View Full CV
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
   <img src="/images/FEGG_2023.jpg" alt="Research group photo" style="border-radius: 8px;">
+  <p style="text-align: center; font-style: italic; margin-top: 0.5rem;">The Fish Evolution and Genomics Group at the Institute of Zoology, CAS (2023).</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
   <img src="/images/FEGG_2024_annual_meeting.jpg" alt="Research group photo" style="border-radius: 8px;">
+  <p style="text-align: center; font-style: italic; margin-top: 0.5rem;">Annual meeting of the Fish Evolution and Genomics Group (2024).</p>
 </div>
 
 <div class="section-card">
