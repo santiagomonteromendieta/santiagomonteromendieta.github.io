@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist interested in the molecular basis of life's incredible diversity. I'm a Postdoc at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology, Chinese Academy of Sciences</a> in Beijing, where I work with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research blends bioinformatics and genomics to explore how species adapt and diversify, uncovering the mechanisms that shape evolution across the animal kingdom.</p>
+  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist interested in the molecular basis of life's incredible diversity. I'm a Postdoc at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology, Chinese Academy of Sciences</a> in Beijing, where I work with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. In my research, I combine bioinformatics and genomics to explore how species adapt and diversify. My goal is to understand the mechanisms that shape evolution across the animal kingdom.</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research</h2>
-  <p>My current work focuses on fish evolutionary genomics, where I use bioinformatics tools to analyze genomic data and tackle big evolutionary questions. Some highlights of my past research include studying <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">high-altitude adaptation in honey bees</a>, uncovering <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">diversification patterns in Neotropical frogs from the Andes</a>, and revealing <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">hidden diversity in the reptiles of the Socotra Archipelago</a>.</p>
+  <p>My current work focuses on fish evolutionary genomics, where I use bioinformatics tools to analyze genomic data and answer evolutionary questions. Some highlights of my past research include studying <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">high-altitude adaptation in honey bees</a>, uncovering <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">diversification patterns in Neotropical frogs from the Andes</a>, and revealing <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">hidden diversity in the reptiles of the Socotra Archipelago</a>.</p>
   <a href="/publications/" class="button" style="display: inline-flex; align-items: center; gap: 0.5rem; margin-top: 1rem;">  <!-- Added View Publications Button here -->
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-journal-richtext" viewBox="0 0 16 16">
       <path d="M7.5 6.5h1a.5.5 0 0 1 .5.5v.5a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-.5a.5.5 0 0 1 .5-.5z"/>
