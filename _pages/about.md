@@ -67,6 +67,10 @@ View Full CV
   <img src="/images/FEGG_2023.jpg" alt="Research group photo" style="border-radius: 8px;">
 </div>
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
+  <img src="/images/FEGG_2024_annual_meeting.jpg" alt="Research group photo" style="border-radius: 8px;">
+</div>
+
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Funding</h2>
   <p>My research is supported by the <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank">National Natural Science Foundation of China</a> (NSFC) through a grant for international young scientists. Previously, I was fortunate to receive a prestigious <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">PIFI fellowship</a> from the <a href="https://english.cas.cn" target="_blank">Chinese Academy of Sciences (CAS)</a>.</p>
