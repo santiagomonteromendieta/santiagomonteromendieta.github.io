@@ -134,7 +134,7 @@ author_profile: true
 
 /* Note label styling */
 .note-label {
-    color: #777; 
+    color: #5474B8; 
     font-weight: 600;
 }
    
@@ -143,7 +143,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publications</h2>
 
-<p>Here's my complete publication list and doctoral thesis. <em class="note-label">Please note:</em> names marked with a plus sign (+) indicate co-first authorship, though the actual contribution may not be truly equal in some papers. In such cases, my role encompassed the majority of conceptualization, analysis, and manuscript preparation. Happy reading! 📖✨</p>
+<p>Here's my complete publication list and doctoral thesis. <div class="note-label">Please note:</div> names marked with a plus sign (+) indicate co-first authorship, though the actual contribution may not be truly equal in some papers. In such cases, my role encompassed the majority of conceptualization, analysis, and manuscript preparation. Happy reading! 📖✨</p>
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
