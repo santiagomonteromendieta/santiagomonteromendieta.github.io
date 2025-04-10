@@ -134,10 +134,8 @@ author_profile: true
 
 /* Note label styling */
 .note-label {
-    font-style: italic;
-    color: #5474B8;  /* Matches your theme color */
+    color: #777; 
     font-weight: 600;
-    padding-right: 4px;
 }
    
 </style>
