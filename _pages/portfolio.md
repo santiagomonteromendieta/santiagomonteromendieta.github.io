@@ -116,7 +116,23 @@ author_profile: true
     cursor: pointer;
 }
 
-/* Add to existing styles */
+.color-indicator {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    margin: 0 3px -2px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.external-indicator {
+    background: #5474B8; /* Your existing blue */
+}
+
+.personal-indicator {
+    background: #4CAF50; /* Your existing green */
+}
+    
 .media-excerpt {
     position: relative;
     max-height: 6em; /* Show 4 lines (1.5em line-height) */
