@@ -157,7 +157,7 @@ author_profile: true
     display: inline-flex;
     align-items: center;
     gap: 0.3rem;
-    margin-top: 0.5rem;
+    margin-top: 0.4rem;
     position: relative;
     z-index: 1;
     transition: gap 0.2s ease;
@@ -166,11 +166,6 @@ author_profile: true
 .read-more-cta::after {
     content: "→";
     font-size: 1.1em;
-    transition: transform 0.2s ease;
-}
-
-.media-card:hover .read-more-cta {
-    gap: 0.5rem;
 }
     
 </style>
