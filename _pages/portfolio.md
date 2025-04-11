@@ -188,7 +188,7 @@ author_profile: true
                 <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
             </div>
             
-            <div class="media-excerpt">{{ post.excerpt_text | strip_html | truncatewords: 25, "..." }}</div>
+            <div class="media-excerpt">{{ post.excerpt_text | strip_html | truncatewords: 30, "..." }}</div>
             <span class="read-more-cta">Read more</span>
         </a>
     </div>
