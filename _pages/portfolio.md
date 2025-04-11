@@ -135,25 +135,28 @@ author_profile: true
 }
 
 /* Add to existing styles */
-.media-excerpt {
-    position: relative;
-    padding-right: 90px;
+
+.media-excerpt::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 2em;
 }
 
-.read-more {
+.read-more-cta {
     color: #5474B8;
     font-weight: 600;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    background: white;
-    padding-left: 0.5rem;
     display: inline-flex;
     align-items: center;
     gap: 0.3rem;
+    margin-top: 0.5rem;
+    position: relative;
+    z-index: 1;
 }
 
-.read-more::after {
+.read-more-cta::after {
     content: "→";
     font-size: 1.1em;
 }
@@ -197,7 +200,7 @@ author_profile: true
             </div>
             
             <div class="media-excerpt">{{ post.excerpt_text | strip_html | truncatewords: 25, "..." }}</div>
-            <span class="read-more">Read more</span>
+            <span class="read-more-cta">Read more</span>
         </a>
     </div>
 {% endfor %}
