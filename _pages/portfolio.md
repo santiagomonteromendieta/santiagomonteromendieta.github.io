@@ -149,7 +149,6 @@ author_profile: true
     left: 0;
     right: 0;
     height: 2em;
-    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 100%);
 }
 
 .read-more-cta {
@@ -172,10 +171,6 @@ author_profile: true
 
 .media-card:hover .read-more-cta {
     gap: 0.5rem;
-}
-
-.media-card:hover .read-more-cta::after {
-    transform: translateX(2px);
 }
     
 </style>
