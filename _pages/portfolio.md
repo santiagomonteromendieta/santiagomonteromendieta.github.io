@@ -117,24 +117,12 @@ author_profile: true
 }
 
 /* Add to existing styles */
-.color-indicator {
-    display: inline-block;
-    width: 14px;
-    height: 14px;
-    border-radius: 3px;
-    margin: 0 3px -2px;
-    border: 1px solid rgba(0,0,0,0.1);
+.media-excerpt {
+    position: relative;
+    max-height: 6em; /* Show 4 lines (1.5em line-height) */
+    overflow: hidden;
+    margin: 1rem 0 1.5rem;
 }
-
-.external-indicator {
-    background: #5474B8; /* Your existing blue */
-}
-
-.personal-indicator {
-    background: #4CAF50; /* Your existing green */
-}
-
-/* Add to existing styles */
 
 .media-excerpt::after {
     content: "";
@@ -143,6 +131,7 @@ author_profile: true
     left: 0;
     right: 0;
     height: 2em;
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 100%);
 }
 
 .read-more-cta {
