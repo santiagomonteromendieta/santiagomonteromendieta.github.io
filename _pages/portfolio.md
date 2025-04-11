@@ -137,33 +137,23 @@ author_profile: true
 /* Add to existing styles */
 .media-excerpt {
     position: relative;
-    max-height: 4.5em; /* Show 3 lines (1.5em line-height) */
-    overflow: hidden;
-    margin: 1rem 0 1.5rem;
+    padding-right: 90px;
 }
 
-.media-excerpt::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 2em;
-}
-
-.read-more-cta {
+.read-more {
     color: #5474B8;
     font-weight: 600;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background: white;
+    padding-left: 0.5rem;
     display: inline-flex;
     align-items: center;
     gap: 0.3rem;
-    margin-top: 0.4rem;
-    position: relative;
-    z-index: 1;
-    transition: gap 0.2s ease;
 }
 
-.read-more-cta::after {
+.read-more::after {
     content: "→";
     font-size: 1.1em;
 }
@@ -207,7 +197,7 @@ author_profile: true
             </div>
             
             <div class="media-excerpt">{{ post.excerpt_text | strip_html | truncatewords: 25, "..." }}</div>
-            <span class="read-more-cta">Read more</span>
+            <span class="read-more">Read more</span>
         </a>
     </div>
 {% endfor %}
