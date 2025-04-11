@@ -171,7 +171,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research Updates & Media</h2>
 
-<p>My work has been featured in various media outlets; below I've selected some of them. Alongside these external highlights (<span class="color-indicator external-indicator"></span>), you'll find original updates written personally by me (<span class="color-indicator personal-indicator"></span>). Feel free to check them all! 😁</p>
+<p>My work has been featured in various media outlets; below I've selected some of them. Alongside these external highlights (<span class="color-indicator external-indicator"></span>), you'll find original updates written by me (<span class="color-indicator personal-indicator"></span>). Feel free to check them all! 😁</p>
 
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
