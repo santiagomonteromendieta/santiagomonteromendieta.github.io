@@ -1,6 +1,6 @@
 ---
 title: "Cryptic within cryptic: genetics, morphometrics, and bioacoustics delimitate a new species of Eleutherodactylus (Anura: Eleutherodactylidae) from Eastern Cuba"
-authors: Ariel Rodriguez, Alvaro Dugo-Cota, Santiago Montero-Mendieta, Alejandro Gonzalez-Voyer, Roberto Alonso Bosch, Miguel Vences, Carles Vila
+authors: Ariel Rodriguez, Alvaro Dugo-Cota, <b>Santiago Montero-Mendieta</b>, Alejandro Gonzalez-Voyer, Roberto Alonso Bosch, Miguel Vences, Carles Vila
 journal: 'Zootaxa'
 date: 2017-01-20
 category: international
