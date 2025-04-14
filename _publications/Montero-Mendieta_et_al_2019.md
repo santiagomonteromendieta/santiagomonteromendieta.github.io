@@ -1,6 +1,6 @@
 ---
 title: "The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)"
-authors: Santiago Montero-Mendieta+, Ken Tan+, Matthew J. Christmas, Anna Olsson, Carles Vilà, Andreas Wallberg, Matthew T. Webster
+authors: <b>Santiago Montero-Mendieta</b>+, Ken Tan+, Matthew J. Christmas, Anna Olsson, Carles Vilà, Andreas Wallberg, Matthew T. Webster
 journal: 'Molecular Ecology'
 date: 2018-12-21
 category: international
