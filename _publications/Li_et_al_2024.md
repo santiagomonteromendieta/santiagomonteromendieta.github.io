@@ -1,6 +1,6 @@
 ---
 title: "Discovery of a New Distribution Site for the Crucian Carp Carassius carassius, a First-Class Protected Wild Animal of the Xinjiang Uygur Autonomous Region, in the Irtysh River Basin"
-authors: Xinxin Li, Xiaotong Guan, Zhuning Liu, Yingnan Wang, Chongnv Wang, Santiago Montero-Mendieta, Yahui Zhao, Guoqiang Pan, Biegaresi Tolebek, Hong Qu, Wenxu Lan, Baocheng Guo
+authors: Xinxin Li, Xiaotong Guan, Zhuning Liu, Yingnan Wang, Chongnv Wang, <b>Santiago Montero-Mendieta</b>, Yahui Zhao, Guoqiang Pan, Biegaresi Tolebek, Hong Qu, Wenxu Lan, Baocheng Guo
 journal: 'Chinese Journal of Zoology'
 date: 2024-12-19
 category: local
