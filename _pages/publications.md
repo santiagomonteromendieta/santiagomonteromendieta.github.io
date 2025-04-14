@@ -168,7 +168,7 @@ author_profile: true
                     {{ post.title }}
                 </h3>
                 <div class="publication-authors">
-                    {{ post.authors }}
+                    {{ post.authors | safe }}
                 </div>
                 
                 <!-- Action Bar -->
