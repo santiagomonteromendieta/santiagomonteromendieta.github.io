@@ -1,6 +1,6 @@
 ---
 title: "Large inversions shape diversification and genome evolution in common quails"
-authors: Sara Ravagni+, Santiago Montero-Mendieta+, Jennifer A. Leonard, Matthew T. Webster, Matthew J. Christmas, Ignas Bunikis, José Domingo Rodríguez-Teijeiro, Ines Sanchez-Donoso, Carles Vilà
+authors: Sara Ravagni+, <b>Santiago Montero-Mendieta</b>+, Jennifer A. Leonard, Matthew T. Webster, Matthew J. Christmas, Ignas Bunikis, José Domingo Rodríguez-Teijeiro, Ines Sanchez-Donoso, Carles Vilà
 journal: 'Molecular Ecology'
 date: 2025-4-4
 category: international
