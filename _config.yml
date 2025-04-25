@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Santiago Montero-Mendieta | Evolutionary Biologist & Bioinformatician"
+title                    : "Santiago Montero-Mendieta | Evolutionary Biologist & Genomics Specialist"
 title_separator          : #"-"
 name                     : &name "Santiago Montero-Mendieta"
 description              : &description "Personal website of Dr. Santiago Montero-Mendieta, an evolutionary biologist with extensive experience in genomic data analysis"
