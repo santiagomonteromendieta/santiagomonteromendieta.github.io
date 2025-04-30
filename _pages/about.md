@@ -36,8 +36,7 @@ redirect_from:
   <div class="timeline">
     <div class="timeline-item">
       <h3 style="margin-top: 0;">Postdoctoral Researcher</h3>
-      <p style="margin: 0.5rem 0; color: #777;">Institute of Zoology, Beijing 🇨🇳<br>
-      <small>2021-Present</small></p>
+      <p><strong>2021-Present</strong> | <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (PI: Baocheng Guo), Institute of Zoology, Chinese Academy of Sciences, Beijing 🇨🇳</p>
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">PhD in Evolutionary Biology</h3>
