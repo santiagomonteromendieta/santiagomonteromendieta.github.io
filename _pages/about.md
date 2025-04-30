@@ -39,19 +39,16 @@ redirect_from:
       <p><strong>2021-Present</strong> | <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (PI: Baocheng Guo), Institute of Zoology, Chinese Academy of Sciences, Beijing 🇨🇳</p>
     </div>
     <div class="timeline-item">
-      <h3 style="margin-top: 0;">PhD in Evolutionary Biology</h3>
-      <p style="margin: 0.5rem 0; color: #777;">Doñana Biological Station, Seville 🇪🇸 / Uppsala University 🇸🇪<br>
-      <small>2015-2019</small></p>
+      <h3 style="margin-top: 0;">Ph.D. Researcher</h3>
+      <p><strong>2015-2019</strong> | <a href="https://www.consevol.org/" target="_blank">Conservation and Evolutionary Genetics Group</a> (PI: Carles Vilà), Doñana Biological Station, Spanish National Research Council, Seville 🇪🇸 / <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Webster Lab</a>, Uppsala University 🇸🇪</p>
     </div>
     <div class="timeline-item">
-      <h3 style="margin-top: 0;">MSc in Biodiversity</h3>
-      <p style="margin: 0.5rem 0; color: #777;">University of Barcelona 🇪🇸 / Institute of Evolutionary Biology, Barcelona 🇪🇸<br>
-      <small>2013-2014</small></p>
+      <h3 style="margin-top: 0;">M.Sc. in Biodiversity</h3>
+      p><strong>2013-2014</strong> | University of Barcelona 🇪🇸 / MSc Thesis: <a href="https://www.ibe.upf-csic.es/carranza" target="_blank">Carranza Lab</a>, Institute of Evolutionary Biology, Spanish National Research Council, Barcelona 🇪🇸</p>
     </div>
     <div class="timeline-item">
-      <h3 style="margin-top: 0;">BSc in Biology</h3>
-      <p style="margin: 0.5rem 0; color: #777;">University of Girona 🇪🇸 / Linköping University 🇸🇪<br>
-      <small>2009-2013</small></p>
+      <h3 style="margin-top: 0;">B.Sc. in Biology</h3>
+      <p><strong>2009-2013</strong> | University of Girona 🇪🇸 / BSc Thesis: <a href="https://liu.se/en/employee/matla69" target="_blank">Laska Lab</a>, Linköping University 🇸🇪</p>
     </div>
   </div>
   <a href="/cv/" class="button" style="display: inline-flex; align-items: center; gap: 0.5rem;">
