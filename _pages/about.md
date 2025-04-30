@@ -44,7 +44,7 @@ redirect_from:
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">M.Sc. in Biodiversity</h3>
-      p><strong>2013-2014</strong> | University of Barcelona 🇪🇸 / MSc Thesis: <a href="https://www.ibe.upf-csic.es/carranza" target="_blank">Carranza Lab</a>, Institute of Evolutionary Biology, Spanish National Research Council, Barcelona 🇪🇸</p>
+      <p><strong>2013-2014</strong> | University of Barcelona 🇪🇸 / MSc Thesis: <a href="https://www.ibe.upf-csic.es/carranza" target="_blank">Carranza Lab</a>, Institute of Evolutionary Biology, Spanish National Research Council, Barcelona 🇪🇸</p>
     </div>
     <div class="timeline-item">
       <h3 style="margin-top: 0;">B.Sc. in Biology</h3>
