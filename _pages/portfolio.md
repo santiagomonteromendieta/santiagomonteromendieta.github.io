@@ -175,8 +175,8 @@ author_profile: true
 
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
-    <button class="filter-button" data-filter="interview">Interviews</button>
-    <button class="filter-button" data-filter="spotlight">Spotlights</button>
+    <button class="filter-button" data-filter="interview">Life Updates</button>
+    <button class="filter-button" data-filter="spotlight">Research News</button>
 </div>
 
 <div class="media-grid">
@@ -198,8 +198,8 @@ author_profile: true
         
             <div class="media-meta">
                 <span class="media-type {% if post.source == 'personal' %}personal{% endif %}">
-                    {% if post.category == 'Interview' %}🎤 Interview
-                    {% else %}💡 Spotlight{% endif %}
+                    {% if post.category == 'Interview' %}🚀 Life Updates
+                    {% else %}✨ Research News{% endif %}
                 </span>
                 <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
             </div>
