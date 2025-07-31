@@ -173,7 +173,7 @@ author_profile: true
 
   <p style="color: red; font-weight: bold;">Important Note:</p>
     <ul style="color: red; font-weight: bold;">
-      <li>I currently <span style="text-decoration: underline;">do not</span> have available positions for PhD or MSc students. I'm a postdoc, not a Principal Investigator (PI) (hopefully in the future!).</li>
+      <li>I currently <span style="text-decoration: underline;">do not</span> have available positions for PhD or MSc students. I'm a postdoc, not a Principal Investigator (PI) yet (hopefully in the future!).</li>
       <li>Inquiries that appear to be non-genuine (e.g., AI-generated or generic requests) will not receive a response.</li>
   </ul>
 </div>
