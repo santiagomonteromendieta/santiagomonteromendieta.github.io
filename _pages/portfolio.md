@@ -175,7 +175,7 @@ author_profile: true
 
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
-    <button class="filter-button" data-filter="interview">Life Updates</button>
+    <button class="filter-button" data-filter="life">Life Updates</button>
     <button class="filter-button" data-filter="spotlight">Research News</button>
 </div>
 
