@@ -126,7 +126,7 @@ author_profile: true
 }
 
 .external-indicator {
-    background: #5474B8; /* Your existing blue */
+    background: #B85454; /* Your existing red */
 }
 
 .personal-indicator {
