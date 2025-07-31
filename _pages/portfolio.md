@@ -35,7 +35,7 @@ author_profile: true
 }
 
 .media-type {
-    background: #5474B8;
+    background: #24f0f0;
     color: white;
     padding: 0.3rem 0.8rem;
     border-radius: 15px;
@@ -126,7 +126,7 @@ author_profile: true
 }
 
 .external-indicator {
-    background: #B85454; /* Your existing red */
+    background: #24f0f0; /* Your existing cyan */
 }
 
 .personal-indicator {
