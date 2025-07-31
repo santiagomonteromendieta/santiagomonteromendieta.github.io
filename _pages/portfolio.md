@@ -43,7 +43,7 @@ author_profile: true
 }
 
 .media-type.personal {
-    background: #3F9E5E; /* Green color for personal content */
+    background: #7A4BB8; /* Purple color for personal content */
 }
     
 .media-excerpt {
@@ -126,11 +126,11 @@ author_profile: true
 }
 
 .external-indicator {
-    background: #7A4BB8; /* Your existing purple */
+    background: #3F9E5E; /* Your existing green */
 }
 
 .personal-indicator {
-    background: #3F9E5E; /* Your existing green */
+    background: #7A4BB8; /* Your existing purple */
 }
     
 .media-excerpt {
