@@ -198,7 +198,7 @@ author_profile: true
         
             <div class="media-meta">
                 <span class="media-type {% if post.source == 'personal' %}personal{% endif %}">
-                    {% if post.category == 'Interview' %}🚀 Life Updates
+                    {% if post.category == 'Life Updates' %}🚀 Life Updates
                     {% else %}✨ Research News{% endif %}
                 </span>
                 <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
