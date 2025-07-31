@@ -12,6 +12,12 @@ redirect_from:
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
   <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist fascinated by the molecular basis of life’s diversity. I’m currently a <strong>postdoc</strong> at the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> from the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a>, Chinese Academy of Sciences in Beijing. My research combines <strong>bioinformatics and genomics</strong> to uncover how species adapt and diversify, with a focus on the mechanisms driving animal evolution. During my  career, I've studied a wide range of organisms, from <a href="/portfolio/20210330_oreobates" target="_blank">extremely rare Neotropical frogs</a> to cavefishes and <a href="/portfolio/20181226_csic_press_bees" target="_blank">high-altitude honey bees in China</a>, to understand <strong>how life persists in extreme environments</strong>. This work helps anticipate how key species may respond to future ecological pressures amid global change, informing conservation efforts and supporting industries that depend on healthy ecosystems, like agriculture and fisheries.</p>
 </div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
+  <img src="/images/HYW_2063.jpg" alt="Giving a speech at the opening ceremony of the China-EU Young Scientists Exchange Program in Beijing" style="border-radius: 8px;">
+</div>
+<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">Giving a speech at the opening ceremony of the China-EU Young Scientists Exchange Program in Beijing (July 2025).</p>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
   <img src="/images/santi_with_fish.png" alt="Dr. Montero-Mendieta conducting fish research" style="border-radius: 8px;">
 </div>
@@ -25,7 +31,7 @@ redirect_from:
       <p><strong>2021-Present</strong> | <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> (PI: Baocheng Guo), Institute of Zoology, Chinese Academy of Sciences, Beijing 🇨🇳</p>
     </div>
     <div class="timeline-item">
-      <h3 style="margin-top: 0;">Ph.D. Researcher</h3>
+      <h3 style="margin-top: 0;">Ph.D. Student</h3>
       <p><strong>2015-2020</strong> | <a href="https://www.consevol.org/" target="_blank">Conservation and Evolutionary Genetics Group</a> (PI: Carles Vilà), Doñana Biological Station, Spanish National Research Council, Seville 🇪🇸 / <a href="https://www.katalog.uu.se/profile/?id=N1-581" target="_blank">Webster Lab</a>, Uppsala University 🇸🇪</p>
     </div>
     <div class="timeline-item">
