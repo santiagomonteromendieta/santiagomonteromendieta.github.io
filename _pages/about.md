@@ -10,8 +10,7 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist interested in the molecular basis of life's incredible diversity. I'm a Postdoc at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology, Chinese Academy of Sciences</a> in Beijing, where I work with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. In my research, I combine bioinformatics and genomics to explore how species adapt and diversify. My goal is to understand the mechanisms that shape evolution across the animal kingdom.</p>
-</div>
+  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist fascinated by the molecular basis of life’s diversity. I’m a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a>, Chinese Academy of Sciences in Beijing, where I work with the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a>. My research combines bioinformatics and genomics to uncover how species adapt and diversify, with a focus on the mechanisms driving animal evolution. I've studied a wide range of organisms, from cavefish to high-altitude honey bees in China, to understand how life persists in extreme environments amid global change. This work helps anticipate how key species may respond to future ecological pressures, informing conservation efforts and supporting sectors that depend on healthy ecosystems, like agriculture and fisheries.</div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
   <img src="/images/santi_with_fish.png" alt="Dr. Montero-Mendieta conducting fish research" style="border-radius: 8px;">
