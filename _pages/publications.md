@@ -144,9 +144,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publications</h2>
 
-<p>All my publications and doctoral thesis can be found below.</p> 
-<p>Names marked with a plus sign (+) indicate co-first authorship, though the actual contribution may not be truly equal in some papers. In such unfair cases (undisclosed to avoid potential issues), my role encompassed the majority of conceptualisation, analysis, and manuscript preparation.</p> 
-<p>Happy reading! 📖</p>
+<p>All my publications and doctoral thesis can be found below. Names marked with a plus sign (+) indicate co-first authorship, though the actual contribution may not be truly equal in some papers. In such unfair cases (undisclosed on purpose to avoid potential issues), my role encompassed the majority of conceptualisation, analysis, and manuscript preparation. Happy reading! 📖</p>
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
