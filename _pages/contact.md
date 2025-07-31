@@ -153,7 +153,7 @@ author_profile: true
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Get in Touch</h2>
-  <p style="margin-bottom: 0em;">Thanks for your interest in my work! Feel free to reach out if you'd like to discuss my research, life in China, or potential collaborations. To contact me, use the following form (but please check the important note first!). For editors seeking peer-reviewers, <a href="#reviewer-availability">see below</a>. Looking forward to connecting with you! 😊</p>
+  <p style="margin-bottom: 0em;">Feel free to reach out if you'd like to discuss my research, life in China, or potential collaborations. To contact me, use the following form (but please check the important note first!). For editors seeking peer-reviewers, <a href="#reviewer-availability">see below</a>. Looking forward to connecting with you! 😊</p>
 
   <form id="contact-form" method="post" action="https://formspree.io/f/mrgwblad" style="background: #f8f9fa; padding: 2rem; border-radius: 10px;">
     <div class="form-group">
