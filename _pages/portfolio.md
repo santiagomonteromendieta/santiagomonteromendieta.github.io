@@ -35,7 +35,7 @@ author_profile: true
 }
 
 .media-type {
-    background: #7A4BB8;
+    background: #3F9E5E;
     color: white;
     padding: 0.3rem 0.8rem;
     border-radius: 15px;
