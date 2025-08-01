@@ -14,7 +14,7 @@ redirect_from:
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
-  <img src="/images/HYW_2063.jpg" alt="Giving a speech at the opening ceremony of the China-EU Young Scientists Exchange Program in Beijing" style="border-radius: 8px;">
+  <img src="/images/media/China-EU_Event_2025/HYW_2063.jpg" alt="Giving a speech at the opening ceremony of the China-EU Young Scientists Exchange Program in Beijing" style="border-radius: 8px;">
 </div>
 <p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">Giving a speech at the opening ceremony of the China-EU Young Scientists Exchange Program (Beijing, July 2025).</p>
 
