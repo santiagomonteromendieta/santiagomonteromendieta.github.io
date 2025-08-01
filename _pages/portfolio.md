@@ -169,14 +169,14 @@ author_profile: true
 </style>
 
 <div class="section-card">
-<h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research News & Life Updates</h2>
+<h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Paper News & Stories</h2>
 
-<p>My research journey and publications have been featured in several media outlets; below, I've selected the most relevant ones. Alongside these external highlights (<span class="color-indicator external-indicator"></span>), you'll find original updates written by me (<span class="color-indicator personal-indicator"></span>).</p>
+<p>Welcome to this space where I share highlights from my academic journey. <strong>Paper News</strong> features short explainers of my publications, including background, key findings, and relevance. <strong>Stories</strong> include event participation, interviews, and occasional life updates. Some entries are written by me, while others come from external sources. Entries marked in green (<span class="color-indicator external-indicator"></span>) are external; those in purple (<span class="color-indicator personal-indicator"></span>) are written by me.</p>
 
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
-    <button class="filter-button" data-filter="spotlight">Research News</button>
-    <button class="filter-button" data-filter="life">Life Updates</button>
+    <button class="filter-button" data-filter="spotlight">Paper News</button>
+    <button class="filter-button" data-filter="stories">Stories</button>
 </div>
 
 <div class="media-grid">
@@ -198,8 +198,8 @@ author_profile: true
         
             <div class="media-meta">
                 <span class="media-type {% if post.source == 'personal' %}personal{% endif %}">
-                    {% if post.category == 'Life' %}🚀 Life Updates
-                    {% else %}✨ Research News{% endif %}
+                    {% if post.category == 'Stories' %}🚀 Stories
+                    {% else %}✨ Paper News{% endif %}
                 </span>
                 <span class="media-date">{{ post.date | date: "%B %Y" }}</span>
             </div>
