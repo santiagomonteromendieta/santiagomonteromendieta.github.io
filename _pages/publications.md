@@ -178,6 +178,11 @@ author_profile: true
                         Article
                     </a>
                     {% endif %}
+                    {% if post.poster_url %}
+                    <a href="{{ post.poster_url }}" class="action-button" target="_blank">
+                        Poster
+                    </a>
+                    {% endif %}
                     {% if post.github_url %}
                     <a href="{{ post.github_url }}" class="action-button" target="_blank">
                         GitHub
