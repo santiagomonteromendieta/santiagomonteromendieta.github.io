@@ -8,4 +8,5 @@ collection: publications
 permalink: /publication/Montero-Mendieta_2019
 image: /images/phdthesis_coverpage.png
 pdf_url: /files/phdthesis.pdf
+scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kecK5aoAAAAJ&citation_for_view=kecK5aoAAAAJ:eQOLeE2rZwMC"
 ---
