@@ -58,7 +58,7 @@ author_profile: true
 }
 
 .publication-title {
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin: 0 0 0.5rem;
     line-height: 1.3;
 }
