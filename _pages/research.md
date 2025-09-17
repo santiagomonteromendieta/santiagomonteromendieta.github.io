@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: /research/
 excerpt: "Research"
 author_profile: true
 redirect_from:
