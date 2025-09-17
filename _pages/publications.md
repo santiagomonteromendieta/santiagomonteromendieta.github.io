@@ -185,7 +185,7 @@ author_profile: true
                     {% endif %}
                     {% if post.github_url %}
                     <a href="{{ post.github_url }}" class="action-button" target="_blank">
-                        GitHub
+                        Code
                     </a>
                     {% endif %}
                     {% if post.ncbi_url %}
