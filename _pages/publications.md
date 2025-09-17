@@ -190,12 +190,12 @@ author_profile: true
                     {% endif %}
                     {% if post.ncbi_url %}
                     <a href="{{ post.ncbi_url }}" class="action-button" target="_blank">
-                        BioProject
+                        Data
                     </a>
                     {% endif %}
                     {% if post.cncb_url %}
                     <a href="{{ post.cncb_url }}" class="action-button" target="_blank">
-                        BioProject
+                        Data
                     </a>
                     {% endif %}
                     {% if post.scholar_url %}
