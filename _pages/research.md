@@ -3,9 +3,6 @@ layout: archive
 permalink: /research/
 excerpt: "Research"
 author_profile: true
-redirect_from:
-  - /research/
-  - /research.html
 ---
 
 <div class="section-card">
