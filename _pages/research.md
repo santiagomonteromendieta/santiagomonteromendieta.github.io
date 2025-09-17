@@ -7,7 +7,7 @@ author_profile: true
 
 
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research</h2>
-<p>The origin and maintenance of biodiversity are central questions in evolutionary biology. My research addresses these questions by focusing on two of the most fundamental evolutionary processes: adaptation, the mechanism by which organisms survive in new environments, and speciation, the process by which new species arise. At the heart of my work is the question of how an organism’s genome both encodes the instructions for survival and gives rise to new forms over time. To explore this, my research is structured around three core themes:</p>
+<p>The origin and maintenance of biodiversity are central questions in evolutionary biology. My research addresses these questions by focusing on two of the most fundamental evolutionary processes: <strong>adaptation</strong>, the mechanism by which organisms survive in new environments, and <strong>speciation</strong>, the process by which new species arise. At the heart of my work is the question of how an organism’s genome both encodes the instructions for survival and gives rise to new forms over time. To explore this, my research is structured around three core themes:</p>
 
 <div class="section-card">
   <h3 style="color: #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">1. The Genomic Mechanisms of Adaptation in Extreme Environments</h3>
