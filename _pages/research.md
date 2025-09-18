@@ -16,7 +16,7 @@ author_profile: true
 .topic-box h3 {
   color: #5474B8;
   margin-top: 0;
-  border-bottom: 2px solid #5474B8;
+  padding-bottom: 0.5rem;
 }
 </style>
 
