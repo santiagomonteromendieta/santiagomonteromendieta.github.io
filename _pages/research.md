@@ -35,7 +35,6 @@ author_profile: true
     <div class="small-text">
     <p>Related publications:</p>
     <ul>
-      <li><strong>Montero-Mendieta, S.</strong>+, Wang, Y.+ <i>et al.</i> (2025). Doubled genomes, divergent fates: genomic insights into diversification in an allotetraploid cavefish. Molecular Ecology.</li>
       <li><strong>Montero-Mendieta, S.</strong>, <i>et al.</i> (2021). <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>. Molecular Phylogenetics and Evolution.</li>
       <li><b>Montero-Mendieta, S.</b>+, Tan, K.+, <i>et al.</i> (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>. Molecular Ecology.</li>
     </ul>
