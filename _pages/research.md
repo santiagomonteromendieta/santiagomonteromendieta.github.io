@@ -41,6 +41,8 @@ author_profile: true
     </ul>
     </div>
 
+  <br>
+
   <div class="topic-box">
     <h3>2. Evolutionary Genomics and the Architecture of Speciation</h3>
     <p>The origin of new species is often driven by more than just the slow accumulation of small-scale mutations. I am particularly interested in how large-scale structural changes to the genome can act as powerful catalysts for rapid diversification. My research investigates how events like <strong>chromosomal inversions</strong> and <strong>whole-genome duplications (polyploidy)</strong> fundamentally reshape the evolutionary trajectory of a lineage (<a href="https://global.oup.com/academic/product/speciation-9780878930890?cc=hk&lang=en&" target="_blank">Coyne & Orr, 2004</a>; <a href="https://link.springer.com/book/10.1007/978-3-642-31442-1" target="_blank">Soltis & Soltis, 2012</a>).</p>
@@ -53,6 +55,8 @@ author_profile: true
       <li>Ravagni, S.+, <strong>Montero-Mendieta, S.</strong>+, <i>et al.</i> (2025). <a href="https://doi.org/10.1111/mec.17740" target="_blank">Large inversions shape diversification and genome evolution in common quails</a>. Molecular Ecology.</li>
     </ul>
     </div>
+
+<br>
 
   <div class="topic-box">
     <h3>3. Integrative Systematics and Biodiversity Conservation</h3>
