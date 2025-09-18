@@ -25,7 +25,7 @@ author_profile: true
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research</h2>
-  <p>My investigation focuses on the genomic basis of biodiversity and is structured around three topics:</p>
+  <p>My investigation focuses on the genomic basis of biodiversity and is structured around three main research lines:</p>
 
   <div class="topic-box">
     <h3>1. Genomic Mechanisms of Adaptation in Extreme Environments</h3>
