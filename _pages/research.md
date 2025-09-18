@@ -30,8 +30,8 @@ author_profile: true
     <p>Using comparative genomic approaches, I scan the genomes of adapted populations to identify specific genes and molecular pathways that have been modified by natural selection. This approach allows me to pinpoint the genetic changes underlying key functional innovations, from metabolic adjustments in low-oxygen conditions to the remodeling of sensory systems in the absence of light. A deeper understanding of these adaptive mechanisms is crucial for predicting how vulnerable species may respond to future environmental pressures (<a href="https://pubmed.ncbi.nlm.nih.gov/21350480/" target="_blank">Hoffmann & Sgrò, 2011</a>).</p>
     <p>Related publications:</p>
     <ul>
-      <li><p><strong>Montero-Mendieta, S.</strong>, et al. (2021). <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>. Molecular Phylogenetics and Evolution.</p></li>
-      <li><p><b>Montero-Mendieta, S.</b>+, Tan, K.+, et al. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>. Molecular Ecology.</p></li>
+      <li><strong>Montero-Mendieta, S.</strong>, et al. (2021). <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>. Molecular Phylogenetics and Evolution.</li>
+      <li><b>Montero-Mendieta, S.</b>+, Tan, K.+, et al. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>. Molecular Ecology.</li>
     </ul>
   </div>
 
@@ -41,7 +41,7 @@ author_profile: true
     <p>Chromosomal inversions, for example, can suppress recombination across vast genomic regions, effectively creating "<strong>supergenes</strong>" by locking together sets of co-adapted alleles and facilitating rapid divergence in traits like morphology and behavior (<a href="https://pubmed.ncbi.nlm.nih.gov/20927412/" target="_blank">Kirkpatrick, 2010</a>). In parallel, whole-genome duplication provides a complete second set of genes, creating immediate genetic redundancy and opening novel evolutionary pathways for duplicated genes to acquire new functions (<a href="https://link.springer.com/book/10.1007/978-3-642-86659-3" target="_blank">Ohno, 1970</a>). By studying these powerful architectural drivers, my work seeks to understand their influence on the tempo and mode of evolution.</p>
     <p>Related publications:</p>
     <ul>
-      <li><p><strong>Montero-Mendieta, S.</strong>+, Wang, Y.+c et al. (2025). Doubled genomes, divergent fates: genomic insights into diversification in an allotetraploid cavefish. Molecular Ecology.</p></li>
+      <li><p><strong>Montero-Mendieta, S.</strong>+, Wang, Y.+ et al. (2025). Doubled genomes, divergent fates: genomic insights into diversification in an allotetraploid cavefish. Molecular Ecology.</p></li>
       <li><p>Ravagni, S.+, <strong>Montero-Mendieta, S.</strong>+, et al. (2025). <a href="https://doi.org/10.1111/mec.17740" target="_blank">Large inversions shape diversification and genome evolution in common quails</a>. Molecular Ecology.</p></li>
     </ul> 
   </div>
