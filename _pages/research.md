@@ -30,8 +30,8 @@ author_profile: true
     <p>Using comparative genomic approaches, I scan the genomes of adapted populations to identify specific genes and molecular pathways that have been modified by natural selection. This approach allows me to pinpoint the genetic changes underlying key functional innovations, from metabolic adjustments in low-oxygen conditions to the remodeling of sensory systems in the absence of light. A deeper understanding of these adaptive mechanisms is crucial for predicting how vulnerable species may respond to future environmental pressures (<a href="https://pubmed.ncbi.nlm.nih.gov/21350480/" target="_blank">Hoffmann & Sgrò, 2011</a>).</p>
     <p>Related publications:</p>
     <ul>
-      <li><strong>Montero-Mendieta, S.</strong>, et al. (2021). <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>. Molecular Phylogenetics and Evolution.</li>
-      <li><b>Montero-Mendieta, S.</b>+, Tan, K.+, et al. (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>. Molecular Ecology.</li>
+      <li><strong>Montero-Mendieta, S.</strong>, <i>et al.</i> (2021). <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>. Molecular Phylogenetics and Evolution.</li>
+      <li><b>Montero-Mendieta, S.</b>+, Tan, K.+, <i>et al.</i> (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>. Molecular Ecology.</li>
     </ul>
   </div>
 
@@ -41,8 +41,8 @@ author_profile: true
     <p>Chromosomal inversions, for example, can suppress recombination across vast genomic regions, effectively creating "<strong>supergenes</strong>" by locking together sets of co-adapted alleles and facilitating rapid divergence in traits like morphology and behavior (<a href="https://pubmed.ncbi.nlm.nih.gov/20927412/" target="_blank">Kirkpatrick, 2010</a>). In parallel, whole-genome duplication provides a complete second set of genes, creating immediate genetic redundancy and opening novel evolutionary pathways for duplicated genes to acquire new functions (<a href="https://link.springer.com/book/10.1007/978-3-642-86659-3" target="_blank">Ohno, 1970</a>). By studying these powerful architectural drivers, my work seeks to understand their influence on the tempo and mode of evolution.</p>
     <p>Related publications:</p>
     <ul>
-      <li><p><strong>Montero-Mendieta, S.</strong>+, Wang, Y.+ et al. (2025). Doubled genomes, divergent fates: genomic insights into diversification in an allotetraploid cavefish. Molecular Ecology.</p></li>
-      <li><p>Ravagni, S.+, <strong>Montero-Mendieta, S.</strong>+, et al. (2025). <a href="https://doi.org/10.1111/mec.17740" target="_blank">Large inversions shape diversification and genome evolution in common quails</a>. Molecular Ecology.</p></li>
+      <li><strong>Montero-Mendieta, S.</strong>+, Wang, Y.+ <i>et al.</i> (2025). Doubled genomes, divergent fates: genomic insights into diversification in an allotetraploid cavefish. Molecular Ecology.</li>
+      <li>Ravagni, S.+, <strong>Montero-Mendieta, S.</strong>+, <i>et al.</i> (2025). <a href="https://doi.org/10.1111/mec.17740" target="_blank">Large inversions shape diversification and genome evolution in common quails</a>. Molecular Ecology.</li>
     </ul> 
   </div>
 
@@ -50,6 +50,11 @@ author_profile: true
     <h3>3. Integrative Systematics and Biodiversity Conservation</h3>
     <p>A significant fraction of global biodiversity remains undiscovered, often because it is concealed within "<strong>cryptic species</strong>" complexes—groups of morphologically similar but genetically distinct lineages (<a href="https://pubmed.ncbi.nlm.nih.gov/17129636/" target="_blank">Bickford et al., 2007</a>). A part of my research is dedicated to discovering and describing this hidden diversity using a multi-evidence approach that synthesizes data from different biological disciplines.</p>
     <p>This work often begins with broad-scale genetic surveys using tools like <strong>DNA barcoding</strong>, which provide a rapid and cost-effective method for identifying deeply divergent lineages and mapping biodiversity hotspots (<a href="https://pubmed.ncbi.nlm.nih.gov/12614582/" target="_blank">Hebert et al., 2003</a>). To test the species hypotheses that emerge, I then integrate genome-wide data with detailed analyses of <strong>morphology</strong>, <strong>bioacoustics</strong>, and <strong>ecological data</strong>. This approach not only provides robust evidence for species delimitation but also has direct conservation applications, helping to identify unique evolutionary units, refine their distribution maps, and guide management decisions for vulnerable populations and ecosystems worldwide (<a href="https://www.cambridge.org/highereducation/books/introduction-to-conservation-genetics/696B4E558C93F7FBF9C33D6358EA7425#overview" target="_blank">Frankham et al., 2002</a>).</p>
+  <ul>
+    <li>Rodriguez, A., Dugo-Cota, A., <strong>Montero-Mendieta, S.</strong>, <i>et al.</i> (2017). <a href="https://doi.org/10.11646/zootaxa.4221.5.1" target="_blank">Cryptic within cryptic: genetics, morphometrics, and bioacoustics delimitate a new species of Eleutherodactylus (Anura: Eleutherodactylidae) from Eastern Cuba</a>. Zootaxa.</li>
+    <li>Vasconcelos, R.+, <strong>Montero-Mendieta, S.</strong>+, <i>et al.</i> (2016). <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">Unexpectedly High Levels of Cryptic Diversity Uncovered by a Complete DNA Barcoding of Reptiles of the Socotra Archipelago</a>. PLOS One.</li>
+  </ul>
+    
   </div>
   
 </div>
