@@ -43,7 +43,7 @@ author_profile: true
     <ul>
       <li><p><strong>Montero-Mendieta, S.</strong>+, Wang, Y.+c et al. (2025). Doubled genomes, divergent fates: genomic insights into diversification in an allotetraploid cavefish. Molecular Ecology.</p></li>
       <li><p>Ravagni, S.+, <strong>Montero-Mendieta, S.</strong>+, et al. (2025). <a href="https://doi.org/10.1111/mec.17740" target="_blank">Large inversions shape diversification and genome evolution in common quails</a>. Molecular Ecology.</p></li>
-    <ul> 
+    </ul> 
   </div>
 
   <div class="topic-box">
