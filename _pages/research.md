@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /research/
-excerpt: "Research"
+excerpt: "Research Interests"
 author_profile: true
 ---
 
@@ -24,7 +24,7 @@ author_profile: true
 </style>
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research</h2>
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Research Interests</h2>
   <p>My investigation focuses on the genomic basis of biodiversity and is divided in three main research lines:</p>
 
   <div class="topic-box">
