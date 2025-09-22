@@ -31,6 +31,11 @@ author_profile: true
     <h3>1. Genomic Mechanisms of Adaptation in Extreme Environments</h3>
     <p>A central question in evolutionary biology is how organisms adapt to survive in challenging environments. My research tackles this question by focusing on species that have colonized extreme habitats, such as the high-altitude plateaus of Asia or the perpetual darkness of subterranean caves. These settings act as natural laboratories for studying evolution in action, allowing us to explore the dynamic interplay between <strong>positive selection</strong>, which favors new, advantageous traits, and <strong>relaxed selection</strong>, which can lead to the degradation of traits that are no longer essential (<a href="https://pubmed.ncbi.nlm.nih.gov/19500875/" target="_blank">Lahti et al., 2009</a>).</p>
     <p>Using comparative genomic approaches, I scan the genomes of adapted populations to identify specific genes and molecular pathways that have been modified by natural selection. This approach allows me to pinpoint the genetic changes underlying key functional innovations, from metabolic adjustments in low-oxygen conditions to the remodeling of sensory systems in the absence of light. A deeper understanding of these adaptive mechanisms is crucial for predicting how vulnerable species may respond to future environmental pressures (<a href="https://pubmed.ncbi.nlm.nih.gov/21350480/" target="_blank">Hoffmann & Sgrò, 2011</a>).</p>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem; margin: 2rem 0;">
+    <img src="/images/research/extreme_adaptation.jpg" alt="extreme_adaptation" style="max-height: 400px; max-width: 400px; border-radius: 8px; width: 100%;">
+  </div>
+    
 </div>
     <div class="small-text">
     <p>Related publications:</p>
