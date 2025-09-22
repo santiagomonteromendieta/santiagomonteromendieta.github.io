@@ -25,7 +25,7 @@ author_profile: true
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1rem;
-  margin: 2rem 0 0rem 0;
+  margin: 1rem 0 0rem 0;
 }
 .grid-container img {
   width: 100%;
