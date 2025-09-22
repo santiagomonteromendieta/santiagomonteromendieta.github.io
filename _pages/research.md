@@ -84,6 +84,9 @@ author_profile: true
     <h3>3. Integrative Systematics and Biodiversity Conservation</h3>
     <p>A significant fraction of global biodiversity remains undiscovered, often because it is concealed within "<strong>cryptic species</strong>" complexes—groups of morphologically similar but genetically distinct lineages (<a href="https://pubmed.ncbi.nlm.nih.gov/17129636/" target="_blank">Bickford et al., 2007</a>). A part of my research is dedicated to discovering and describing this hidden diversity using a multi-evidence approach that synthesizes data from different biological disciplines.</p>
     <p>This work often begins with broad-scale genetic surveys using tools like <strong>DNA barcoding</strong>, which provide a rapid and cost-effective method for identifying deeply divergent lineages and mapping biodiversity hotspots (<a href="https://pubmed.ncbi.nlm.nih.gov/12614582/" target="_blank">Hebert et al., 2003</a>). To test the species hypotheses that emerge, I then integrate genome-wide data with detailed analyses of <strong>morphological</strong> and <strong>ecological</strong> data. This approach not only provides robust evidence for species delimitation but also has direct conservation applications, helping to identify unique evolutionary units, refine their distribution maps, and guide management decisions for vulnerable populations and ecosystems worldwide (<a href="https://www.cambridge.org/highereducation/books/introduction-to-conservation-genetics/696B4E558C93F7FBF9C33D6358EA7425#overview" target="_blank">Frankham et al., 2002</a>).</p>
+    <div class="grid-container">
+      <img src="/images/research/phylogeny_socotra_reptiles.jpg" alt="phylogeny_socotra_reptiles">
+    </div> 
 </div>
   <div class="small-text">
     <p>Related publications:</p>
