@@ -33,7 +33,7 @@ author_profile: true
     <p>Using comparative genomic approaches, I scan the genomes of adapted populations to identify specific genes and molecular pathways that have been modified by natural selection. This approach allows me to pinpoint the genetic changes underlying key functional innovations, from metabolic adjustments in low-oxygen conditions to the remodeling of sensory systems in the absence of light. A deeper understanding of these adaptive mechanisms is crucial for predicting how vulnerable species may respond to future environmental pressures (<a href="https://pubmed.ncbi.nlm.nih.gov/21350480/" target="_blank">Hoffmann & Sgrò, 2011</a>).</p>
 
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem; margin: 2rem 0;">
-    <img src="/images/research/extreme_adaptation.jpg" alt="extreme_adaptation" style="max-height: 700px; max-width: 700px; border-radius: 8px; width: 100%;">
+    <img src="/images/research/extreme_adaptation.jpg" alt="extreme_adaptation" style="max-height: 500px; max-width: 500px; border-radius: 8px; width: 100%;">
   </div>
     
 </div>
