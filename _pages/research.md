@@ -55,8 +55,8 @@ author_profile: true
     <div class="small-text">
     <p>Related publications:</p>
     <ul>
-      <li><strong>Montero-Mendieta, S.</strong>, <i>et al.</i> (2021). <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>. Molecular Phylogenetics and Evolution.</li>
       <li><b>Montero-Mendieta, S.</b>+, Tan, K.+, <i>et al.</i> (2019). <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.14986" target="_blank">The genomic basis of adaptation to high-altitude habitats in the eastern honey bee (Apis cerana)</a>. Molecular Ecology.</li>
+      <li><strong>Montero-Mendieta, S.</strong>, <i>et al.</i> (2021). <a href="https://doi.org/10.1016/j.ympev.2021.107167" target="_blank">Phylogenomics and evolutionary history of Oreobates (Anura: Craugastoridae) Neotropical frogs along elevational gradients</a>. Molecular Phylogenetics and Evolution.</li>
     </ul>
     </div>
 
@@ -91,9 +91,9 @@ author_profile: true
   <div class="small-text">
     <p>Related publications:</p>
     <ul>
+      <li>Vasconcelos, R.+, <strong>Montero-Mendieta, S.</strong>+, <i>et al.</i> (2016). <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">Unexpectedly High Levels of Cryptic Diversity Uncovered by a Complete DNA Barcoding of Reptiles of the Socotra Archipelago</a>. PLOS One.</li>
       <li><strong>Montero-Mendieta, S.</strong>, <i>et al.</i> (2017). <a href="https://www.zobodat.at/publikation_articles.php?id=307038" target="_blank">Another record or a new taxon? A candidate species of Chalcides Laurenti, 1768, in North Africa (Squamata: Sauria: Scincidae)</a>. Herpetozoa.</li>
       <li>Rodriguez, A., Dugo-Cota, A., <strong>Montero-Mendieta, S.</strong>, <i>et al.</i> (2017). <a href="https://doi.org/10.11646/zootaxa.4221.5.1" target="_blank">Cryptic within cryptic: genetics, morphometrics, and bioacoustics delimitate a new species of Eleutherodactylus (Anura: Eleutherodactylidae) from Eastern Cuba</a>. Zootaxa.</li>
-      <li>Vasconcelos, R.+, <strong>Montero-Mendieta, S.</strong>+, <i>et al.</i> (2016). <a href="https://doi.org/10.1371/journal.pone.0149985" target="_blank">Unexpectedly High Levels of Cryptic Diversity Uncovered by a Complete DNA Barcoding of Reptiles of the Socotra Archipelago</a>. PLOS One.</li>
     </ul>
   </div>
   
