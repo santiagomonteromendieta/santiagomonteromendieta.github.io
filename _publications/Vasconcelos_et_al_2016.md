@@ -6,6 +6,7 @@ date: 2016-03-01
 category: international
 collection: publications
 doi: 10.1371/journal.pone.0149985
+ncbi_url: "https://portal.boldsystems.org/result?query=RESOC"
 permalink: /publication/Vasconcelos_et_al_2016
 image: /images/thumbs/2-Vasconcelos_et_al_2016.png
 pdf_url: /files/articles/2-Vasconcelos_et_al_2016.pdf
