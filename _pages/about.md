@@ -59,7 +59,7 @@ redirect_from:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
   <img src="/images/group_pictures/CONSEVOL_2016.jpg" alt="CONSEVOL 2016" style="border-radius: 8px;">
 </div>
-<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">The annual meeting of the Conservation and Evolutionary Genetics Group (CONSEVOL), Doñana Biological Station, Spanish National Research Council (Sevilla, December 2016).</p>
+<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">Annual meeting of the Conservation and Evolutionary Genetics Group (CONSEVOL), Doñana Biological Station, Spanish National Research Council (Sevilla, December 2016).</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
   <img src="/images/group_pictures/carranza_lab_2013.jpg" alt="Carranza lab 2013" style="border-radius: 8px;">
