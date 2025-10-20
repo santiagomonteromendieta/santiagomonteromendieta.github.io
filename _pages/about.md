@@ -52,12 +52,17 @@ redirect_from:
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
-  <img src="/images/FEGG_2024_annual_meeting.jpg" alt="Research group photo" style="border-radius: 8px;">
+  <img src="/images/FEGG_2024_annual_meeting.jpg" alt="FEGG 2025" style="border-radius: 8px;">
 </div>
 <p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">Annual meeting of the Fish Evolution and Genomics Group (Beijing, January 2025).</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
-  <img src="/images/FEGG_2023.jpg" alt="Research group photo" style="border-radius: 8px;">
+  <img src="/images/FEGG_2023.jpg" alt="FEGG 2023" style="border-radius: 8px;">
+</div>
+<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">The Carranza Lab at the Institute of Evolutionary Biology, Spanish National Research Council (Barcelona, November 2013).</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
+  <img src="/images/FEGG_2023.jpg" alt="Carranza lab 2013" style="border-radius: 8px;">
 </div>
 <p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">The Fish Evolution and Genomics Group at the Institute of Zoology, Chinese Academy of Sciences (Beijing, January 2023).</p>
 
