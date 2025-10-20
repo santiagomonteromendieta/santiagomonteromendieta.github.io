@@ -14,7 +14,7 @@ redirect_from:
 
   <p>I’m especially interested in how genetic variation fuels innovation — how organisms adjust, specialize, and sometimes reinvent themselves to meet the challenges of extreme environments. To answer these questions, I've studied a variety of organisms, including <a href="/portfolio/20210330_oreobates" target="_blank">some of the world’s rarest Neotropical frogs</a>, as well as <a href="/portfolio/20181226_csic_press_bees" target="_blank">high-altitude honey bees</a>, and <a href="/portfolio/20251014_microphthalmus_news" target="_blank">cavefishes adapted to perpetual darkness</a> in China.</p> 
     
-  <p>By uncovering the genomic foundations of adaptation, I aim to understand how species might respond to future environmental changes, helping guide conservation and supporting ecosystems that people rely on, like agriculture and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/" target="_blank">Research</a>. Thanks for your interest in my work!</p>
+  <p>By uncovering the genomic foundations of adaptation, I aim to understand how species might respond to future environmental changes, helping guide conservation and supporting industries that depend on healthy ecosystems, like agriculture and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/" target="_blank">Research</a>. Thanks for your interest in my work!</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
