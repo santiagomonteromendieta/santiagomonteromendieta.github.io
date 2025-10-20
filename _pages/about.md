@@ -10,11 +10,11 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist fascinated by the molecular basis of life’s diversity. I’m currently a <strong>postdoc</strong> at the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> from the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a>, Chinese Academy of Sciences in Beijing. My <a href="https://santiagomonteromendieta.github.io/research/" target="_blank">research</a> combines bioinformatics and genomics to uncover how species adapt and diversify, with a focus on the mechanisms driving animal evolution.</p> 
+  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist fascinated by how life’s incredible diversity came to be. I’m currently a <strong>Postdoctoral Researcher</strong> at the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> from the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a>, Chinese Academy of Sciences in Beijing, where I use genomics and bioinformatics to explore the molecular foundations of evolution.</p> 
+
+  <p>I’m especially interested in how genetic variation fuels innovation — how organisms adjust, specialize, and sometimes reinvent themselves to meet the challenges of extreme environments. To answer these questions, I've studied a variety of organisms, including <a href="/portfolio/20210330_oreobates" target="_blank">some of the world’s rarest Neotropical frogs</a>, as well as <a href="/portfolio/20181226_csic_press_bees" target="_blank">high-altitude honey bees</a>, and <a href="/portfolio/20251014_microphthalmus_news" target="_blank">cavefishes adapted to perpetual darkness</a> in China.</p> 
     
-  <p>During my career, I've studied a wide range of organisms—from <a href="/portfolio/20210330_oreobates" target="_blank">extremely rare Neotropical frogs</a> to <a href="/portfolio/20251014_microphthalmus_news" target="_blank">cavefishes</a> and <a href="/portfolio/20181226_csic_press_bees" target="_blank">high-altitude honey bees in China</a>—to understand <strong>how life persists in extreme environments</strong>, a line of research I’m particularly passionate about.</p> 
-    
-  <p>This work helps anticipate how key species may respond to future ecological pressures amid global change, informing conservation efforts and supporting industries that depend on healthy ecosystems, like agriculture and fisheries. Thanks for your interest!</p>
+  <p>By revealing the genomic foundations of adaptation, this work helps predict how species may respond to future ecological pressures amid global change, informing conservation efforts and supporting industries that depend on healthy ecosystems, like agriculture and fisheries. Thanks for your interest!</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
