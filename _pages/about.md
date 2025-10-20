@@ -59,12 +59,12 @@ redirect_from:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
   <img src="/images/FEGG_2023.jpg" alt="FEGG 2023" style="border-radius: 8px;">
 </div>
-<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">The Carranza Lab at the Institute of Evolutionary Biology, Spanish National Research Council (Barcelona, November 2013).</p>
+<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">The Fish Evolution and Genomics Group at the Institute of Zoology, Chinese Academy of Sciences (Beijing, January 2023).</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
-  <img src="/images/FEGG_2023.jpg" alt="Carranza lab 2013" style="border-radius: 8px;">
+  <img src="/images/group_pictures/carranza_lab_2013.jpg" alt="Carranza lab 2013" style="border-radius: 8px;">
 </div>
-<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">The Fish Evolution and Genomics Group at the Institute of Zoology, Chinese Academy of Sciences (Beijing, January 2023).</p>
+<p style="text-align: left; margin-top: 8px; font-size: 12px; color: #777; font-style: italic;">The Carranza Lab at the Institute of Evolutionary Biology, Spanish National Research Council (CSIC)-Pompeu Fabra University (Barcelona, November 2013).</p>
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Funding</h2>
