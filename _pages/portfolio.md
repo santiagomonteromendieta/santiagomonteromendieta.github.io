@@ -171,7 +171,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Paper News & Stories</h2>
 
-<p>Welcome to this space where I share highlights from my academic journey. <strong>Paper News</strong> features short explainers of my publications, including background, key findings, and relevance. <strong>Stories</strong> include event participation, interviews, and occasional life updates. Entries marked in green (<span class="color-indicator external-indicator"></span>) were first published by external outlets, while those in purple (<span class="color-indicator personal-indicator"></span>) are exclusive to this website.</p>
+<p>Welcome to this space where I share highlights from my academic journey. <strong>Paper News</strong> features short explainers of my publications, including background, key findings, and relevance. <strong>Stories</strong> include event participation, interviews, and occasional life updates. Entries marked in green (<span class="color-indicator external-indicator"></span>) were first published by external outlets, while those in purple (<span class="color-indicator personal-indicator"></span>) are original to this website.</p>
 
 <div class="filter-buttons">
     <button class="filter-button active" data-filter="all">All</button>
