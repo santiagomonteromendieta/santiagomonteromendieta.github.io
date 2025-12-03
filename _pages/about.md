@@ -12,7 +12,7 @@ redirect_from:
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
   <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist that specializes in using comparative genomics and bioinformatics to understand how life’s incredible diversity came to be.</p> 
     
-  <p>🔬 As a postdoctoral researcher at the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> from the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a>, Chinese Academy of Sciences in Beijing, I investigate how organisms adjust, specialize, and sometimes reinvent themselves to meet the challenges of extreme environments.</p> 
+  <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I investigate how organisms adjust, specialize, and sometimes reinvent themselves to meet the challenges of extreme environments.</p> 
 
   <p>🐟 To tackle these questions, I've studied a diverse range of animals — from <a href="/portfolio/20210330_oreobates">some of the world’s rarest Neotropical frogs</a>, to <a href="/portfolio/20181226_csic_press_bees">high-altitude honey bees</a> and <a href="/portfolio/20251014_microphthalmus_news">cavefishes adapted to perpetual darkness</a> in China.</p> 
     
