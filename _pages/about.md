@@ -20,7 +20,7 @@ redirect_from:
 
   <p>☕️ I'm always eager to connect with others passionate about evolution, genomics, or science communication. Feel free to reach out for collaborations, discussions, or speaking opportunities.</p>
     
-  <p>Thanks for your interest!</p>
+  <p>Thanks for your interest! :-)</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
