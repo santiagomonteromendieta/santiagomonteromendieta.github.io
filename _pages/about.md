@@ -18,7 +18,7 @@ redirect_from:
     
   <p>🌍 My goal is to understand how species might respond to future environmental changes, informing conservation strategies and supporting industries like agriculture and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
 
-  <p>☕️ I'm always eager to connect with others passionate about evolution, genomics, or science communication. Feel free to reach out for collaborations, discussions, or speaking opportunities! :-)</p>
+  <p>☕️ I'm always eager to connect with others passionate about evolution, genomics, or science communication. Feel free to reach out for collaborations, discussions, or speaking opportunities.</p>
     
   <p>Thanks for your interest!</p>
 </div>
