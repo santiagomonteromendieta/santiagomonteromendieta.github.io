@@ -10,13 +10,17 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist fascinated by how life’s incredible diversity came to be. I’m currently a postdoctoral researcher at the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> from the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a>, Chinese Academy of Sciences in Beijing, where I use genomics and bioinformatics to explore how heritable variation drives evolutionary innovation.</p> 
+  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist that specializes in using comparative genomics and bioinformatics to understand how life’s incredible diversity came to be.</p> 
+    
+  <p>🔬 As a postdoctoral researcher at the <a href="https://guolaboratory.com/" target="_blank">Fish Evolution and Genomics Group</a> from the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a>, Chinese Academy of Sciences in Beijing, I investigate how organisms adjust, specialize, and sometimes reinvent themselves to meet the challenges of extreme environments.</p> 
 
-  <p>I’m especially interested in how organisms adjust, specialize, and sometimes reinvent themselves to meet the challenges of extreme environments. To tackle these questions, I've studied a variety of animals, including <a href="/portfolio/20210330_oreobates">some of the world’s rarest Neotropical frogs</a>, as well as <a href="/portfolio/20181226_csic_press_bees">high-altitude honey bees</a>, and <a href="/portfolio/20251014_microphthalmus_news">cavefishes adapted to perpetual darkness</a> in China, among others.</p> 
+  <p>🐟 To tackle these questions, I've studied a diverse range of animals — from <a href="/portfolio/20210330_oreobates">some of the world’s rarest Neotropical frogs</a>, to <a href="/portfolio/20181226_csic_press_bees">high-altitude honey bees</a> and <a href="/portfolio/20251014_microphthalmus_news">cavefishes adapted to perpetual darkness</a> in China.</p> 
     
-  <p>By uncovering the genetic foundations of adaptation, I aim to understand how species might respond to future environmental changes, helping guide conservation and supporting industries that depend on healthy ecosystems, like agriculture and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p> 
+  <p>🌍 My goal is to understand how species might respond to future environmental changes, informing conservation strategies and supporting industries like agriculture and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
+
+  <p>☕️ I'm always eager to connect with others passionate about evolution, genomics, or science communication. Feel free to reach out for collaborations, discussions, or speaking opportunities! :-)</p>
     
-  <p>Thanks for your interest in my work!</p>
+  <p>Thanks for your interest!</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
