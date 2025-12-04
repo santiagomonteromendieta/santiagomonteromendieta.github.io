@@ -13,4 +13,5 @@ pdf_url: /files/articles/10-Ravagni_et_al_2025.pdf
 article_url: "https://doi.org/10.1111/mec.17740"
 poster_url: /images/posters/quail_poster_SMBE_2025_Beijing.jpg
 scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kecK5aoAAAAJ&citation_for_view=kecK5aoAAAAJ:8k81kl-MbHgC"
+news_url: "https://santiagomonteromendieta.github.io/portfolio/20250319_quails"
 ---
