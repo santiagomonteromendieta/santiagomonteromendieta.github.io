@@ -203,6 +203,11 @@ author_profile: true
                         Google Scholar
                     </a>
                     {% endif %}
+                    {% if post.news_url %}
+                    <a href="{{ post.news_url }}" class="action-button" target="_blank">
+                        News
+                    </a>
+                    {% endif %}
                     {% if post.pdf_url %}
                     <a href="{{ post.pdf_url }}" class="download-button" target="_blank">
                         <svg viewBox="0 0 24 24">
