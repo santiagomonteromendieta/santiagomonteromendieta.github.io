@@ -178,9 +178,9 @@ author_profile: true
                         Article
                     </a>
                     {% endif %}
-                    {% if post.poster_url %}
-                    <a href="{{ post.poster_url }}" class="action-button" target="_blank">
-                        Poster
+                    {% if post.news_url %}
+                    <a href="{{ post.news_url }}" class="action-button">
+                        News
                     </a>
                     {% endif %}
                     {% if post.github_url %}
@@ -198,14 +198,14 @@ author_profile: true
                         Data
                     </a>
                     {% endif %}
+                    {% if post.poster_url %}
+                    <a href="{{ post.poster_url }}" class="action-button" target="_blank">
+                        Poster
+                    </a>
+                    {% endif %}
                     {% if post.scholar_url %}
                     <a href="{{ post.scholar_url }}" class="action-button" target="_blank">
                         Google Scholar
-                    </a>
-                    {% endif %}
-                    {% if post.news_url %}
-                    <a href="{{ post.news_url }}" class="action-button">
-                        News
                     </a>
                     {% endif %}
                     {% if post.pdf_url %}
