@@ -204,7 +204,7 @@ author_profile: true
                     </a>
                     {% endif %}
                     {% if post.news_url %}
-                    <a href="{{ post.news_url }}" class="action-button" target="_blank">
+                    <a href="{{ post.news_url }}" class="action-button">
                         News
                     </a>
                     {% endif %}
