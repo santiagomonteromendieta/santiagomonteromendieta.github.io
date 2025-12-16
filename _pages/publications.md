@@ -199,7 +199,7 @@ author_profile: true
                     </a>
                     {% endif %}
                     {% if post.poster_url %}
-                    <a href="{{ post.poster_url }}" class="action-button">
+                    <a href="{{ post.poster_url }}" class="action-button" target="_blank">
                         Poster
                     </a>
                     {% endif %}
