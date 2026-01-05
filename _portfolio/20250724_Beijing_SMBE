@@ -1,0 +1,75 @@
+---
+category: Stories
+date: 2025-07-24
+title: "Highlights from SMBE 2025 in Beijing: Cavefish, Quails, and Evolution"
+excerpt: "<img src='/images/media/SMBE_2025/SMBE2025_Cavefish_Poster_Presentation.jpg'>"
+excerpt_text: "This July, I had the pleasure of attending the SMBE 2025 meeting in Beijing. It was an incredible week of sharing research on cavefish genomics and quail evolution while connecting with the global molecular biology community."
+source: personal
+collection: portfolio
+hide_footer: true
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .img_caption {
+            font-size: 12px;
+            font-style: italic;
+            color: #777;
+            margin-top: 8px;
+        }
+        h4 {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        blockquote {
+            font-size: 16px;
+            font-style: italic;
+            color: #555;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+            margin: 20px 0;
+        }
+        .highlight {
+            color: rgb(84, 116, 184); /* Your specified blue */
+            font-weight: bold;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+	<p>This July was a bit different from my usual routine in Beijing. Instead of my computer work, I joined over a thousand scientists for <b>SMBE 2025</b>. It was a milestone event—the first time this meeting has been held in China—and it felt great to see so many colleagues finally visiting the city where I do my research.</p>
+	
+    <div class="img_caption none" style="max-width: 100%;">
+        <img src="/images/media/SMBE_2025/SMBE2025_Main_Stage.jpg" alt="The main stage of the SMBE 2025 meeting in Beijing." title="SMBE 2025 Stage" style="width: 100%; height: auto; display: block;">
+        <p class="img_caption">The impressive main stage of the SMBE 2025 meeting in Beijing, setting the scene for a week of world-class science.</p>
+    </div>
+	
+	<p>Between the keynote speeches and the specialized sessions, I spent a lot of time learning from colleagues. The diversity of topics—from population genetics to ancient DNA—was truly inspiring.</p>
+	
+    <div class="img_caption none" style="max-width: 100%;">
+        <img src="/images/media/SMBE_2025/SMBE2025_Listening_Session.jpg" alt="Listening to a presentation during a plenary session." title="Attending sessions" style="width: 100%; height: auto; display: block;">
+        <p class="img_caption">Deep in thought while listening to the latest research during one of the plenary sessions.</p>
+    </div>
+
+    <p>When it was time for the poster sessions, I had the chance to present our work on <span class="highlight">cavefish genomics</span>. It was a busy couple of hours explaining how these animals adapt to extreme environments and receiving some very useful feedback from the audience.</p>
+	
+    <div class="img_caption none" style="max-width: 100%;">
+        <img src="/images/media/SMBE_2025/SMBE2025_Cavefish_Poster_Presentation.jpg" alt="Explaining my cavefish poster to the audience." title="Cavefish Poster Presentation" style="width: 100%; height: auto; display: block;">
+        <p class="img_caption">Explaining the genomic mysteries of cavefish adaptation to a curious audience.</p>
+    </div>
+	
+	<p>I also presented a second poster, this time on our <span class="highlight">quail research</span>. It was great to see so much interest from different researchers, and we had some excellent discussions about avian evolution and genomics right there at the board.</p>
+	
+    <div class="img_caption none" style="max-width: 100%;">
+        <img src="/images/media/SMBE_2025/SMBE2025_Quail_Poster_Presentation.jpg" alt="Discussing the quail poster with a group of attendees." title="Quail Poster Discussion" style="width: 100%; height: auto; display: block;">
+        <p class="img_caption">A lively group discussion around our quail poster during the evening session.</p>
+    </div>
+    
+	<p>Overall, it was a very rewarding week. Having the "world" of molecular evolution come to my home city was a fantastic experience, and I’m glad to have been a part of this first Chinese SMBE.</p>
+	
+</body>
+</html>
