@@ -37,6 +37,16 @@ hide_footer: true
             font-weight: bold;
             font-style: italic;
         }
+        /* New style for the poster link block */
+        .poster-link {
+            font-size: 14px;
+            font-style: normal;
+            font-weight: bold;
+            color: #34495e;
+            border-left: 4px solid #1abc9c; /* A different color to stand out */
+            padding-left: 15px;
+            margin: 20px 0;
+        }
     </style>
 </head>
 <body>
@@ -59,6 +69,10 @@ hide_footer: true
 
     <p>Our research, <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.70118" target="_blank">now published in Molecular Ecology</a>, reveals a fascinating evolutionary strategy. We found that the two genomes evolve asymmetrically: one subgenome rapidly changes and innovates, allowing for the quick loss of useless traits like vision, while its partner acts as a stable backup, preserving essential life functions. It's a beautiful example of evolution having a safety net while taking risks.</p>
 	
+    <blockquote class="poster-link">
+        <a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/posters/cavefish_poster_SMBE_2025_Beijing.jpg" target="_blank">→ View the full Cavefish Poster here</a>
+    </blockquote>
+
     <div class="img_caption none" style="max-width: 100%;">
         <img src="/images/media/SMBE_2025/SMBE2025_Cavefish_Poster_Presentation.jpg" alt="Explaining my cavefish poster to the audience." title="Cavefish Poster Presentation" style="width: 100%; height: auto; display: block;">
         <p class="img_caption">Explaining how a duplicated genome helps cavefish adapt to life in complete darkness.</p>
@@ -67,6 +81,10 @@ hide_footer: true
 	<p>I also presented a second poster on our <span class="highlight">common quail research</span>, which tackles a completely different kind of evolutionary mystery. Quails are highly migratory, so we'd expect their genes to be well-mixed. But they're not. We see physically distinct birds in the same regions, which led us to uncover massive 'supergenes'—huge chunks of flipped chromosomes called inversions—that drive these differences.</p>
 
     <p>Our study, also <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.17740" target="_blank">recently published in Molecular Ecology</a>, delves deeper into this phenomenon. The big surprise was discovering two different inversion systems with completely different 'fates'. One is a young, 'local' supergene that creates the darker, heavier birds in a specific region. But the other is an ancient, widespread 'engine' that generates hidden genetic diversity across the entire species and is evolving incredibly rapidly.</p>
+    
+    <blockquote class="poster-link">
+        <a href="https://raw.githubusercontent.com/santiagomonteromendieta/santiagomonteromendieta.github.io/master/images/posters/quail_poster_SMBE_2025_Beijing.jpg" target="_blank">→ View the full Quail Poster here</a>
+    </blockquote>
 	
     <div class="img_caption none" style="max-width: 100%;">
         <img src="/images/media/SMBE_2025/SMBE2025_Quail_Poster_Presentation.jpg" alt="Discussing the quail poster with a group of attendees." title="Quail Poster Discussion" style="width: 100%; height: auto; display: block;">
