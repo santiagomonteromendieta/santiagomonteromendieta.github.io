@@ -55,9 +55,9 @@ hide_footer: true
         <p class="img_caption">Deep in thought while listening to the latest research during one of the plenary sessions.</p>
     </div>
 
-    <p>During the poster sessions, I had the chance to present our work on the <span class="highlight">genomic evolution of a tetraploid cavefish</span>. The central puzzle we're tackling is how animals adapt to extreme environments. Our cavefish is particularly special because it has a duplicated genome—two copies of every gene—giving it a unique evolutionary toolkit.</p>
+    <p>During the poster sessions, I had the chance to present our work on the <span class="highlight">genomic evolution of a tetraploid cavefish</span>. The central question we addressed is how animals adapt to extreme environments. This cavefish is a perfect model because it has a duplicated genome—two copies of every gene—giving it a unique evolutionary toolkit to survive in complete darkness.</p>
 
-    <p>Our research reveals a fascinating strategy: the two genomes evolve asymmetrically. One genome copy is allowed to rapidly change and innovate, discarding useless traits like vision, while the other copy acts as a stable backup, preserving essential life functions. It's evolution's way of having a safety net while taking risks.</p>
+    <p>Our research, <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.70118" target="_blank">now published in Molecular Ecology</a>, reveals a fascinating evolutionary strategy. We found that the two genomes evolve asymmetrically: one subgenome rapidly changes and innovates, allowing for the quick loss of useless traits like vision, while its partner acts as a stable backup, preserving essential life functions. It's a beautiful example of evolution having a safety net while taking risks.</p>
 	
     <div class="img_caption none" style="max-width: 100%;">
         <img src="/images/media/SMBE_2025/SMBE2025_Cavefish_Poster_Presentation.jpg" alt="Explaining my cavefish poster to the audience." title="Cavefish Poster Presentation" style="width: 100%; height: auto; display: block;">
@@ -73,7 +73,7 @@ hide_footer: true
         <p class="img_caption">A lively discussion about the different evolutionary roles of supergenes in quails.</p>
     </div>
     
-	<p>Overall, it was a rewarding and inspiring week. Having the world of molecular evolution come to my home city was a fantastic experience, and I’m proud to have shared our stories of discovery at this historic first SMBE in China.</p>
+	<p>Overall, it was a rewarding and inspiring week. Having the world of molecular evolution come to Beijing was a fantastic experience, and I’m proud to have shared my recent research discoveries at this historic first SMBE in China.</p>
 	
 </body>
 </html>
