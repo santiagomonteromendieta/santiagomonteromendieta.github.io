@@ -144,7 +144,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publication List</h2>
 
-<p>All my papers and doctoral thesis can be found below. An asterisk (*) indicates <strong>co-first authorship</strong>; specific contributions are detailed within the publications.</p>
+<p>All my papers and doctoral thesis can be found below. A dagger (†) indicates <strong>co-first authorship</strong>; specific contributions are detailed within the publications.</p>
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
