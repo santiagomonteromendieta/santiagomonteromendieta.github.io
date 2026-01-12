@@ -1,6 +1,6 @@
 ---
 title: "Unexpectedly High Levels of Cryptic Diversity Uncovered by a Complete DNA Barcoding of Reptiles of the Socotra Archipelago"
-authors: Raquel Vasconcelos+, <b>Santiago Montero-Mendieta</b>+, Marc Simó-Riudalbas, Roberto Sindaco, Xavier Santos, Mauro Fasola, Gustavo A. Llorente, Edoardo Razzetti, Salvador Carranza 
+authors: Raquel Vasconcelos*, <b>Santiago Montero-Mendieta</b>*, Marc Simó-Riudalbas, Roberto Sindaco, Xavier Santos, Mauro Fasola, Gustavo A. Llorente, Edoardo Razzetti, Salvador Carranza 
 journal: 'PLOS One'
 date: 2016-03-01
 category: international
