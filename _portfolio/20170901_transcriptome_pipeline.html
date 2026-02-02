@@ -3,7 +3,7 @@ category: Spotlight
 date: 2017-09-01
 title: "Unlocking the Genomic Secrets of Non-Model Organisms: A Practical Guide"
 excerpt: "<img src='/images/media/transcriptome_2017/oreobates-cruralis.jpg'>"
-excerpt_text: "Sequencing the DNA of organisms with massive genomes, like amphibians, is a monumental challenge. In a new paper published in PeerJ, we present a user-friendly pipeline to navigate this complexity, revealing the genetic secrets of a Neotropical frog."
+excerpt_text: "Sequencing organisms with massive genomes, like amphibians, is a monumental challenge. In a new paper published in PeerJ, we present a user-friendly pipeline to handle this complexity, decoding the genetic adaptations of a Neotropical frog."
 source: personal
 collection: portfolio
 hide_footer: true
@@ -40,18 +40,20 @@ hide_footer: true
     </style>
 </head>
 <body>
-    <p>We are currently in the "genomics era", yet for many species, their genetic code remains a closed book. While sequencing model organisms like mice or fruit flies has become routine, "non-model" organisms—especially those with massive genomes like amphibians—present a formidable challenge. <a href="https://doi.org/10.7717/peerj.3702" target="_blank">In a study published in <i>PeerJ</i></a>, we address this hurdle by presenting a practical, step-by-step guide to assembling transcriptomes <i>de novo</i>, using a little-known Neotropical frog as our case study.</p>
+    <p>We are currently in the "genomics era", yet for many species, their genetic code remains a closed book. While sequencing data has become cheaper and easier to generate, the bioinformatic analysis required to make sense of it remains a formidable barrier for many ecologists. <a href="https://doi.org/10.7717/peerj.3702" target="_blank">In a study published in <i>PeerJ</i></a>, we address this bottleneck by presenting a step-by-step guide to assembling genomic data from scratch, using a little-known Neotropical frog as our case study.</p>
 
     <div class="img_caption none" style="max-width: 100%;">
         <img src="/images/media/transcriptome_2017/oreobates-cruralis.jpg" alt="Oreobates cruralis, the Neotropical frog used to test the pipeline." title="The study model: Oreobates cruralis" style="width: 100%; height: auto; display: block;">
         <p class="img_caption"><i>Oreobates cruralis</i>, a direct-developing frog from the Amazonian region, served as the model to test our genomic assembly pipeline.</p>
     </div>
 
-    <h4>The "Giant Genome" Problem</h4>
-    <p>Amphibians are notorious in the genetics world for having enormous genomes—often many times larger than the human genome. Sequencing them entirely (Whole Genome Sequencing) is often prohibitively expensive and computationally difficult. A cost-effective alternative is transcriptome sequencing (RNA-seq), which focuses only on the genes that are actively expressed. However, for species without an existing reference genome, assembling these reads from scratch (<i>de novo</i>) can be a complex task for researchers who are not bioinformatics specialists.</p>
+    <h4>The Challenge: Giant Genomes and Missing Maps</h4>
+    <p>Amphibians present a unique problem for geneticists: their genomes are often enormous, frequently exceeding the size of the human genome by several times. Sequencing them entirely is often prohibitively expensive. To bypass this, researchers often use transcriptome sequencing (RNA-seq), which focuses only on the genes that are actively expressed.</p> 
+    
+    <p>However, this creates a new hurdle. Unlike model organisms (like mice or fruit flies), these species lack a "reference genome" to use as a map. Researchers must assemble the genetic puzzle pieces entirely from scratch (<i>de novo</i>)—a complex computational task that can be daunting for non-specialists.</p>
 
     <h4>A Roadmap for Researchers</h4>
-    <p>To bridge this gap, we developed a comprehensive pipeline designed to guide researchers through the complex process of pre-processing, assembling, and annotating genetic data. By integrating readily available software like Trinity and BLAST, we created a streamlined workflow that tuns raw sequencing data into a functional profile of an organism's biology. <span class="highlight">Our goal was to democratize genomics, providing a clear path for ecologists and evolutionary biologists to study non-model species.</span></p>
+    <p>To bridge this gap, we developed a comprehensive pipeline designed to guide researchers through the complex process of pre-processing, assembling, and annotating genetic data. By integrating readily available software like Trinity and BLAST, we created a streamlined workflow that turns raw sequencing data into a functional profile of an organism's biology. <span class="highlight">Our goal was to make genomics accessible, providing a clear path for ecologists and evolutionary biologists to study non-model species without needing to be bioinformatics experts.</span></p>
 
     <div class="img_caption none" style="max-width: 100%;">
         <img src="/images/thumbs/5-Montero-Mendieta_et_al_2017b.png" alt="Schematic representation of the bioinformatic pipeline." title="The Transcriptome Pipeline" style="width: 100%; height: auto; display: block;">
