@@ -1,0 +1,77 @@
+---
+category: Spotlight
+date: 2017-09-01
+title: "Small Frog, Massive Genome: A Practical Blueprint for Non-Model Genomics"
+excerpt: "<img src='/images/media/montero_2017_frog/oreobates-cruralis.jpg'>"
+excerpt_text: "Sequencing the DNA of organisms with massive genomes, like amphibians, is a monumental challenge. In a new paper published in PeerJ, we present a user-friendly pipeline to navigate this complexity, using a Neotropical frog to demonstrate the process."
+source: personal
+collection: portfolio
+hide_footer: true
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .img_caption {
+            font-size: 12px;
+            font-style: italic;
+            color: #777;
+            margin-top: 8px;
+        }
+        h4 {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        blockquote {
+            font-size: 16px;
+            font-style: italic;
+            color: #555;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+            margin: 20px 0;
+        }
+        .highlight {
+            color: rgb(84, 116, 184);
+            font-weight: bold;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <p>While the genomic revolution has transformed biology, a vast number of species remain genetically unstudied. Sequencing standard "model organisms" has become routine, but for species with massive genomes—like most amphibians—the technical barriers remain high. <a href="https://doi.org/10.7717/peerj.3702" target="_blank">In a study published in <i>PeerJ</i></a>, we address this challenge by presenting a practical, step-by-step guide to assembling transcriptomes <i>de novo</i>, using a little-known Neotropical frog as our case study.</p>
+
+    <div class="img_caption none" style="max-width: 100%;">
+        <img src="/images/media/montero_2017_frog/oreobates-cruralis.jpg" alt="Oreobates cruralis, the Neotropical frog used to test the pipeline." title="The study model: Oreobates cruralis" style="width: 100%; height: auto; display: block;">
+        <p class="img_caption"><i>Oreobates cruralis</i>, a direct-developing frog from the Amazonian region, served as the model to test our genomic assembly pipeline.</p>
+    </div>
+
+    <h4>The Challenge of "Giant Genomes"</h4>
+    <p>Amphibians are notorious in the genetics world for having enormous genomes—often many times larger than the human genome. Sequencing them entirely (Whole Genome Sequencing) is often prohibitively expensive and computationally difficult. A cost-effective alternative is <strong>transcriptome sequencing (RNA-seq)</strong>, which focuses only on the genes that are actively expressed. However, for species without an existing reference genome, assembling these reads from scratch (<i>de novo</i>) can be a complex task for researchers who are not bioinformatics specialists.</p>
+
+    <h4>A Roadmap for Researchers</h4>
+    <p>To bridge this gap, we developed a comprehensive pipeline designed to guide researchers through the complex process of pre-processing, assembling, and annotating genetic data. By integrating readily available software like Trinity and BLAST, we created a streamlined workflow that tuns raw sequencing data into a functional profile of an organism's biology. <span class="highlight">Our goal was to democratize genomics, providing a clear path for ecologists and evolutionary biologists to study non-model species.</span></p>
+
+    <blockquote>
+    <h3>"Our pipeline guides the inexperienced user in an intuitive way through all the necessary steps to build de-novo transcriptome assemblies."</h3>
+    </blockquote>
+
+    <div class="img_caption none" style="max-width: 100%;">
+        <img src="/images/thumbs/5-Montero-Mendieta_et_al_2017b.png" alt="Schematic representation of the bioinformatic pipeline." title="The Transcriptome Pipeline" style="width: 100%; height: auto; display: block;">
+        <p class="img_caption">The workflow developed in this study. It covers everything from cleaning raw reads to functional annotation, making it easier to study organisms without a reference genome. Adapted from <a href="https://doi.org/10.7717/peerj.3702" target="_blank">Montero-Mendieta <i>et al.</i>, 2017</a> (Fig. 1).</p>
+    </div>
+
+    <h4>Insights from the Amazon</h4>
+    <p>We applied this pipeline to <i>Oreobates cruralis</i>, a frog found in the Amazonian rainforests of Bolivia and Peru. The results offered a detailed look at the molecular machinery this species uses to survive in a pathogen-rich tropical environment. We identified over 422,000 putative genes, with a surprisingly high abundance of genes related to the <strong>immune system and defense mechanisms</strong>.</p>
+    
+    <p>Our analysis revealed a high number of antioxidant genes not just in the skin—where amphibians typically fight off infections—but also in internal organs like the liver and spleen. This suggests a systemic defense strategy, likely an evolutionary adaptation to the high humidity and intense microbial activity of the Amazon floor.</p>
+
+    <h4>An Open Resource for Conservation</h4>
+    <p>By making this pipeline <a href="https://github.com/biomendi/TRANSCRIPTOME-ASSEMBLY-PIPELINE/wiki" target="_blank">freely available</a>, we hope to accelerate discovery in biodiversity research. As we showed with <i>O. cruralis</i>, even a single transcriptome can provide a "stepping-stone" to understanding the evolution and adaptation of species that have long remained genomic mysteries.</p>
+    
+    <p>---</p>
+    <h4>Publication details</h4>
+    <p><b>Montero-Mendieta, S.</b>, Grabherr, M., Lantz, H., De la Riva, I., Leonard, J.A., Webster, M.T., & Vilà, C. (2017). <a href="https://doi.org/10.7717/peerj.3702" target="_blank">A practical guide to build <i>de-novo</i> assemblies for single tissues of non-model organisms: the example of a Neotropical frog</a>. <i>PeerJ</i>, 5, e3702.</p>
+</body>
+</html>
