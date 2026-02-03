@@ -3,71 +3,229 @@ category: Spotlight
 date: 2017-09-01
 title: "Unlocking the Genomic Secrets of Non-Model Organisms: A Practical Guide"
 excerpt: "<img src='/images/media/transcriptome_2017/oreobates-cruralis.jpg'>"
-excerpt_text: "Sequencing organisms with massive genomes, like amphibians, is a monumental challenge. In a new paper published in PeerJ, we present a user-friendly pipeline to handle this complexity, decoding the genetic adaptations of a Neotropical frog."
+excerpt_text: "Many species with exceptionally large genomes remain genomically unexplored. In a PeerJ study, we present an accessible pipeline for building de novo transcriptomes, using a Neotropical frog as a case study."
 source: personal
 collection: portfolio
 hide_footer: true
 ---
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <title>Unlocking the Genomic Secrets of Non-Model Organisms</title>
+
     <style>
+        body {
+            max-width: 760px;
+            margin: auto;
+            line-height: 1.6;
+            font-family: Arial, sans-serif;
+            color: #2c3e50;
+        }
+
+        h2 {
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+
+        .takeaway {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 25px;
+        }
+
+        h4 {
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 40px;
+            color: #2c3e50;
+        }
+
+        .section-lead {
+            font-size: 15px;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 16px;
+        }
+
         .img_caption {
             font-size: 12px;
             font-style: italic;
             color: #777;
             margin-top: 8px;
         }
-        h4 {
-            font-size: 18px;
-            font-weight: bold;
-            color: #2c3e50;
-        }
+
         blockquote {
             font-size: 16px;
             font-style: italic;
             color: #555;
             border-left: 4px solid #3498db;
             padding-left: 15px;
-            margin: 20px 0;
+            margin: 30px 0;
         }
+
         .highlight {
             color: rgb(84, 116, 184);
             font-weight: bold;
-            font-style: italic;
+        }
+
+        .tldr {
+            background-color: #f4f7fb;
+            border-left: 5px solid #5474b8;
+            padding: 15px 20px;
+            margin: 30px 0;
+        }
+
+        .tldr h5 {
+            margin-top: 0;
+            font-size: 16px;
+            color: #5474b8;
         }
     </style>
 </head>
+
 <body>
-    <p>We are currently in the "genomics era", yet for many species with large genomes, their genetic code remains a closed book. At the same time, while sequencing data has become cheaper and easier to generate, the bioinformatic analysis required to make sense of it remains a big barrier for many ecologists. <a href="https://doi.org/10.7717/peerj.3702" target="_blank">In a study published in <i>PeerJ</i></a>, we address these challenges by presenting a step-by-step guide to assembling transcriptomes from scratch, using a little-known Neotropical frog as our case study.</p>
 
-    <div class="img_caption none" style="max-width: 100%;">
-        <img src="/images/media/transcriptome_2017/oreobates-cruralis.jpg" alt="Oreobates cruralis, the Neotropical frog used to test the pipeline." title="The study model: Oreobates cruralis" style="width: 100%; height: auto; display: block;">
-        <p class="img_caption"><i>Oreobates cruralis</i>, a direct-developing frog from the Amazonian region with a large genome, served as the non-model organism to test our <i>de-novo</i> transcriptome assembly pipeline.</p>
-    </div>
+<h2>Unlocking the Genomic Secrets of Non-Model Organisms</h2>
+<p class="takeaway">
+A practical, reproducible roadmap for building <span class="highlight">de novo transcriptomes</span> in species lacking genomic references.
+</p>
 
-    <h4>The Challenges: Giant Genomes and Missing Maps</h4>
-    <p>Organisms like amphibians present a unique problem for geneticists: their genomes are often enormous, frequently exceeding the size of the human genome by several times. Sequencing them entirely is often prohibitively expensive. To bypass these, researchers often use transcriptome sequencing (RNA-seq), which focuses only on the genes that are actively expressed. However, this creates a new hurdle. Unlike model organisms (like mice or fruit flies), these "non-model" species lack a reference genome to use as a map. Researchers must assemble the genetic puzzle pieces entirely from scratch (<i>de novo</i>)—a complex computational task that can be daunting for non-specialists.</p>
+<div class="tldr">
+    <h5>TL;DR</h5>
+    <p>
+        Many organisms—especially those with very large genomes—remain poorly studied at the genomic level.
+        This study presents an accessible, step-by-step pipeline for assembling and annotating transcriptomes
+        without a reference genome, lowering the barrier for ecological and evolutionary research in non-model species.
+    </p>
+</div>
 
-    <h4>A Roadmap for Researchers</h4>
-    <p>To bridge this gap, we developed a comprehensive pipeline designed to guide researchers through the complex process of pre-processing, assembling, and annotating genetic data. By integrating readily available software like Trinity and BLAST, we created a streamlined workflow that turns raw sequencing data into a functional profile of an organism's biology. Our goal was to make genomics accessible, providing a clear path for ecologists and evolutionary biologists to study non-model species without needing to be bioinformatics experts.</p>
+<p>
+Despite rapid advances in DNA sequencing, many species with exceptionally large genomes remain genomically unexplored.
+Sequencing data are now relatively easy to generate, but turning raw reads into biologically meaningful results
+still requires substantial bioinformatic expertise. <a href="https://doi.org/10.7717/peerj.3702" target="_blank">
+In a study published in <i>PeerJ</i></a>, we address this gap by presenting a clear, step-by-step guide
+to building <span class="highlight">de novo transcriptome assemblies</span>, using a Neotropical frog as a case study.
+</p>
 
-    <div class="img_caption none" style="max-width: 100%;">
-        <img src="/images/thumbs/5-Montero-Mendieta_et_al_2017b.png" alt="Schematic representation of the bioinformatic pipeline." title="The Transcriptome Pipeline" style="width: 100%; height: auto; display: block;">
-        <p class="img_caption">The <i>de-novo</i> transcriptome assembly workflow developed in this study. It covers everything from cleaning raw reads to functional annotation, making it easier to study organisms without a reference genome.</p>
-    </div>
+<div style="max-width: 100%;">
+    <img src="/images/media/transcriptome_2017/oreobates-cruralis.jpg"
+         alt="Oreobates cruralis, the Neotropical frog used to test the pipeline."
+         title="The study model: Oreobates cruralis"
+         style="width: 100%; height: auto; display: block;">
+    <p class="img_caption">
+        <i>Oreobates cruralis</i>, a direct-developing frog from the Amazonian region with a large genome,
+        served as the focal species for testing the transcriptome assembly pipeline.
+    </p>
+</div>
 
-    <h4>Insights from the Amazon</h4>
-    <p>We applied this pipeline to <i>Oreobates cruralis</i>, a frog found in the Amazonian rainforests of Bolivia and Peru. The results offered a detailed look at the molecular machinery this species uses to survive in a pathogen-rich tropical environment. We identified over 422,000 putative genes, with a surprisingly high abundance of genes related to the immune system and defense mechanisms.</p>
-    
-    <p>Our analysis revealed a high number of antioxidant genes not just in the skin—where amphibians typically fight off infections—but also in internal organs like the liver and spleen. This suggests a systemic defense strategy, likely an evolutionary adaptation to the high humidity and intense microbial activity of the Amazon floor.</p>
+<h4>The Challenges: Giant Genomes and Missing Maps</h4>
+<p class="section-lead">
+Large genomes and the absence of reference sequences complicate genomic studies in many taxa.
+</p>
 
-    <h4>An Open Resource for Conservation</h4>
-    <p>By making this pipeline <a href="https://github.com/biomendi/TRANSCRIPTOME-ASSEMBLY-PIPELINE/wiki" target="_blank">freely available</a>, we hope to accelerate discovery in biodiversity research. As we showed with <i>O. cruralis</i>, even a single transcriptome can provide a "stepping-stone" to understanding the evolution and adaptation of species that have long remained genomic mysteries.</p>
-    
-    <p>---</p>
-    <h4>Publication details</h4>
-    <p><b>Montero-Mendieta, S.</b>, Grabherr, M., Lantz, H., De la Riva, I., Leonard, J.A., Webster, M.T., & Vilà, C. (2017). <a href="https://doi.org/10.7717/peerj.3702" target="_blank">A practical guide to build <i>de-novo</i> assemblies for single tissues of non-model organisms: the example of a Neotropical frog</a>. <i>PeerJ</i>, 5, e3702.</p>
+<p>
+Amphibians pose a particular challenge for genomic research because their genomes are often extremely large—frequently
+several times the size of the human genome—making whole-genome sequencing impractical for many projects.
+As an alternative, researchers often rely on transcriptome sequencing (RNA-seq), which targets only genes
+expressed in specific tissues.
+</p>
+
+<p>
+However, in species lacking genomic references, transcriptomes must be assembled <i>de novo</i>.
+This process is computationally demanding and involves many analytical decisions,
+which can be difficult to navigate without prior bioinformatic training.
+</p>
+
+<h4>A Roadmap for Researchers</h4>
+<p class="section-lead">
+A transparent and reproducible workflow can substantially lower the entry barrier to transcriptomics.
+</p>
+
+<p>
+To address this challenge, we developed a practical pipeline that guides users through read pre-processing,
+<i>de novo</i> assembly, and functional annotation of transcriptomic data.
+Rather than introducing new algorithms, the pipeline emphasizes
+<span class="highlight">transparency, reproducibility, and informed decision-making</span> at each step.
+</p>
+
+<p>
+By combining widely used tools such as Trinity and BLAST into a coherent workflow,
+the pipeline enables researchers to move from raw RNA-seq reads to biologically interpretable results.
+It is designed specifically for studies of species lacking genomic references,
+with the goal of making transcriptomics more accessible to ecologists and evolutionary biologists.
+</p>
+
+<div style="max-width: 100%;">
+    <img src="/images/thumbs/5-Montero-Mendieta_et_al_2017b.png"
+         alt="Schematic representation of the bioinformatic pipeline."
+         title="The Transcriptome Pipeline"
+         style="width: 100%; height: auto; display: block;">
+    <p class="img_caption">
+        Overview of the <i>de novo</i> transcriptome assembly pipeline,
+        illustrating how raw RNA-seq reads are transformed into annotated transcript sets
+        for species lacking reference genomes.
+    </p>
+</div>
+
+<h4>Insights from the Amazon</h4>
+<p class="section-lead">
+Applying the pipeline reveals biologically meaningful patterns in a tropical amphibian.
+</p>
+
+<p>
+We applied this workflow to <i>Oreobates cruralis</i>, a direct-developing frog from the Amazonian region of
+Bolivia and Peru. The resulting assembly comprised over 422,000 transcripts,
+providing a broad representation of expressed genes across multiple tissues.
+Functional annotation revealed a high proportion of transcripts associated with immune response
+and defense-related processes.
+</p>
+
+<p>
+Genes involved in antioxidant activity were detected not only in the skin—an important barrier tissue in amphibians—
+but also in internal organs such as the liver and spleen.
+While these patterns do not by themselves demonstrate adaptation,
+they highlight candidate pathways that may be relevant for understanding how tropical amphibians
+cope with pathogen-rich environments.
+</p>
+
+<blockquote>
+Even a single well-annotated transcriptome can serve as a valuable starting point
+for evolutionary and conservation research.
+</blockquote>
+
+<h4>An Open Resource for Conservation</h4>
+<p class="section-lead">
+Genomic accessibility is increasingly important as biodiversity declines.
+</p>
+
+<p>
+By making this pipeline <a href="https://github.com/biomendi/TRANSCRIPTOME-ASSEMBLY-PIPELINE/wiki" target="_blank">
+freely available</a>, we aim to facilitate transcriptomic studies across a wide range of taxa.
+As demonstrated with <i>O. cruralis</i>, even a single transcriptome can function as a stepping stone
+toward future work in ecology, evolution, and conservation.
+</p>
+
+<p>
+This is particularly relevant at a time when many species are declining faster
+than genomic resources can be generated for them.
+</p>
+
+<hr>
+
+<h4>Publication details</h4>
+<p>
+<b>Montero-Mendieta, S.</b>, Grabherr, M., Lantz, H., De la Riva, I., Leonard, J.A.,
+Webster, M.T., & Vilà, C. (2017).
+<a href="https://doi.org/10.7717/peerj.3702" target="_blank">
+A practical guide to build <i>de novo</i> assemblies for single tissues of non-model organisms:
+the example of a Neotropical frog</a>.
+<i>PeerJ</i>, 5, e3702.
+</p>
+
 </body>
 </html>
