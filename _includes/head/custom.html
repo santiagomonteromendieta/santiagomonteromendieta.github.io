@@ -1,5 +1,7 @@
 {% include base_path %}
 
+<title>{{ page.seo_title | default: page.title | strip_html }}</title>
+
 <!-- start custom head snippets -->
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/favicon/apple-touch-icon-57x57.png?v=M44lzPylqQ">
