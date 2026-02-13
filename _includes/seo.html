@@ -7,9 +7,7 @@
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title %}
-  {% comment %} Strip HTML tags so the browser tab is clean {% endcomment %}
-  {% assign clean_title = page.title | strip_html %}
-  {% assign seo_title = clean_title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
 {% if seo_title %}
