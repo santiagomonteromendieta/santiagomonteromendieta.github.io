@@ -14,7 +14,7 @@ redirect_from:
     
   <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I investigate the genomic mechanisms underlying adaptation and specilization in animals to extreme environments.</p> 
 
-  <p>🐟 To tackle these questions, I've analyzed a diverse range of organisms, including some of the world’s rarest <a href="/portfolio/20210330_oreobates">Neotropical frogs</a>, high-altitude <a href="/portfolio/20181226_csic_press_bees">honey bees</a> and <a href="/portfolio/20251014_microphthalmus_news">cavefishes</a> adapted to perpetual darkness in China.</p> 
+  <p>🐟 To tackle these questions, I've analyzed a diverse range of organisms, including some of the world’s rarest <a href="/portfolio/20210330_oreobates">Neotropical frogs</a>, high-altitude <a href="/portfolio/20181226_csic_press_bees">honey bees</a>, and <a href="/portfolio/20251014_microphthalmus_news">cavefishes</a> adapted to perpetual darkness in China.</p> 
     
   <p>🌍 My goal is to anticipate species' responses to habitat changes, providing the insights needed to support conservation, agriculture, and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
 
