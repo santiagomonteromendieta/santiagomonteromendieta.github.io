@@ -20,7 +20,6 @@ redirect_from:
 
   <p>☕️ I'm always eager to connect with anyone passionate about evolution, genomics, or science Feel free to <a href="https://santiagomonteromendieta.github.io/contact/">reach out</a> for collaborations, discussions, or speaking opportunities.</p>
     
-  <p>Thanks for your interest! :-)</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-top: 2rem 0;">
