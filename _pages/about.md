@@ -10,15 +10,15 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist that specializes in using comparative genomics and bioinformatics to understand how life’s incredible diversity came to be.</p> 
+  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist and data scientist that specializes in using comparative genomics to understand how biodiversity evolves.</p> 
     
-  <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I investigate how organisms adjust, specialize, and sometimes reinvent themselves to meet the challenges of extreme environments.</p> 
+  <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I investigate the genomic mechanisms underlying adaptation and specilization in animals to extreme environments.</p> 
 
-  <p>🐟 To tackle these questions, I've studied a diverse range of animals — from <a href="/portfolio/20210330_oreobates">some of the world’s rarest Neotropical frogs</a>, to <a href="/portfolio/20181226_csic_press_bees">high-altitude honey bees</a> and <a href="/portfolio/20251014_microphthalmus_news">cavefishes adapted to perpetual darkness</a> in China.</p> 
+  <p>🐟 To tackle these questions, I've studied a diverse range of organisms — from <a href="/portfolio/20210330_oreobates">some of the world’s rarest Neotropical frogs</a>, to <a href="/portfolio/20181226_csic_press_bees">high-altitude honey bees</a> and <a href="/portfolio/20251014_microphthalmus_news">cavefishes adapted to perpetual darkness</a> in China.</p> 
     
-  <p>🌍 My goal is to understand how species might respond to future environmental changes, informing conservation strategies and supporting industries like agriculture and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
+  <p>🌍 My goal is to anticipate species' responses to habitat changes, providing the insights needed to support conservation, agriculture, and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
 
-  <p>☕️ I'm always eager to connect with others passionate about evolution, genomics, or science communication. Feel free to <a href="https://santiagomonteromendieta.github.io/contact/">reach out</a> for collaborations, discussions, or speaking opportunities.</p>
+  <p>☕️ I'm always eager to connect with anyone passionate about evolution, genomics, or science Feel free to <a href="https://santiagomonteromendieta.github.io/contact/">reach out</a> for collaborations, discussions, or speaking opportunities.</p>
     
   <p>Thanks for your interest! :-)</p>
 </div>
