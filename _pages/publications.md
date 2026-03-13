@@ -232,7 +232,7 @@ author_profile: true
                     {% if post.doi %}
                     <!-- Dimensions Badge with Wrapper-->
                     <div class="badge-wrapper">
-                        <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-legend="hover-right" data-hide-zero-citations="true" data-style="large_rectangle"></span>
+                        <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-legend="hover-right" data-hide-zero-citations="false" data-style="large_rectangle"></span>
                     </div>
                     {% endif %}
                 </div>
