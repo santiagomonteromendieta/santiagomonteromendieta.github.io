@@ -142,7 +142,8 @@ author_profile: true
 /* Metric Badges Styling */
 .metric-badge {
     display: inline-flex;
-    align-items: right;
+    align-items: center;
+    margin-left: auto; /* In Flexbox, this automatically pushes the item to the far right edge */
 }
    
 </style>
