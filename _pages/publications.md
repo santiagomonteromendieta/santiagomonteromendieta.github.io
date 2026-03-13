@@ -157,11 +157,9 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publication List</h2>
 
-<p>All my papers and doctoral thesis can be found below. A plus sign (+) indicates <strong>co-first authorship</strong>; specific contributions are detailed within the publications.</p>
-
-<a href="https://scholar.google.com/citations?user=kecK5aoAAAAJ">
+<p>All my papers and doctoral thesis can be found below. A plus sign (+) indicates <strong>co-first authorship</strong>; specific contributions are detailed within the publications. <a href="https://scholar.google.com/citations?user=kecK5aoAAAAJ">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DkecK5aoAAAAJ">
-</a>
+</a></p>
 
 <div class="publication-grid">
 {% for post in site.publications reversed %}
