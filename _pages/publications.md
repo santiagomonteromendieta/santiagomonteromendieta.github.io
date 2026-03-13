@@ -142,9 +142,7 @@ author_profile: true
 /* Metric Badges Styling */
 .metric-badge {
     display: inline-flex;
-    align-items: center;
-    /* Optional: uncomment the line below if you want extra space before the badges */
-    margin-left: 0.5rem; 
+    align-items: right;
 }
    
 </style>
