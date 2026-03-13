@@ -149,7 +149,7 @@ author_profile: true
     /* MANUALLY ADJUST THIS VALUE to fix the API's visual offset. 
        If it still pulls too far left on the second row, increase this number (e.g., 8px).
        If it pushes too far right, decrease it (e.g., 4px). */
-    margin-left: 3px; 
+    margin-left: 3.5px; 
 }
    
 </style>
@@ -231,7 +231,7 @@ author_profile: true
                     {% if post.doi %}
                     <!-- Dimensions Badge with Wrapper-->
                     <div class="badge-wrapper">
-                        <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-hide-zero-citations="true" data-style="large_rectangle"></span>
+                        <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-legend="hover-right" data-hide-zero-citations="true" data-style="large_rectangle"></span>
                     </div>
                     {% endif %}
                 </div>
