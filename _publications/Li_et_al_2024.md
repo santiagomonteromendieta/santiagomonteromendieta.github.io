@@ -5,7 +5,6 @@ journal: 'Chinese Journal of Zoology'
 date: 2024-12-19
 category: local
 collection: publications
-doi: 10.13859/j.cjz.202424188
 permalink: /publication/Li_et_al_2024
 image: /images/thumbs/9-Li_et_al_2024.png
 pdf_url: /files/articles/9-Li_et_al_2024.pdf
