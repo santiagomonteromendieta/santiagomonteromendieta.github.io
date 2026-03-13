@@ -75,6 +75,7 @@ author_profile: true
     align-items: center;
     gap: 1rem;
     flex-wrap: wrap;
+    width: 100%; /* Ensures the container spans the full width */
 }
 
 .action-button {
@@ -140,8 +141,9 @@ author_profile: true
 }
 
 /* Metric Badges Styling */
-.metric-badge {
-    display: inline-flex;
+/* Shield Wrapper to protect from API class-stripping and enforce right-alignment */
+.badge-wrapper {
+    display: flex;
     align-items: center;
 }
    
@@ -222,8 +224,10 @@ author_profile: true
                     </a>
                     {% endif %}
                     {% if post.doi %}
-                    <!-- Dimensions Badge -->
-                        <span class="__dimensions_badge_embed__ metric-badge" data-doi="{{ post.doi }}" data-hide-zero-citations="true" data-style="large_rectangle"></span>
+                    <!-- Dimensions Badge with Wrapper-->
+                    <div class="badge-wrapper">
+                        <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-hide-zero-citations="true" data-style="large_rectangle"></span>
+                    </div>
                     {% endif %}
                 </div>
             </div>
