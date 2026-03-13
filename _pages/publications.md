@@ -140,11 +140,10 @@ author_profile: true
 }
 
 /* Metric Badges Scaling */
-.metric-badge-altmetric {
-    /* Altmetric donut natively is ~48px, scale down seamlessly */
-    transform: scale(0.67);
+.metric-badge-dimensions {
+    /* Dimensions natively is ~34px, slight scale keeps it aligned with the 32px button */
+    transform: scale(0.95);
     transform-origin: center left;
-    margin-right: -15px; /* Pulls layout back together due to visual scaling */
     display: inline-flex;
 }
    
@@ -226,7 +225,7 @@ author_profile: true
                     {% endif %}
                     {% if post.doi %}
                     <!-- Altmetric Badge -->
-                        <div class="altmetric-embed metric-badge-altmetric" data-badge-popover="right" data-badge-type="donut" data-doi="{{ post.doi }}" data-hide-no-mentions="true"></div>
+                        <span class="__dimensions_badge_embed__ metric-badge-dimensions" data-doi="{{ post.doi }}" data-hide-zero-citations="true" data-style="small_circle"></span>
                     {% endif %}
                 </div>
             </div>
@@ -238,4 +237,4 @@ author_profile: true
 </div>
 
 <!-- Badge API Scripts -->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
