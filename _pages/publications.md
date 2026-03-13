@@ -165,8 +165,6 @@ style="transform: scale(1.2); transform-origin: left center;">
 </a>
 </p>
 
-<p>Clarification: citation counts may vary across services.<p>
-
 <div class="publication-grid">
 {% for post in site.publications reversed %}
     <div class="publication-card">
@@ -250,7 +248,7 @@ style="transform: scale(1.2); transform-origin: left center;">
 {% endfor %}
 </div>
 
-</div>
+<p><strong>Note:</strong>strong> citation counts may vary across databases.<p>
 
 <!-- Badge API Scripts -->
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
