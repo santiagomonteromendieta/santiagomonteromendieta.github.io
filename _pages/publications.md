@@ -162,7 +162,7 @@ author_profile: true
 <p>
 <a href="https://scholar.google.com/citations?user=kecK5aoAAAAJ" target="_blank">
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DkecK5aoAAAAJ"
-style="transform: scale(2); transform-origin: left center;">
+style="transform: scale(1.4); transform-origin: left center;">
 </a>
 </p>
 
