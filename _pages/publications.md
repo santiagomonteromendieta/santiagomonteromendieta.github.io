@@ -216,11 +216,11 @@ author_profile: true
                         Poster
                     </a>
                     {% endif %}
-                    {% if post.scholar_url %}
+                    {% unless post.doi %}
                     <a href="{{ post.scholar_url }}" class="action-button" target="_blank">
                         Google Scholar
                     </a>
-                    {% endif %}
+                    {% endunless %}
                     {% if post.pdf_url %}
                     <a href="{{ post.pdf_url }}" class="download-button" target="_blank">
                         <svg viewBox="0 0 24 24">
