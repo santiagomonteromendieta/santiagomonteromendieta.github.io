@@ -138,6 +138,15 @@ author_profile: true
     color: #5474B8; 
     font-weight: 600;
 }
+
+/* Metric Badges Scaling */
+.metric-badge-altmetric {
+    /* Altmetric donut natively is ~48px, scale down seamlessly */
+    transform: scale(0.67);
+    transform-origin: center left;
+    margin-right: -15px; /* Pulls layout back together due to visual scaling */
+    display: inline-flex;
+}
    
 </style>
 
@@ -215,6 +224,10 @@ author_profile: true
                         </svg>
                     </a>
                     {% endif %}
+                    {% if post.doi %}
+                    <!-- Altmetric Badge -->
+                        <div class="altmetric-embed metric-badge-altmetric" data-badge-popover="right" data-badge-type="donut" data-doi="{{ post.doi }}" data-hide-no-mentions="true"></div>
+                    {% endif %}
                 </div>
             </div>
         </div>
@@ -223,3 +236,6 @@ author_profile: true
 </div>
 
 </div>
+
+<!-- Badge API Scripts -->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
