@@ -140,12 +140,15 @@ author_profile: true
     align-items: center;
 }
 
-/* Forcefully override the negative margins injected by the Dimensions API script */
+/* Deep Override: Forces the injected Dimensions API tags to abandon their negative 
+   margins and translation offsets, fixing the exact problem shown in your screenshot.
+   The "> *" ensures we only target the outer shell, leaving inner layout intact. */
 .badge-wrapper .__dimensions_badge_embed__,
-.badge-wrapper iframe,
-.badge-wrapper span {
+.badge-wrapper .__dimensions_badge_embed__ > * {
     margin-left: 0 !important;
     margin-right: 0 !important;
+    transform: none !important;
+    left: 0 !important;
 }
    
 </style>
