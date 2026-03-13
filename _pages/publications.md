@@ -142,7 +142,7 @@ author_profile: true
 /* Metric Badges Scaling */
 .metric-badge-dimensions {
     /* Dimensions natively is ~34px, slight scale keeps it aligned with the 32px button */
-    transform: scale(0.95);
+    transform: scale(0.80);
     transform-origin: center left;
     display: inline-flex;
 }
