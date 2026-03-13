@@ -144,7 +144,7 @@ author_profile: true
     display: inline-flex;
     align-items: center;
     /* Optional: uncomment the line below if you want extra space before the badges */
-    /* margin-left: 0.5rem; */ 
+    margin-left: 0.5rem; 
 }
    
 </style>
@@ -224,8 +224,8 @@ author_profile: true
                     </a>
                     {% endif %}
                     {% if post.doi %}
-                    <!-- Altmetric Badge -->
-                        <div class="altmetric-embed metric-badge" data-badge-popover="right" data-badge-type="bar" data-doi="{{ post.doi }}" data-hide-no-mentions="true"></div>
+                    <!-- Dimensions Badge -->
+                        <span class="__dimensions_badge_embed__ metric-badge" data-doi="{{ post.doi }}" data-hide-zero-citations="true" data-style="small_rectangle"></span>
                     {% endif %}
                 </div>
             </div>
@@ -237,4 +237,4 @@ author_profile: true
 </div>
 
 <!-- Badge API Scripts -->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
