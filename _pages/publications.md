@@ -149,7 +149,7 @@ author_profile: true
     /* MANUALLY ADJUST THIS VALUE to fix the API's visual offset. 
        If it still pulls too far left on the second row, increase this number (e.g., 8px).
        If it pushes too far right, decrease it (e.g., 4px). */
-    margin-left: 4px; 
+    margin-left: 3px; 
 }
    
 </style>
