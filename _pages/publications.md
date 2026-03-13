@@ -134,21 +134,22 @@ author_profile: true
     }
 }
 
+/* Note label styling */
+.note-label {
+    font-style: normal;
+    color: #5474B8; 
+    font-weight: 600;
+}
+
 /* Badge Wrapper */
 .badge-wrapper {
     display: flex;
     align-items: center;
-}
-
-/* Deep Override: Forces the injected Dimensions API tags to abandon their negative 
-   margins and translation offsets, fixing the exact problem shown in your screenshot.
-   The "> *" ensures we only target the outer shell, leaving inner layout intact. */
-.badge-wrapper .__dimensions_badge_embed__,
-.badge-wrapper .__dimensions_badge_embed__ > * {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    transform: none !important;
-    left: 0 !important;
+    
+    /* MANUALLY ADJUST THIS VALUE to fix the API's visual offset. 
+       If it still pulls too far left on the second row, increase this number (e.g., 8px).
+       If it pushes too far right, decrease it (e.g., 4px). */
+    margin-left: 6px; 
 }
    
 </style>
