@@ -248,7 +248,7 @@ style="transform: scale(1.2); transform-origin: left center;">
 {% endfor %}
 </div>
 
-<p><strong>Note:</strong>strong> citation counts may vary across databases.<p>
+<p><strong>Note:</strong> citation counts may vary across databases.<p>
 
 <!-- Badge API Scripts -->
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
