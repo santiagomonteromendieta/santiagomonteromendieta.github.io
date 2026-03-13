@@ -55,6 +55,7 @@ author_profile: true
 
 .publication-info {
     padding: 0 0;
+    width: 100%;
 }
 
 .publication-title {
@@ -133,18 +134,18 @@ author_profile: true
     }
 }
 
-/* Note label styling */
-.note-label {
-    font-style: normal;
-    color: #5474B8; 
-    font-weight: 600;
-}
-
-/* Metric Badges Styling */
-/* Shield Wrapper to protect from API class-stripping and enforce right-alignment */
+/* Badge Wrapper */
 .badge-wrapper {
     display: flex;
     align-items: center;
+}
+
+/* Forcefully override the negative margins injected by the Dimensions API script */
+.badge-wrapper .__dimensions_badge_embed__,
+.badge-wrapper iframe,
+.badge-wrapper span {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
 }
    
 </style>
