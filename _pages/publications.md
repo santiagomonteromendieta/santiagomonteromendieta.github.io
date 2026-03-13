@@ -225,7 +225,7 @@ author_profile: true
                     {% endif %}
                     {% if post.doi %}
                     <!-- Altmetric Badge -->
-                        <span class="__dimensions_badge_embed__ metric-badge-dimensions" data-doi="{{ post.doi }}" data-hide-zero-citations="true" data-style="small_circle"></span>
+                        <span class="__dimensions_badge_embed__ metric-badge-dimensions" data-doi="{{ post.doi }}" data-hide-zero-citations="true" data-style="small_rectangle"></span>
                     {% endif %}
                 </div>
             </div>
