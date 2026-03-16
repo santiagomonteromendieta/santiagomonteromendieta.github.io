@@ -9,6 +9,7 @@ doi: 10.11646/zootaxa.4221.5.1
 permalink: /publication/Rodriguez_et_al_2017
 image: /images/thumbs/3-Rodriguez_et_al_2017.png
 pdf_url: /files/articles/3-Rodriguez_et_al_2017.pdf
+ncbi_url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1909652"
 article_url: "https://doi.org/10.11646/zootaxa.4221.5.1" 
 scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kecK5aoAAAAJ&citation_for_view=kecK5aoAAAAJ:d1gkVwhDpl0C"
 excerpt: Due to extreme morphological similarities some species remain undetected to the eyes of taxonomists and when discovered, often by the application of more refined techniques or increased sampling effort, are termed cryptic species. Among animals, such taxonomic discoveries are more frequent in nocturnal taxa, like arthropods and amphibians, which often rely on chemical or acoustic cues for communication and provide scarce information to our visually-oriented brain (Bickford, et al., 2006). The definition of a species as cryptic is to certain degree subjective, i.e., subtle morphological differences might be obvious to specialists but remain undetected by untrained observers. Yet, there is little doubt that a large number of truly cryptic species exist, and amphibians are an animal group where this phenomenon has become obvious in the past decades ...
