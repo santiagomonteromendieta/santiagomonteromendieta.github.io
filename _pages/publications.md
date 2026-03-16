@@ -160,7 +160,7 @@ author_profile: true
 <p>All my papers and doctoral thesis can be found below. A plus sign (+) indicates <strong>co-first authorship</strong>; specific contributions are detailed within the publications. To date, these works have received: 
 <a href="https://scholar.google.com/citations?user=kecK5aoAAAAJ" target="_blank">
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DkecK5aoAAAAJ"
-style="transform: scale(1.35); transform-origin: left center;">
+style="transform: scale(1.3); transform-origin: left center;">
 </a>
 </p>
 
