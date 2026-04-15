@@ -66,7 +66,7 @@ author_profile: true
 
 .publication-authors {
     color: #444;
-    font-size: 0.9em;
+    font-size: 0.8em;
     margin-bottom: 1rem;
 }
 
