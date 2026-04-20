@@ -199,7 +199,7 @@ author_profile: true
             <div><strong>Molecular Methods:</strong> Application of techniques such as target enrichment sequencing for evolutionary studies.</div>
          </li>        
     </ul>
-    <p style="margin: 1.5rem 0 1rem; font-weight: 500;">I have reviewed manuscripts for the following journals:</p>
+    <p style="margin: 1.5rem 0 1rem; font-weight: 500;">To date, I have reviewed manuscripts for the following journals:</p>
         <ul class="journal-list">
             <li class="journal-item">
                 <a href="https://bmcgenomics.biomedcentral.com" target="_blank">
