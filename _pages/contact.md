@@ -245,7 +245,6 @@ author_profile: true
                 <span class="journal-count">3</span>
             </li>   
         </ul>
+</div>
 
 <p><strong>Note:</strong> numbers indicate verified reviews according to <a href="https://www.webofscience.com/wos/author/record/P-3298-2014" target="_blank">my Web of Science profile</a>.<p>
-
-</div>
