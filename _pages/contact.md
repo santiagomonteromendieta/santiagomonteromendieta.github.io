@@ -246,10 +246,8 @@ author_profile: true
             </li>   
         </ul>
 
-<button onclick="sortJournals()">Sort Journals</button>
-
 <script>
-function sortJournals() {
+(function() {
   const list = document.querySelector('.journal-list');
   if (!list) return;
   const items = Array.from(list.children);
@@ -259,7 +257,7 @@ function sortJournals() {
     return bVal - aVal;
   });
   items.forEach(item => list.appendChild(item));
-}
+})();
 </script>
 
 <p><strong>Note:</strong> numbers indicate verified peer reviews according to <a href="https://www.webofscience.com/wos/author/record/P-3298-2014" target="_blank">my Web of Science profile</a>.</p>
