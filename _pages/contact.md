@@ -248,4 +248,32 @@ author_profile: true
 
 <p><strong>Note:</strong> numbers indicate verified peer reviews according to <a href="https://www.webofscience.com/wos/author/record/P-3298-2014" target="_blank">my Web of Science profile</a>.</p>
 
+<script>
+(function() {
+  // Wait for the DOM to be fully loaded
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', sortJournals);
+  } else {
+    sortJournals();
+  }
+
+  function sortJournals() {
+    const journalList = document.querySelector('.journal-list');
+    if (!journalList) return;
+
+    const items = Array.from(journalList.children);
+
+    // Sort items based on the number inside .journal-count
+    items.sort((a, b) => {
+      const countA = parseInt(a.querySelector('.journal-count')?.textContent.trim() || '0', 10);
+      const countB = parseInt(b.querySelector('.journal-count')?.textContent.trim() || '0', 10);
+      return countB - countA; // descending order (highest first)
+    });
+
+    // Re-append items in the new order
+    items.forEach(item => journalList.appendChild(item));
+  }
+})();
+</script>
+
 </div>
