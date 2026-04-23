@@ -246,8 +246,6 @@ author_profile: true
             </li>   
         </ul>
 
-<p><strong>Note:</strong> numbers indicate verified peer reviews according to <a href="https://www.webofscience.com/wos/author/record/P-3298-2014" target="_blank">my Web of Science profile</a>.</p>
-
 <script>
 (function() {
   // Wait for the DOM to be fully loaded
@@ -275,5 +273,7 @@ author_profile: true
   }
 })();
 </script>
+
+<p><strong>Note:</strong> numbers indicate verified peer reviews according to <a href="https://www.webofscience.com/wos/author/record/P-3298-2014" target="_blank">my Web of Science profile</a>.</p>
 
 </div>
