@@ -180,20 +180,19 @@ author_profile: true
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">📍 My Institute</h2>
-  <div style="border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
-    <iframe 
-      width="100%" 
-      height="400" 
-      frameborder="0" 
-      scrolling="no" 
-      marginheight="0" 
-      marginwidth="0" 
-      src="https://uri.amap.com/marker?position=116.381897,40.002967&name=Institute%20of%20Zoology%20CAS&callnative=1">
-    </iframe>
-  </div>
+  <a href="https://www.openstreetmap.org/?mlat=40.002967&mlon=116.381897#map=15/40.002967/116.381897" target="_blank" 
+     style="display:block; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+    <img 
+      src="https://staticmap.openstreetmap.de/staticmap.php?center=40.002967,116.381897&zoom=15&size=600x300&markers=40.002967,116.381897,red-pushpin"
+      alt="Map showing Institute of Zoology, CAS in Beijing"
+      style="width:100%; height:auto; display:block;"
+    />
+  </a>
   <p style="margin-top:0.75em; font-size:0.9em; color:#555;">
     📍 Institute of Zoology, Chinese Academy of Sciences, Beijing &nbsp;|&nbsp; 
-    <a href="https://uri.amap.com/marker?position=116.381897,40.002967&name=Institute%20of%20Zoology%20CAS&callnative=1" target="_blank">Open in Gaode Maps (高德地图)</a>
+    <a href="https://www.openstreetmap.org/?mlat=40.002967&mlon=116.381897#map=15/40.002967/116.381897" target="_blank">Open in OpenStreetMap</a>
+    &nbsp;or&nbsp;
+    <a href="https://uri.amap.com/marker?position=116.381897,40.002967&name=Institute%20of%20Zoology%20CAS&callnative=1" target="_blank">Open in Gaode Maps</a>
   </p>
 </div>
 
