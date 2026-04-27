@@ -185,10 +185,8 @@ author_profile: true
       alt="Map of Institute of Zoology, Chinese Academy of Sciences, Beijing"
       style="width:100%; height:auto; display:block;"
     />
-  </a>
-  
   <p style="margin-top:0.75em; font-size:0.9em; color:#555;">
-    <strong>Address:</strong>strong> No.1 Beichen West Road, Chaoyang District, Beijing 100101, P.R. China | 
+    <strong>Address:</strong> No.1 Beichen West Road, Chaoyang District, Beijing 100101, P.R. China | 
     <a href="https://uri.amap.com/marker?position=116.381897,40.002967&name=Institute%20of%20Zoology%20CAS&callnative=1" target="_blank">Open in Gaode Maps (高德地图)</a>
   </p>
 </div>
