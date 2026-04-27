@@ -157,7 +157,7 @@ author_profile: true
 <div class="section-card">
 <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Publication List</h2>
 
-<p>All my papers and doctoral thesis can be found below. A plus sign (+) indicates <strong>co-first authorship</strong>; specific contributions are detailed within the publications. Last time I checked, these works had received <a href="https://scholar.google.com/citations?user=kecK5aoAAAAJ" target="_blank">163</a> citations. 
+<p>All my papers and doctoral thesis can be found below. A plus sign (+) indicates <strong>co-first authorship</strong>; specific contributions are detailed within the publications. Last time I checked, these works had received <a href="https://scholar.google.com/citations?user=kecK5aoAAAAJ" target="_blank">164</a> citations. 
 </p>
     
 
