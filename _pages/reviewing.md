@@ -137,7 +137,6 @@ author_profile: true
             </li>  
             <li class="journal-item">
                 <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">
-
                     Molecular Ecology Resources
                 </a>
                 <span class="journal-count">1</span>
@@ -147,6 +146,12 @@ author_profile: true
                     PLOS ONE
                 </a>
                 <span class="journal-count">3</span>
+            </li>
+            <li class="journal-item">
+                <a href="http://genome.cshlp.org/" target="_blank">
+                    Genome Research
+                </a>
+                <span class="journal-count">1</span>
             </li>   
         </ul>
 
