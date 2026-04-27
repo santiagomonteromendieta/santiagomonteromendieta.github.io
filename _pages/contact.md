@@ -179,8 +179,7 @@ author_profile: true
 </div>
 
 <div class="section-card">
-  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Address</h2>
-  
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">📍 Institute of Zoology, Chinese Academy of Sciences</h2>
   <a href="https://www.openstreetmap.org/?mlat=40.002967&mlon=116.381897#map=16/40.002967/116.381897" target="_blank" 
      style="display:block; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
     <img 
@@ -191,10 +190,7 @@ author_profile: true
   </a>
   
   <p style="margin-top:0.75em; font-size:0.9em; color:#555;">
-    📍 Institute of Zoology, Chinese Academy of Sciences<br>
-    No.1 Beichen West Road, Chaoyang District, Beijing 100101, P.R. China<br>
-    <a href="https://www.openstreetmap.org/?mlat=40.002967&mlon=116.381897#map=16/40.002967/116.381897" target="_blank">Open in OpenStreetMap</a>
-    &nbsp;|&nbsp;
+    Address: No.1 Beichen West Road, Chaoyang District, Beijing 100101, P.R. China | 
     <a href="https://uri.amap.com/marker?position=116.381897,40.002967&name=Institute%20of%20Zoology%20CAS&callnative=1" target="_blank">Open in Gaode Maps (高德地图)</a>
   </p>
 </div>
