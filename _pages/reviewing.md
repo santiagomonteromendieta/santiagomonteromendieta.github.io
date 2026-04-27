@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Availability as a Reviewer and Expertise"
 permalink: /reviewing/
 author_profile: true
 ---
