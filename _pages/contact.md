@@ -153,7 +153,7 @@ author_profile: true
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Get in Touch</h2>
-  <p style="margin-bottom: 0em;">Feel free to reach out if you'd like to discuss my research, life in China, or potential collaborations. To contact me, use the following form (but please check the important note first!). For editors or authors seeking reviewers, <a href="#reviewer-availability">see below</a>. Looking forward to connecting with you! 😊</p>
+  <p style="margin-bottom: 0em;">Feel free to reach out if you'd like to discuss my research, life in China, or potential collaborations. To contact me, use the following form (but please check the important note first!). For editors or authors seeking reviewers, <a href="/reviewing/">see Peer Review</a>. Looking forward to connecting with you! 😊</p>
 
   <form id="contact-form" method="post" action="https://formspree.io/f/mrgwblad" style="background: #f8f9fa; padding: 2rem; border-radius: 10px;">
     <div class="form-group">
@@ -189,90 +189,4 @@ author_profile: true
     <strong>Address:</strong> No.1 Beichen West Road, Chaoyang District, Beijing 100101, P.R. China | 
     <a href="https://uri.amap.com/marker?position=116.381897,40.002967&name=Institute%20of%20Zoology%20CAS&callnative=1" target="_blank">Open in Gaode Maps (高德地图)</a>
   </p>
-</div>
-
-<div class="section-card">
-  <h2 id="reviewer-availability" style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Reviewer Availability and Expertise</h2>
-    <p style="line-height: 1.6; margin-bottom: 1.5rem;">Thank you for considering me as a peer reviewer. I'm especially enthusiastic about contributing to society journals and would welcome the chance to review manuscripts in my areas of expertise, which include:</p>
-    <ul class="expertise-list">
-        <li class="expertise-item">
-            <div class="expertise-icon">🧬</div>
-            <div><strong>Population and Comparative Genomics:</strong> Analysis of genetic variation within and between populations, including studies of selection and demographic history.</div>
-        </li>
-        <li class="expertise-item">
-            <div class="expertise-icon">🌿</div>
-            <div><strong>Phylogenetics and Phylogenomics:</strong>  Inferring evolutionary relationships using both targeted gene regions and genome-scale data.</div>
-        </li>
-        <li class="expertise-item">
-            <div class="expertise-icon">🦋</div>
-            <div><strong>Evolutionary Adaptation:</strong> Investigating the genetic basis of adaptation, with a focus on organisms inhabiting extreme environments such as high-altitude and cave ecosystems.</div>
-        </li>
-        <li class="expertise-item">
-            <div class="expertise-icon">🧪</div>
-            <div><strong>Molecular Methods:</strong> Application of techniques such as target enrichment sequencing for evolutionary studies.</div>
-         </li>        
-    </ul>
-    <p style="margin: 1.5rem 0 1rem; font-weight: 500;">To date, I have reviewed manuscripts for the following journals:</p>
-        <ul class="journal-list">
-            <li class="journal-item">
-                <a href="https://bmcgenomics.biomedcentral.com" target="_blank">
-                    BMC Genomics
-                </a>
-                <span class="journal-count">3</span>
-            </li>
-            <li class="journal-item">
-                <a href="https://www.springer.com/journal/10592" target="_blank">
-                    Conservation Genetics
-                </a>
-                <span class="journal-count">2</span>
-            </li>
-            <li class="journal-item">
-                <a href="https://academic.oup.com/g3journal" target="_blank">
-                    G3: Genes,Genomes,Genetics
-                </a>
-                <span class="journal-count">1</span>
-            </li>
-            <li class="journal-item">
-                <a href="https://academic.oup.com/gbe" target="_blank">
-                    Genome Biology and Evolution
-                </a>
-                <span class="journal-count">2</span>
-            </li>                        
-            <li class="journal-item">
-                <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">
-                    Molecular Ecology
-                </a>
-                <span class="journal-count">2</span>
-            </li>  
-            <li class="journal-item">
-                <a href="https://onlinelibrary.wiley.com/journal/17550998" target="_blank">
-
-                    Molecular Ecology Resources
-                </a>
-                <span class="journal-count">1</span>
-            </li>  
-            <li class="journal-item">
-                <a href="https://journals.plos.org/plosone/" target="_blank">
-                    PLOS ONE
-                </a>
-                <span class="journal-count">3</span>
-            </li>   
-        </ul>
-
-<script>
-(function() {
-  const list = document.querySelector('.journal-list');
-  if (!list) return;
-  const items = Array.from(list.children);
-  items.sort((a, b) => {
-    const aVal = parseInt(a.querySelector('.journal-count')?.textContent.trim() || '0');
-    const bVal = parseInt(b.querySelector('.journal-count')?.textContent.trim() || '0');
-    return bVal - aVal;
-  });
-  items.forEach(item => list.appendChild(item));
-})();
-</script>
-
-<p><strong>Note:</strong> numbers indicate verified peer reviews according to <a href="https://www.webofscience.com/wos/author/record/P-3298-2014" target="_blank">my Web of Science profile</a>.</p>
-
 </div>
