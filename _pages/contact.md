@@ -179,6 +179,25 @@ author_profile: true
 </div>
 
 <div class="section-card">
+  <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">📍 My Institute</h2>
+  <div style="border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+    <iframe 
+      width="100%" 
+      height="400" 
+      frameborder="0" 
+      scrolling="no" 
+      marginheight="0" 
+      marginwidth="0" 
+      src="https://uri.amap.com/marker?position=116.381897,40.002967&name=Institute%20of%20Zoology%20CAS&callnative=1">
+    </iframe>
+  </div>
+  <p style="margin-top:0.75em; font-size:0.9em; color:#555;">
+    📍 Institute of Zoology, Chinese Academy of Sciences, Beijing &nbsp;|&nbsp; 
+    <a href="https://uri.amap.com/marker?position=116.381897,40.002967&name=Institute%20of%20Zoology%20CAS&callnative=1" target="_blank">Open in Gaode Maps (高德地图)</a>
+  </p>
+</div>
+
+<div class="section-card">
   <h2 id="reviewer-availability" style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Reviewer Availability and Expertise</h2>
     <p style="line-height: 1.6; margin-bottom: 1.5rem;">Thank you for considering me as a peer reviewer. I'm especially enthusiastic about contributing to society journals and would welcome the chance to review manuscripts in my areas of expertise, which include:</p>
     <ul class="expertise-list">
