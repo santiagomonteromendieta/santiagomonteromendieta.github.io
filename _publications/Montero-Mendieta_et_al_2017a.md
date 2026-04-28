@@ -1,6 +1,7 @@
 ---
 title: "Another record or a new taxon? A candidate species of Chalcides Laurenti, 1768, in North Africa (Squamata: Sauria: Scincidae)"
 authors: <b>Santiago Montero-Mendieta</b>, Joan Ferrer, Mohammed A. Hammout, Walid Dahmani, Delfi Sanuy, Sebastià Camarasa
+first_author: true
 journal: 'Herpetozoa'
 date: 2017-01-30
 category: international
