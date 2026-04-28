@@ -1,6 +1,7 @@
 ---
 title: "A genomic view on the adaptation and diversification of natural populations"
 authors: <b>Santiago Montero-Mendieta</b>
+first_author: true
 journal: 'Doctoral thesis'
 date: 2019-12-04
 category: thesis
