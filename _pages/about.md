@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist and data scientist specializing in comparative genomics to understand how biodiversity evolves.</p> 
+  <p>👋 Hi, I'm <strong>Santi</strong> — a biologist and data scientist specializing in comparative genomics to understand how biodiversity evolves.</p> 
     
   <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I investigate the genomic mechanisms underlying adaptation and specilization in animals living in extreme environments, currently focusing on fish.</p> 
 
