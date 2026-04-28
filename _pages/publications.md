@@ -186,10 +186,14 @@ author_profile: true
 <!-- style="transform: scale(1.3); transform-origin: left center;"> -->
 <!-- </a> -->
 
+{% raw %}
+<script>console.log("Test script works");</script>
+{% endraw %}
+
 <!-- Filter Buttons – same look as news page -->
 <div class="filter-buttons">
   <button class="filter-button active" data-filter="all">All</button>
-  <button class="filter-button" data-filter="first-author">First author</button>
+  <button class="filter-button" data-filter="first-author">First Aauthor</button>
   <button class="filter-button" data-filter="other">Others</button>
 </div>
 
