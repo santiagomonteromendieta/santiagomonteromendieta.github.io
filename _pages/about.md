@@ -10,15 +10,15 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>👋 Hi, I'm <strong>Santi</strong> — an evolutionary biologist and data scientist that specializes in using comparative genomics to understand how biodiversity evolves.</p> 
+  <p>👋 I'm <strong>Santi</strong> — an evolutionary biologist and data scientist specializing in comparative genomics to understand how biodiversity evolves.</p> 
     
-  <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I investigate the genomic mechanisms underlying adaptation and specilization in animals to extreme environments.</p> 
+  <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I investigate the genomic mechanisms underlying adaptation and specilization in animals living in extreme environments, currently focusing on fish.</p> 
 
   <p>🐟 To tackle these questions, I've analyzed a diverse range of organisms, including some of the world’s rarest <a href="/portfolio/20210330_oreobates">Neotropical frogs</a>, high-altitude <a href="/portfolio/20181226_csic_press_bees">honey bees</a>, and <a href="/portfolio/20251014_microphthalmus_news">cavefishes</a> adapted to darkness.</p> 
     
-  <p>🌍 My goal is to anticipate species' responses to habitat changes, providing the insights needed to support conservation, agriculture, and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
+  <p>🌍 My goal is to predict how species respond to environmental changes, and apply these findings to support conservation, agriculture, and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
 
-  <p>☕️ I'm always happy to connect with anyone passionate about evolution, genomics, or science. Feel free to <a href="https://santiagomonteromendieta.github.io/contact/">contact me</a> for collaborations or speaking opportunities.</p>
+  <p>☕️ I'm always open to collaborations, discussions and speaking opportunities. Feel free to <a href="https://santiagomonteromendieta.github.io/contact/">contact me</a>.</p>
     
 </div>
 
