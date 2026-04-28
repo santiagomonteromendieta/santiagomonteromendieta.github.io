@@ -14,9 +14,9 @@ redirect_from:
     
   <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I study the genetic basis of adaptation in extreme environments, currently focusing on fish.</p> 
 
-  <p>🐟 In the past, my research has uncovered how <a href="/portfolio/20210330_oreobates">Neotropical frogs</a> diverge across elevational gradients, <a href="/portfolio/20181226_csic_press_bees">honey bees</a> adapt to high-altitude, and <a href="/portfolio/20251014_microphthalmus_news">cavefishes</a> evolve following genome duplication, among other works.</p> 
+  <p>🐟 In the past, my research has uncovered how <a href="/portfolio/20210330_oreobates">Neotropical frogs diverge across elevational gradients</a>, <a href="/portfolio/20181226_csic_press_bees">honey bees adapt to high-altitude</a>, and <a href="/portfolio/20251014_microphthalmus_news">cavefishes evolve following genome duplication</a>, among other patterns.</p> 
     
-  <p>🌍 My goal is to predict how species respond to habitat and climate changes, and apply these findings to support conservation, agriculture, and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
+  <p>🌍 My goal is to predict how species respond to habitat and climate changes, and apply these findings to conservation, agriculture, and fisheries. To learn more, see my <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
 
   <p>☕️ I'm always open to collaborations, discussions and speaking opportunities. Feel free to <a href="https://santiagomonteromendieta.github.io/contact/">contact me</a>.</p>
     
