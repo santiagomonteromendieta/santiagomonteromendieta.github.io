@@ -186,14 +186,10 @@ author_profile: true
 <!-- style="transform: scale(1.3); transform-origin: left center;"> -->
 <!-- </a> -->
 
-{% raw %}
-<script>console.log("Test script works");</script>
-{% endraw %}
-
 <!-- Filter Buttons – same look as news page -->
 <div class="filter-buttons">
   <button class="filter-button active" data-filter="all">All</button>
-  <button class="filter-button" data-filter="first-author">First Aauthor</button>
+  <button class="filter-button" data-filter="first-author">First Author</button>
   <button class="filter-button" data-filter="other">Others</button>
 </div>
 
@@ -283,28 +279,6 @@ author_profile: true
 <p><strong>Note:</strong> citation counts may vary across databases.<p>
 
 <!-- Badge API Scripts -->
-{% raw %}
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-{% endraw %}
 
-{% raw %}
-<script>
-document.querySelectorAll('.filter-button').forEach(button => {
-    button.addEventListener('click', () => {
-        // Update active button style
-        document.querySelector('.filter-button.active').classList.remove('active');
-        button.classList.add('active');
-        
-        const filter = button.dataset.filter;
-        
-        document.querySelectorAll('.publication-card').forEach(card => {
-            if (filter === 'all' || card.dataset.authorType === filter) {
-                card.style.display = '';        // show (reset to default)
-            } else {
-                card.style.display = 'none';
-            }
-        });
-    });
-});
-</script>
-{% endraw %}
+<script src="{{ base_path }}/assets/js/publication-filter.js"></script>
