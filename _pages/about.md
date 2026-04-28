@@ -16,7 +16,7 @@ redirect_from:
 
   <p>🐟 In the past, my research has uncovered how <a href="/portfolio/20181226_csic_press_bees">honey bees adapt</a> to high-altitude, <a href="/portfolio/20251014_microphthalmus_news">cavefishes evolve</a> following genome duplication, and <a href="/portfolio/20210330_oreobates">Neotropical frogs diverge</a> across elevational gradients, among others. Check out my <a href="https://santiagomonteromendieta.github.io/publications/">Publications</a> for more.</p> 
     
-  <p>🌍 My goal is to predict how species respond to environmental changes, and apply these findings to conservation, agriculture, and fisheries. To learn more, see my <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
+  <p>🌍 My goal is to predict how species respond to environmental changes, and apply these findings to conservation, agriculture, and fisheries. To learn further, see my <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
 
   <p>☕️ I'm always open to collaborations, discussions and speaking opportunities. Feel free to <a href="https://santiagomonteromendieta.github.io/contact/">get in touch</a>.</p>
     
