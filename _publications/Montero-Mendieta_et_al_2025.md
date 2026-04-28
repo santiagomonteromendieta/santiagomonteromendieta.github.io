@@ -1,6 +1,7 @@
 ---
 title: "Doubled Genomes, Divergent Fates: Genomic Insights into Diversification in an Allotetraploid Cavefish"
 authors: <b>Santiago Montero-Mendieta</b>+, Yuwei Wang+, Chongnv Wang, Fanwei Meng, Yahui Zhao, Xinxin Li, Baocheng Guo
+first_author: true
 journal: 'Molecular Ecology'
 date: 2025-9-17
 category: international
