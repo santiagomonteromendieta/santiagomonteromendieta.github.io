@@ -151,7 +151,27 @@ author_profile: true
        If it pushes too far right, decrease it (e.g., 4px). */
     margin-left: 3.5px; 
 }
-   
+
+.filter-buttons {
+    display: flex;
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.filter-button {
+    padding: 0.5rem 1.5rem;
+    border-radius: 20px;
+    background: #f0f0f0;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.filter-button.active {
+    background: #5474B8;
+    color: white;
+}
+
 </style>
 
 <div class="section-card">
@@ -166,9 +186,16 @@ author_profile: true
 <!-- style="transform: scale(1.3); transform-origin: left center;"> -->
 <!-- </a> -->
 
+<!-- Filter Buttons – same look as news page -->
+<div class="filter-buttons">
+  <button class="filter-button active" data-filter="all">All</button>
+  <button class="filter-button" data-filter="first-author">First author</button>
+  <button class="filter-button" data-filter="other">Others</button>
+</div>
+
 <div class="publication-grid">
 {% for post in site.publications reversed %}
-    <div class="publication-card">
+    <div class="publication-card" data-author-type="{% if post.first_author %}first-author{% else %}other{% endif %}">
         <!-- Header with Journal & Date -->
         <div class="publication-header">
             <span class="publication-journal">{{ post.journal }}</span>
@@ -247,6 +274,27 @@ author_profile: true
         </div>
     </div>
 {% endfor %}
+
+<script>
+document.querySelectorAll('.filter-button').forEach(button => {
+    button.addEventListener('click', () => {
+        // Update active button style
+        document.querySelector('.filter-button.active').classList.remove('active');
+        button.classList.add('active');
+        
+        const filter = button.dataset.filter;
+        
+        document.querySelectorAll('.publication-card').forEach(card => {
+            if (filter === 'all' || card.dataset.authorType === filter) {
+                card.style.display = '';        // show (reset to default)
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    });
+});
+</script>
+
 </div>
 
 <p><strong>Note:</strong> citation counts may vary across databases.<p>
