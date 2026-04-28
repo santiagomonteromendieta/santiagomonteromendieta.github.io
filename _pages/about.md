@@ -14,7 +14,7 @@ redirect_from:
     
   <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I study the genetic basis of adaptation in extreme environments, currently focusing on fish.</p> 
 
-  <p>🐟 To tackle these questions, I've analyzed a diverse range of organisms, including some of the world’s rarest <a href="/portfolio/20210330_oreobates">Neotropical frogs</a>, high-altitude <a href="/portfolio/20181226_csic_press_bees">honey bees</a>, and <a href="/portfolio/20251014_microphthalmus_news">cavefishes</a> adapted to darkness.</p> 
+  <p>🐟 In the past, my research has uncovered how <a href="/portfolio/20210330_oreobates">Neotropical frogs</a> diverge across elevational gradients, <a href="/portfolio/20181226_csic_press_bees">honey bees</a> adapt to high-altitude, and <a href="/portfolio/20251014_microphthalmus_news">cavefishes</a> evolve following genome duplication, among other works.</p> 
     
   <p>🌍 My goal is to predict how species respond to habitat or climate changes, and apply these findings to support conservation, agriculture, and fisheries. To learn more, see my  <a href="https://santiagomonteromendieta.github.io/research/">research</a>.</p>
 
