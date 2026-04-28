@@ -1,6 +1,7 @@
 ---
 title: "A practical guide to build de-novo assemblies for single tissues of non-model organisms: the example of a Neotropical frog"
 authors: <b>Santiago Montero-Mendieta</b>, Manfred Grabherr, Henrik Lantz, Ignacio De la Riva, Jennifer A. Leonard, Matthew T. Webster, Carles Vilà
+first_author: true
 journal: 'PeerJ'
 date: 2017-09-01
 category: international
