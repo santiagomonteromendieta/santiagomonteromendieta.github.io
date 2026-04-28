@@ -279,8 +279,11 @@ author_profile: true
 <p><strong>Note:</strong> citation counts may vary across databases.<p>
 
 <!-- Badge API Scripts -->
+{% raw %}
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+{% endraw %}
 
+{% raw %}
 <script>
 document.querySelectorAll('.filter-button').forEach(button => {
     button.addEventListener('click', () => {
@@ -300,3 +303,4 @@ document.querySelectorAll('.filter-button').forEach(button => {
     });
 });
 </script>
+{% endraw %}
