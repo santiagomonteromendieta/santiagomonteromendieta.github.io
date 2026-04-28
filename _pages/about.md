@@ -18,7 +18,7 @@ redirect_from:
     
   <p>🌍 My goal is to predict how species respond to environmental changes, and apply these findings to conservation, agriculture, and fisheries. To learn more, see my <a href="https://santiagomonteromendieta.github.io/research/">Research</a>.</p>
 
-  <p>☕️ I'm always open to collaborations, discussions and speaking opportunities. Feel free to <a href="https://santiagomonteromendieta.github.io/contact/">contact me</a>.</p>
+  <p>☕️ I'm always open to collaborations, discussions and speaking opportunities. Feel free to <a href="https://santiagomonteromendieta.github.io/contact/">get in touch</a>.</p>
     
 </div>
 
