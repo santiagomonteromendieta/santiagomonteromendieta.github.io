@@ -10,9 +10,9 @@ redirect_from:
 
 <div class="section-card">
   <h2 style="color: #5474B8; border-bottom: 3px solid #5474B8; padding-bottom: 0.5rem; margin-top: 0.5rem;">Introduction</h2>
-  <p>👋 Hi, I'm <strong>Santi</strong> — a biologist and data scientist specializing in comparative genomics to understand how biodiversity evolves.</p> 
+  <p>👋 Hi, I'm <strong>Santi</strong> — a biologist and data scientist passionate about understanding animal evolution using comparative genomics.</p> 
     
-  <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I investigate the genomic mechanisms underlying adaptation and specilization in animals living in extreme environments, currently focusing on fish.</p> 
+  <p>🔬 As a postdoctoral researcher at the <a href="http://english.ioz.cas.cn/" target="_blank">Institute of Zoology</a> in Beijing, I study the genetic basis of adaptation in extreme environments, currently focusing on fish.</p> 
 
   <p>🐟 To tackle these questions, I've analyzed a diverse range of organisms, including some of the world’s rarest <a href="/portfolio/20210330_oreobates">Neotropical frogs</a>, high-altitude <a href="/portfolio/20181226_csic_press_bees">honey bees</a>, and <a href="/portfolio/20251014_microphthalmus_news">cavefishes</a> adapted to darkness.</p> 
     
