@@ -274,6 +274,12 @@ author_profile: true
         </div>
     </div>
 {% endfor %}
+</div>
+
+<p><strong>Note:</strong> citation counts may vary across databases.<p>
+
+<!-- Badge API Scripts -->
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <script>
 document.querySelectorAll('.filter-button').forEach(button => {
@@ -294,10 +300,3 @@ document.querySelectorAll('.filter-button').forEach(button => {
     });
 });
 </script>
-
-</div>
-
-<p><strong>Note:</strong> citation counts may vary across databases.<p>
-
-<!-- Badge API Scripts -->
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
