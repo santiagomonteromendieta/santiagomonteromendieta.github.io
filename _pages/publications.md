@@ -190,7 +190,7 @@ author_profile: true
 <div class="filter-buttons">
   <button class="filter-button active" data-filter="all">All</button>
   <button class="filter-button" data-filter="first-author">First Author</button>
-  <button class="filter-button" data-filter="other">Others</button>
+  <button class="filter-button" data-filter="other">Collabs</button>
 </div>
 
 <div class="publication-grid">
