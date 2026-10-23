@@ -225,6 +225,11 @@ author_profile: true
                         Article
                     </a>
                     {% endif %}
+                    {% if post.link %}
+                    <a href="{{ post.link }}" class="action-button" target="_blank">
+                        Link
+                    </a>
+                    {% endif %}
                     {% if post.news_url %}
                     <a href="{{ post.news_url }}" class="action-button">
                         News
