@@ -152,7 +152,19 @@ author_profile: true
                     Genome Research
                 </a>
                 <span class="journal-count">1</span>
-            </li>   
+            </li> 
+            <li class="journal-item">
+                <a href="https://onlinelibrary.wiley.com/journal/jai" target="_blank">
+                    Journal of Applied Ichthyology
+                </a>
+                <span class="journal-count">1</span>
+            </li>
+            <li class="journal-item">
+                <a href="https://www.sciengine.com/ZA" target="_blank">
+                    Zoological Applications
+                </a>
+                <span class="journal-count">2</span>
+            </li>
         </ul>
 
 <script>
